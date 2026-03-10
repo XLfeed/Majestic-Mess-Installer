@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Textures/UI/crosshair118.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\ad\a5\ADA5CF5D9B430787
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 144x144
+Generated 8 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\ad\a5\ADA5CF5D9B430787.dds
+Output size: 13 KB
+Texture Compilation Completed Successfully

@@ -1,0 +1,9 @@
+{
+    "guid": "B124C7CD6A4E532E",
+    "sourceFilePath": "assets/3D Models/Map/Wizard room/wizardmap_Table_Cloth_Material.008.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "67C590A15E5D2B91"
+    ],
+    "properties": {}
+}

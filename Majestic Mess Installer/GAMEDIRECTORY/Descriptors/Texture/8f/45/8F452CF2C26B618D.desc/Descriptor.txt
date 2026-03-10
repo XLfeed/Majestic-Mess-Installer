@@ -1,0 +1,12 @@
+{
+    "guid": "8F452CF2C26B618D",
+    "sourceFilePath": "C:/ProgrammStuff/PanKek-GAM300/PanKek/assets/3D Models/Throne/Torch_Color.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

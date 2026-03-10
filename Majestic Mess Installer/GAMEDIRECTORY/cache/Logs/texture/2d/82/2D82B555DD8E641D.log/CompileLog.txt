@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets\Textures\castle_environment_textures\medievial_floor.png
+Output: ..\cache\Resources\texture\2d\82\2D82B555DD8E641D
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 4096x4096
+Generated 13 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: ..\cache\Resources\texture\2d\82\2D82B555DD8E641D.dds
+Output size: 10922 KB
+Texture Compilation Completed Successfully

@@ -1,0 +1,8 @@
+{
+    "guid": "93B8C9C2214851E8",
+    "name": "Untitled.002_Material.002",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

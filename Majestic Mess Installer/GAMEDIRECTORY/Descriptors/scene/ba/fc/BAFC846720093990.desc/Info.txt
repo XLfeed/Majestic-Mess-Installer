@@ -1,0 +1,8 @@
+{
+    "guid": "BAFC846720093990",
+    "name": "lose",
+    "comments": "",
+    "type": "Scene",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,9 @@
+{
+    "guid": "098C07AD98CE2E39",
+    "sourceFilePath": "../assets/Objects/Treasures/Untitled_Material.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "8D0A4BDC3D415BC5"
+    ],
+    "properties": {}
+}

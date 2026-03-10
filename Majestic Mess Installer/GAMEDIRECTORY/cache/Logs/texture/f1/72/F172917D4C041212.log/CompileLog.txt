@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ..\assets\3D Models\Knight_CustomEngine\Torso.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\f1\72\F172917D4C041212
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 34x34
+Generated 6 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\f1\72\F172917D4C041212.dds
+Output size: 1 KB
+Texture Compilation Completed Successfully

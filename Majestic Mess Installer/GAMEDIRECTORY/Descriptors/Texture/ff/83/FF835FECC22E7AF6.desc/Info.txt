@@ -1,0 +1,8 @@
+{
+    "guid": "FF835FECC22E7AF6",
+    "name": "Lantern",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

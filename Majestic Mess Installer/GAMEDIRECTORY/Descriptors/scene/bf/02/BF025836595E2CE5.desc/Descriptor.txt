@@ -1,0 +1,11 @@
+{
+    "guid": "BF025836595E2CE5",
+    "sourceFilePath": "assets/Scenes/win.scene",
+    "dependencies": [
+        "700BDA984AD94E82",
+        "5D3EACE5074382FE",
+        "C2D3E4F5A6070001",
+        "BF025836595E2CE5"
+    ],
+    "properties": {}
+}

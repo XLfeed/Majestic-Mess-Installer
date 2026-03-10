@@ -1,0 +1,8 @@
+{
+    "guid": "0AD97D6DE2ED4FDE",
+    "name": "Lantern_Untitled_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

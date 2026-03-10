@@ -1,0 +1,8 @@
+{
+    "guid": "A01C3A830D0ED66F",
+    "name": "Player_Foot.L_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

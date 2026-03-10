@@ -1,0 +1,12 @@
+{
+    "guid": "72A99428A7C741C7",
+    "sourceFilePath": "../assets/Textures/Environment/medievial_floor.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

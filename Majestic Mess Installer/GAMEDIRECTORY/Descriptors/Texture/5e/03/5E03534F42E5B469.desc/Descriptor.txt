@@ -1,0 +1,12 @@
+{
+    "guid": "5E03534F42E5B469",
+    "sourceFilePath": "../assets/Knight_CustomEngine/Head.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

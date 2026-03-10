@@ -1,0 +1,14 @@
+{
+    "guid": "1E9398D3C57B4E04",
+    "sourceFilePath": "../assets/Objects/Treasures/Treasure_small.obj",
+    "dependencies": [
+        "74826DF928B2012F"
+    ],
+    "properties": {
+        "flipUVs": "false",
+        "calculateTangents": "true",
+        "generateNormals": "false",
+        "materialCount": "1",
+        "materialName_0": "Untitled_Material"
+    }
+}

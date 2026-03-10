@@ -1,0 +1,9 @@
+{
+    "guid": "9A520BA6DB801541",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/NavmeshObjs_m5_Barrier_Wooden_Material.012.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "DE746715405DD619"
+    ],
+    "properties": {}
+}

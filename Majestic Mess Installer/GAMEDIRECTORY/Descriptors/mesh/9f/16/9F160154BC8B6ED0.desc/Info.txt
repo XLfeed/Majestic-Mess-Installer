@@ -1,0 +1,8 @@
+{
+    "guid": "9F160154BC8B6ED0",
+    "name": "wizardmap_celling",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

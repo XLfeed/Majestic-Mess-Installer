@@ -1,0 +1,8 @@
+{
+    "guid": "BB04C3DAA2C9664C",
+    "name": "Throne",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

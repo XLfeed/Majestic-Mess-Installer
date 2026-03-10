@@ -1,0 +1,1873 @@
+{
+    "entities": [
+        {
+            "name": "UIBaseController",
+            "id": 1,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "UIBaseController",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "ScriptComponent",
+                    "type_id": 9,
+                    "data": {
+                        "instances": [
+                            {
+                                "className": "UIBaseController",
+                                "instanceId": "D39F71152213FB36",
+                                "fieldValues": [
+                                    {
+                                        "fieldName": "exitKey",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "gameSceneName",
+                                        "fieldType": 17,
+                                        "stringValue": "TestLevel"
+                                    },
+                                    {
+                                        "fieldName": "loseKey",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "loseSceneName",
+                                        "fieldType": 17,
+                                        "stringValue": "LoseScene"
+                                    },
+                                    {
+                                        "fieldName": "menuKey",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "menuSceneName",
+                                        "fieldType": 17,
+                                        "stringValue": "MainMenu"
+                                    },
+                                    {
+                                        "fieldName": "mode",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "restartKey",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "settingKey",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "settingSceneName",
+                                        "fieldType": 17,
+                                        "stringValue": "SettingScene"
+                                    },
+                                    {
+                                        "fieldName": "startKey",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "winKey",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "winSceneName",
+                                        "fieldType": 17,
+                                        "stringValue": "WinScene"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "MainCamera",
+            "id": 3,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "MainCamera",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "CameraComponent",
+                    "type_id": 8,
+                    "data": {
+                        "isMainCamera": true,
+                        "Field of View": 60.0,
+                        "Near Plane": 0.10000000149011612,
+                        "Far Plane": 1000.0
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "AudioComponent",
+                    "type_id": 5,
+                    "data": {
+                        "instances": [
+                            {
+                                "soundFile": "E6F310DA5191B500",
+                                "volume": 0.0,
+                                "playOnStart": false,
+                                "shouldPlay": false,
+                                "shouldStop": false,
+                                "shouldPause": false,
+                                "mindist": 1.0,
+                                "maxdist": 18.0,
+                                "reverbEnabled": false,
+                                "reverbRoomSize": 0.699999988079071,
+                                "reverbDamping": 0.5,
+                                "reverbWetMix": 0.30000001192092896,
+                                "reverbDryMix": 0.699999988079071,
+                                "threeD": false,
+                                "loop": true,
+                                "instanceId": "ABAE29F527BDB1C3",
+                                "seconds": -1.0,
+                                "targetVol": -1.0,
+                                "startVol": -1.0
+                            }
+                        ],
+                        "audioLinks": 0
+                    }
+                }
+            ]
+        },
+        {
+            "name": "UI Canvas",
+            "id": 4,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "UI Canvas",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "CanvasComponent",
+                    "type_id": 12,
+                    "data": {
+                        "sortOrder": 0,
+                        "referenceResolution": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "scaleFactor": 0.3786458373069763,
+                        "pixelPerfect": false,
+                        "planeDistance": 100.0,
+                        "Render In Scene View": true,
+                        "Render In Game View": true
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "anchorMax": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchoredPosition": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "sizeDelta": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "name": "UI Panel",
+            "id": 5,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "UI Panel",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": -0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "1681FBD0AB4FB95D",
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "sliceBorder": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 0.0
+                        },
+                        "enabled": true
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "anchorMax": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchoredPosition": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "sizeDelta": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        }
+                    }
+                }
+            ],
+            "parentName": "UI Canvas",
+            "uiParentName": "UI Canvas"
+        },
+        {
+            "name": "UISFX",
+            "id": 6,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "UISFX",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "AudioComponent",
+                    "type_id": 5,
+                    "data": {
+                        "instances": [
+                            {
+                                "soundFile": "",
+                                "volume": 0.10000000149011612,
+                                "playOnStart": false,
+                                "shouldPlay": false,
+                                "shouldStop": false,
+                                "shouldPause": false,
+                                "mindist": 1.0,
+                                "maxdist": 18.0,
+                                "reverbEnabled": false,
+                                "reverbRoomSize": 0.699999988079071,
+                                "reverbDamping": 0.5,
+                                "reverbWetMix": 0.30000001192092896,
+                                "reverbDryMix": 0.699999988079071,
+                                "threeD": false,
+                                "loop": false,
+                                "instanceId": "D77AAE3DABFEE992",
+                                "seconds": -1.0,
+                                "targetVol": -1.0,
+                                "startVol": -1.0
+                            }
+                        ],
+                        "audioLinks": 0
+                    }
+                },
+                {
+                    "type": "ScriptComponent",
+                    "type_id": 9,
+                    "data": {
+                        "instances": [
+                            {
+                                "className": "UISFX",
+                                "instanceId": "9FA6A5CCC227B25E",
+                                "fieldValues": [
+                                    {
+                                        "fieldName": "moveClipPath",
+                                        "fieldType": 17,
+                                        "stringValue": "assets/Audio/SFX/UI/UI_Move_04.wav"
+                                    },
+                                    {
+                                        "fieldName": "selectClipPath",
+                                        "fieldType": 17,
+                                        "stringValue": "assets/Audio/SFX/UI/UI_Click_2_F.wav"
+                                    },
+                                    {
+                                        "fieldName": "settingDecreaseKey",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "settingIncreaseKey",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "sfxVolume",
+                                        "fieldType": 1,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            63,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "IncreaseVolumeButton",
+            "id": 7,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "IncreaseVolumeButton",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": -0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "ScriptComponent",
+                    "type_id": 9,
+                    "data": {
+                        "instances": [
+                            {
+                                "className": "MenuButton",
+                                "instanceId": "B1C2D3E4F5060001",
+                                "fieldValues": [
+                                    {
+                                        "fieldName": "isQuitButton",
+                                        "fieldType": 3,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "targetScene",
+                                        "fieldType": 17,
+                                        "stringValue": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": {
+                            "x": 0.20000000298023224,
+                            "y": 0.6000000238418579,
+                            "z": 0.20000000298023224,
+                            "w": 1.0
+                        },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "sliceBorder": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 0.0
+                        },
+                        "enabled": true
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 1.5,
+                            "y": 0.5
+                        },
+                        "anchorMax": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchoredPosition": {
+                            "x": -980.0,
+                            "y": -142.0
+                        },
+                        "sizeDelta": {
+                            "x": 1354.0,
+                            "y": 120.0
+                        },
+                        "sortOrder": 1
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 0.0
+                        }
+                    }
+                }
+            ],
+            "parentName": "UI Canvas",
+            "uiParentName": "UI Canvas"
+        },
+        {
+            "name": "DecreaseVolumeButton",
+            "id": 8,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "DecreaseVolumeButton",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": -0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "ScriptComponent",
+                    "type_id": 9,
+                    "data": {
+                        "instances": [
+                            {
+                                "className": "MenuButton",
+                                "instanceId": "B1C2D3E4F5060002",
+                                "fieldValues": [
+                                    {
+                                        "fieldName": "isQuitButton",
+                                        "fieldType": 3,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "targetScene",
+                                        "fieldType": 17,
+                                        "stringValue": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": {
+                            "x": 0.699999988079071,
+                            "y": 0.20000000298023224,
+                            "z": 0.20000000298023224,
+                            "w": 1.0
+                        },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "sliceBorder": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 0.0
+                        },
+                        "enabled": true
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 1.5,
+                            "y": 0.5
+                        },
+                        "anchorMax": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchoredPosition": {
+                            "x": -977.0,
+                            "y": -300.0
+                        },
+                        "sizeDelta": {
+                            "x": 1366.0,
+                            "y": 116.0
+                        },
+                        "sortOrder": 1
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 0.0
+                        }
+                    }
+                }
+            ],
+            "parentName": "UI Canvas",
+            "uiParentName": "UI Canvas"
+        },
+        {
+            "name": "MainMenuButton",
+            "id": 9,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "MainMenuButton",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": -0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "ScriptComponent",
+                    "type_id": 9,
+                    "data": {
+                        "instances": [
+                            {
+                                "className": "MenuButton",
+                                "instanceId": "B1C2D3E4F5060003",
+                                "fieldValues": [
+                                    {
+                                        "fieldName": "isQuitButton",
+                                        "fieldType": 3,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "targetScene",
+                                        "fieldType": 17,
+                                        "stringValue": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": {
+                            "x": 0.30000001192092896,
+                            "y": 0.30000001192092896,
+                            "z": 0.699999988079071,
+                            "w": 1.0
+                        },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "sliceBorder": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 0.0
+                        },
+                        "enabled": true
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 1.5,
+                            "y": 0.5
+                        },
+                        "anchorMax": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchoredPosition": {
+                            "x": -985.0,
+                            "y": -460.0
+                        },
+                        "sizeDelta": {
+                            "x": 1427.0,
+                            "y": 113.0
+                        },
+                        "sortOrder": 1
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 0.0
+                        }
+                    }
+                }
+            ],
+            "parentName": "UI Canvas",
+            "uiParentName": "UI Canvas"
+        },
+        {
+            "name": "MasterSliderTrack",
+            "id": 12,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "MasterSliderTrack",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": -0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "ScriptComponent",
+                    "type_id": 9,
+                    "data": {
+                        "instances": [
+                            {
+                                "className": "SettingsSlider",
+                                "instanceId": "4E003E8D0F50E02F",
+                                "fieldValues": [
+                                    {
+                                        "fieldName": "knobEntityName",
+                                        "fieldType": 17,
+                                        "stringValue": "MasterSliderKnob"
+                                    },
+                                    {
+                                        "fieldName": "labelEntityName",
+                                        "fieldType": 17,
+                                        "stringValue": ""
+                                    },
+                                    {
+                                        "fieldName": "trackEntityName",
+                                        "fieldType": 17,
+                                        "stringValue": "MasterSliderTrack"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "A4E4793CA98F11FF",
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "sliceBorder": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 0.0
+                        },
+                        "enabled": true
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchorMax": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchoredPosition": {
+                            "x": -137.0,
+                            "y": 100.0
+                        },
+                        "sizeDelta": {
+                            "x": 922.0,
+                            "y": 181.0
+                        },
+                        "sortOrder": 1
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        }
+                    }
+                }
+            ],
+            "parentName": "UI Canvas",
+            "uiParentName": "UI Canvas"
+        },
+        {
+            "name": "MasterSliderKnob",
+            "id": 13,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "MasterSliderKnob",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": -0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "A3D96C6EEB71367B",
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "sliceBorder": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 0.0
+                        },
+                        "enabled": true
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchorMax": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchoredPosition": {
+                            "x": -137.0,
+                            "y": 85.0
+                        },
+                        "sizeDelta": {
+                            "x": 200.0,
+                            "y": 140.0
+                        },
+                        "sortOrder": 1
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        }
+                    }
+                }
+            ],
+            "parentName": "UI Canvas",
+            "uiParentName": "UI Canvas"
+        },
+        {
+            "name": "GammaSliderTrack",
+            "id": 14,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "GammaSliderTrack",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": -0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "ScriptComponent",
+                    "type_id": 9,
+                    "data": {
+                        "instances": [
+                            {
+                                "className": "GammaSlider",
+                                "instanceId": "933146C713058560",
+                                "fieldValues": [
+                                    {
+                                        "fieldName": "knobEntityName",
+                                        "fieldType": 17,
+                                        "stringValue": "GammaSliderKnob"
+                                    },
+                                    {
+                                        "fieldName": "labelEntityName",
+                                        "fieldType": 17,
+                                        "stringValue": ""
+                                    },
+                                    {
+                                        "fieldName": "trackEntityName",
+                                        "fieldType": 17,
+                                        "stringValue": "GammaSliderTrack"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "A4E4793CA98F11FF",
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "sliceBorder": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 0.0
+                        },
+                        "enabled": true
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchorMax": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchoredPosition": {
+                            "x": -138.0,
+                            "y": -123.0
+                        },
+                        "sizeDelta": {
+                            "x": 922.0,
+                            "y": 181.0
+                        },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        }
+                    }
+                }
+            ],
+            "parentName": "UI Canvas",
+            "uiParentName": "UI Canvas"
+        },
+        {
+            "name": "GammaSliderKnob",
+            "id": 15,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "GammaSliderKnob",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": -0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "A3D96C6EEB71367B",
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "sliceBorder": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 0.0
+                        },
+                        "enabled": true
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchorMax": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchoredPosition": {
+                            "x": -45.79998779296875,
+                            "y": -121.0
+                        },
+                        "sizeDelta": {
+                            "x": 200.0,
+                            "y": 140.0
+                        },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        }
+                    }
+                }
+            ],
+            "parentName": "UI Canvas",
+            "uiParentName": "UI Canvas"
+        },
+        {
+            "name": "SensSliderTrack",
+            "id": 16,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "SensSliderTrack",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": -0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "ScriptComponent",
+                    "type_id": 9,
+                    "data": {
+                        "instances": [
+                            {
+                                "className": "MouseSensitivitySlider",
+                                "instanceId": "39589D2D5656B8C8",
+                                "fieldValues": [
+                                    {
+                                        "fieldName": "cameraEntityName",
+                                        "fieldType": 17,
+                                        "stringValue": "MainCamera"
+                                    },
+                                    {
+                                        "fieldName": "knobEntityName",
+                                        "fieldType": 17,
+                                        "stringValue": "SensSliderKnob"
+                                    },
+                                    {
+                                        "fieldName": "labelEntityName",
+                                        "fieldType": 17,
+                                        "stringValue": ""
+                                    },
+                                    {
+                                        "fieldName": "trackEntityName",
+                                        "fieldType": 17,
+                                        "stringValue": "SensSliderTrack"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "A4E4793CA98F11FF",
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "sliceBorder": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 0.0
+                        },
+                        "enabled": true
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchorMax": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchoredPosition": {
+                            "x": -138.0,
+                            "y": -314.0
+                        },
+                        "sizeDelta": {
+                            "x": 922.0,
+                            "y": 181.0
+                        },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        }
+                    }
+                }
+            ],
+            "parentName": "UI Canvas",
+            "uiParentName": "UI Canvas"
+        },
+        {
+            "name": "SensSliderKnob",
+            "id": 17,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "SensSliderKnob",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": -0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "A3D96C6EEB71367B",
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "sliceBorder": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 0.0
+                        },
+                        "enabled": true
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchorMax": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchoredPosition": {
+                            "x": -182.6840057373047,
+                            "y": -313.0
+                        },
+                        "sizeDelta": {
+                            "x": 200.0,
+                            "y": 140.0
+                        },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        }
+                    }
+                }
+            ],
+            "parentName": "UI Canvas",
+            "uiParentName": "UI Canvas"
+        }
+    ],
+    "count": 14,
+    "nextEntityID": 18,
+    "sceneGUID": "8FF3975E35CAB168",
+    "ambientLight": {
+        "r": 0.7599999904632568,
+        "g": 0.6588000059127808,
+        "b": 0.37599998712539673,
+        "intensity": 0.23000000417232513
+    },
+    "version": "1.0",
+    "serializer": "Engine::EntitySerializer"
+}

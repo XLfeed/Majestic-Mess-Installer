@@ -1,0 +1,12 @@
+{
+    "guid": "3718573742E96A31",
+    "sourceFilePath": "../assets/Textures/UI/money.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "guid": "2932C4B5AD8528F4",
+    "sourceFilePath": "assets/3D Models/Barrel/Barrel_Hideable.obj",
+    "dependencies": [
+        "C7BD2CD20EF163AA"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "Barrel_Hideable_Material.001",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

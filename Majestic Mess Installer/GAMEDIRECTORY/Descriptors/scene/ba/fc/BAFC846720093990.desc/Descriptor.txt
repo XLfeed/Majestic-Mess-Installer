@@ -1,0 +1,11 @@
+{
+    "guid": "BAFC846720093990",
+    "sourceFilePath": "assets/Scenes/lose.scene",
+    "dependencies": [
+        "D03DEB9A26683732",
+        "1838E8008DFD9C56",
+        "B1C2D3E4F5060001",
+        "BAFC846720093990"
+    ],
+    "properties": {}
+}

@@ -1,0 +1,12 @@
+{
+    "guid": "25DE292EF54D42BF",
+    "sourceFilePath": "../assets/Textures/Player_Hands/Hand.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

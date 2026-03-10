@@ -1,0 +1,8 @@
+{
+    "guid": "34568FF327207CCE",
+    "name": "playarea_Dummy_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

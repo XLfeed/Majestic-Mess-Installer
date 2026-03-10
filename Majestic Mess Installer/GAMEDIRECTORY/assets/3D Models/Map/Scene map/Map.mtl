@@ -1,0 +1,262 @@
+# Blender 5.0.1 MTL File: 'map_mergeall.blend'
+# www.blender.org
+
+newmtl Barrel_Material.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Barrel/Barrel.png
+
+newmtl Barrier_Wooden_Material.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Barrier/Barrier_Wooden/Barrier_Wooden.png
+
+newmtl Carpet_Material.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Carpet/Carpet_Color.002.png
+
+newmtl Crate_Material.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Crate/Crate.png
+
+newmtl Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/bryan/Desktop/Gam300/Texture/medievial_wall_grey_bright.png
+
+newmtl Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/bryan/Desktop/Gam300/Texture/medievial_wall_grey_bright.png
+
+newmtl Table_Cloth_Material.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Table_Cloth/Table_Cloth.png
+
+newmtl Table_No_Cloth_Material
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Table_No_Cloth/Table_No_Cloth.png
+
+newmtl Untitled_Material.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/ProgrammStuff/PanKek-GAM300/PanKek/assets/3D Models/Table_Cloth_White/Table_Cloth_White.png
+
+newmtl palette
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Kitchen/kitchen_shelf.png
+
+newmtl palette.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Window/medieval_window_interior.png
+
+newmtl palette.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Kitchen/medieval_kitchen_pot.png
+
+newmtl palette.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Kitchen/medieval_kitchen_table.png
+
+newmtl palette.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Kitchen/plate.png
+
+newmtl palette.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Kitchen/pan.png
+
+newmtl palette.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Kitchen/plate.png
+
+newmtl palette.008
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/ProgrammStuff/PanKek-GAM300/PanKek/assets/3D Models/Kitchen/medieval_kitchen_chair.png
+
+newmtl palette.009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/ProgrammStuff/PanKek-GAM300/PanKek/assets/3D Models/Kitchen/spoon.png
+
+newmtl palette.010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/ProgrammStuff/PanKek-GAM300/PanKek/assets/3D Models/Kitchen/spoon.png
+
+newmtl palette.011
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/ProgrammStuff/PanKek-GAM300/PanKek/assets/3D Models/Kitchen/mug.png
+
+newmtl palette.012
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Bedroom/guard_bed.png
+
+newmtl palette.013
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Library/medieval_library_bookshelf.png
+
+newmtl palette.014
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Library/medieval_library_stackofbooks.png
+
+newmtl palette.015
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/Barracks/sword_rack.png
+
+newmtl palette.016
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/ThroneRoom/Throne.png
+
+newmtl palette.017
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/bryan/Desktop/Gam300/Exports/Objects/ThroneRoom/ThroneRoom-Door.png

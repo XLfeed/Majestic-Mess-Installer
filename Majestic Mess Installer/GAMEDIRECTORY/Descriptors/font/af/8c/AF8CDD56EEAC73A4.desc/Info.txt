@@ -1,0 +1,8 @@
+{
+    "guid": "AF8CDD56EEAC73A4",
+    "name": "HappyMonkey-Regular",
+    "comments": "",
+    "type": "Font",
+    "virtualPath": [],
+    "links": []
+}

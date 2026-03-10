@@ -1,0 +1,8 @@
+{
+    "guid": "5EA762772337CA9D",
+    "name": "Dummy_Dummy_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

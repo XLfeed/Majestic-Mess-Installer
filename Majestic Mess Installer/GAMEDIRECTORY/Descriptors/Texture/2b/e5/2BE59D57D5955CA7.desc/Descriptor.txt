@@ -1,0 +1,12 @@
+{
+    "guid": "2BE59D57D5955CA7",
+    "sourceFilePath": "../assets/Textures/Bounty_List/Scuff_method_2.jpg",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

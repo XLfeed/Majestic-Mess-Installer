@@ -1,0 +1,9 @@
+{
+    "guid": "66D829273497700F",
+    "sourceFilePath": "../assets/3D Models/Library/medieval_library_stackofbooks_palette.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "240D2F5A5BF6F39B"
+    ],
+    "properties": {}
+}

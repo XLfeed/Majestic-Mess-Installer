@@ -1,0 +1,14 @@
+{
+    "guid": "FBF4DF09D7C89513",
+    "sourceFilePath": "../assets/3D Models/Treasures/Treasure_2.obj",
+    "dependencies": [
+        "80CBFDEB55CE896E"
+    ],
+    "properties": {
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false",
+        "materialCount": "1",
+        "materialName_0": "Treasure_2_Untitled_Material.001"
+    }
+}

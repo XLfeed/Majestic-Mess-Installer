@@ -1,0 +1,9 @@
+{
+    "guid": "A8E4AF25F97B3FB9",
+    "sourceFilePath": "assets/3D Models/Knight_CustomEngine/Knight_Torso_Material.mat",
+    "dependencies": [
+        "387A31872CF54AFF",
+        "F172917D4C041212"
+    ],
+    "properties": {}
+}

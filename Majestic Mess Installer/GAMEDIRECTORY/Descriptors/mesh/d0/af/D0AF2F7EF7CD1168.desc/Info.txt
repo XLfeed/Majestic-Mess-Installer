@@ -1,0 +1,8 @@
+{
+    "guid": "D0AF2F7EF7CD1168",
+    "name": "medieval_library_bookshelf",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

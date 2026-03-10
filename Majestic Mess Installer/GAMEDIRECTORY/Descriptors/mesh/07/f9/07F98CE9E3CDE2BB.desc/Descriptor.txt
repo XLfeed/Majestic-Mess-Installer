@@ -1,0 +1,15 @@
+{
+    "guid": "07F98CE9E3CDE2BB",
+    "sourceFilePath": "assets/3D Models/Throne/Torch.obj",
+    "dependencies": [
+        "413B43691D44B461"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "Torch_Material",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

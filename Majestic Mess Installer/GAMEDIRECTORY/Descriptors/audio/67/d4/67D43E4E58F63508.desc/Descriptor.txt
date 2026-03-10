@@ -1,0 +1,6 @@
+{
+    "guid": "67D43E4E58F63508",
+    "sourceFilePath": "../assets/Audio/SFX/Disobey Layer2&3 Stealth&Curious 2 Tweaks.wav",
+    "dependencies": [],
+    "properties": {}
+}

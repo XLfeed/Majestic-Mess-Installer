@@ -1,0 +1,8 @@
+{
+    "guid": "4614C0064906893B",
+    "name": "upscaled_128",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

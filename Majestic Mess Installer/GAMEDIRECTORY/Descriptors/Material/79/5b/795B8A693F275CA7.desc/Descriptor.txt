@@ -1,0 +1,9 @@
+{
+    "guid": "795B8A693F275CA7",
+    "sourceFilePath": "../assets/3D Models/Library/medieval_library_bookshelf_palette.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "2B68FB2E9BA07997"
+    ],
+    "properties": {}
+}

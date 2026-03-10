@@ -1,0 +1,8 @@
+{
+    "guid": "F1894C0A2D151B94",
+    "name": "spoon_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,14 @@
+{
+    "guid": "5D0CFCF226DEB7EA",
+    "sourceFilePath": "../assets/Objects/Treasures/Treasure_1.obj",
+    "dependencies": [
+        "A95C5E0FABFC2228"
+    ],
+    "properties": {
+        "flipUVs": "false",
+        "calculateTangents": "true",
+        "generateNormals": "false",
+        "materialCount": "1",
+        "materialName_0": "Treasure_1_Material.002"
+    }
+}

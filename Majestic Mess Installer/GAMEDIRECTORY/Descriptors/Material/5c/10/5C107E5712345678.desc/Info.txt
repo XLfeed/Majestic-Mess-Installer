@@ -1,0 +1,8 @@
+{
+    "guid": "5C107E5712345678",
+    "name": "SkinnedMesh_Test",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

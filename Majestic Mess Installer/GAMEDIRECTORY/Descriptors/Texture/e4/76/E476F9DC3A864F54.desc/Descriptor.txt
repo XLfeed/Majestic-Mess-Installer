@@ -1,0 +1,12 @@
+{
+    "guid": "E476F9DC3A864F54",
+    "sourceFilePath": "../assets/3D Models/Extraction/medieval_portal_glow.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

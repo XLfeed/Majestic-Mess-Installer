@@ -1,0 +1,8 @@
+{
+    "guid": "CD43570598CC7417",
+    "name": "Environmnt_m5_palette.028",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

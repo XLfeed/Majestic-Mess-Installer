@@ -1,0 +1,12 @@
+{
+    "guid": "6FF7120D97ECBB35",
+    "sourceFilePath": "../assets/Textures/UI/skill_scroll of cinder_border 1.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC7_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "false",
+        "sRGB": "true"
+    }
+}

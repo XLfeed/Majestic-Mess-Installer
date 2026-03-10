@@ -1,0 +1,8 @@
+{
+    "guid": "4C2A44F0E4B30D36",
+    "name": "playarea_Crate_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

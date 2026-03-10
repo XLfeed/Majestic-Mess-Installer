@@ -1,0 +1,8 @@
+{
+    "guid": "FE4BE6D0D90A5647",
+    "name": "sword_rack",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,8 @@
+{
+    "guid": "F8BAC9EE6A94844C",
+    "name": "kitchen_shelf_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,12 @@
+{
+    "guid": "3F10EC68D8295B48",
+    "sourceFilePath": "../assets/Knight_CustomEngine/Sword.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

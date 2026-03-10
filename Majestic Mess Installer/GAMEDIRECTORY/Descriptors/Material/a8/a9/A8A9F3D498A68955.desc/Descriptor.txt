@@ -1,0 +1,9 @@
+{
+    "guid": "A8A9F3D498A68955",
+    "sourceFilePath": "../assets/Enemies/Knight/Knight_Knight_Material.004.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "66E4B05F8D7EF66E"
+    ],
+    "properties": {}
+}

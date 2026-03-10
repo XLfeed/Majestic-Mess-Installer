@@ -1,0 +1,15 @@
+{
+    "guid": "0A76F482FE8B4A0A",
+    "sourceFilePath": "assets/3D Models/Throne/ThroneRoom-Door.obj",
+    "dependencies": [
+        "0EF65AA445AC3953"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "palette",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

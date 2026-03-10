@@ -1,0 +1,8 @@
+{
+    "guid": "80CBFDEB55CE896E",
+    "name": "Treasure_2_Untitled_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

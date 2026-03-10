@@ -1,0 +1,15 @@
+{
+    "guid": "FBD97D9F0E3CA4E6",
+    "sourceFilePath": "assets/3D Models/Barrel/Barrel_Hideable_Player.obj",
+    "dependencies": [
+        "6ACA5707D0BBB7E2"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "Barrel_Hideable_Player_Material",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "guid": "9051549A300E53B5",
+    "name": "playarea_Barrel_Material.002",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

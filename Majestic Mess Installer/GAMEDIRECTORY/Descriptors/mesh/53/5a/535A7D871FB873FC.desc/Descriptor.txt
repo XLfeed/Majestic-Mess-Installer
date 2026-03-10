@@ -1,0 +1,15 @@
+{
+    "guid": "535A7D871FB873FC",
+    "sourceFilePath": "assets/3D Models/Kitchen/medieval_kitchen_pot.obj",
+    "dependencies": [
+        "4524AB295F806003"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "palette",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

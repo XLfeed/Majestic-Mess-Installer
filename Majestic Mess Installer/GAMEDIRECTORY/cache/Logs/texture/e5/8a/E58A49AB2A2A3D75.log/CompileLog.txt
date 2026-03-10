@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets\3D Models\TEst\Arm.R.png
+Output: ..\cache\Resources\texture\e5\8a\E58A49AB2A2A3D75
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 15x15
+Generated 4 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: ..\cache\Resources\texture\e5\8a\E58A49AB2A2A3D75.dds
+Output size: 0 KB
+Texture Compilation Completed Successfully

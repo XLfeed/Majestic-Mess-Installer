@@ -1,0 +1,9 @@
+Scene Compilation Started
+Source: ../assets\Scenes\coll.scene
+Output: ..\cache\Resources\scene\8e\b4\8EB4D8CA0C8DB859.scene
+Loaded JSON: 12143 bytes
+JSON validation passed
+Original size: 12143 bytes
+Compressed size: 1651 bytes
+Compression ratio: 7.354937x
+Scene Compilation Completed Successfully

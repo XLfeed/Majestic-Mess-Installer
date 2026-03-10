@@ -1,0 +1,8 @@
+{
+    "guid": "0CAA8CB9352E4D8D",
+    "name": "kaibase",
+    "comments": "",
+    "type": "Scene",
+    "virtualPath": [],
+    "links": []
+}

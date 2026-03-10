@@ -1,0 +1,12 @@
+{
+    "guid": "A8B5B6232AE5ECEB",
+    "sourceFilePath": "../assets/3D Models/Carpet/Carpet_Color.002.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

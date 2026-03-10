@@ -1,0 +1,8 @@
+{
+    "guid": "07F98CE9E3CDE2BB",
+    "name": "Torch",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

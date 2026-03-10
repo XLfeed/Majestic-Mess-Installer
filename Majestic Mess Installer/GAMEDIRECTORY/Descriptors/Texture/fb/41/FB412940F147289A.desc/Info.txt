@@ -1,0 +1,8 @@
+{
+    "guid": "FB412940F147289A",
+    "name": "mug",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

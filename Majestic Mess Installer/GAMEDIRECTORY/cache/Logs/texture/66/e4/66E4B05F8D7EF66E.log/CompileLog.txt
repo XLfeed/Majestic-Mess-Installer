@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Enemies/Knight/Knight.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\66\e4\66E4B05F8D7EF66E
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 49x49
+Generated 6 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\66\e4\66E4B05F8D7EF66E.dds
+Output size: 1 KB
+Texture Compilation Completed Successfully

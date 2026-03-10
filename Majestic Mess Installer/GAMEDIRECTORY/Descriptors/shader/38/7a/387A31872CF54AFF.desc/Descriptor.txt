@@ -1,0 +1,9 @@
+{
+    "guid": "387A31872CF54AFF",
+    "sourceFilePath": "../assets/Shaders/skinned.shader",
+    "dependencies": [],
+    "properties": {
+        "vertexShader": "skinned_lit.vert",
+        "fragmentShader": "skinned_lit.frag"
+    }
+}

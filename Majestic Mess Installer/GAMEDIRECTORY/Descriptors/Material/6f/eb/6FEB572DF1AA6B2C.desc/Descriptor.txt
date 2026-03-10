@@ -1,0 +1,9 @@
+{
+    "guid": "6FEB572DF1AA6B2C",
+    "sourceFilePath": "../assets/3D Models/Table_No_Cloth/Table_No_Cloth_Table_No_Cloth_Material.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "4057F9DC668BF193"
+    ],
+    "properties": {}
+}

@@ -1,0 +1,8 @@
+{
+    "guid": "E7AAAE2F4052F042",
+    "name": "basic_sparkle",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

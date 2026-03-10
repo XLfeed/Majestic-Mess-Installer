@@ -1,0 +1,15 @@
+{
+    "guid": "FE4BE6D0D90A5647",
+    "sourceFilePath": "assets/3D Models/Barracks/sword_rack.obj",
+    "dependencies": [
+        "7E411C543521F0CF"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "palette",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

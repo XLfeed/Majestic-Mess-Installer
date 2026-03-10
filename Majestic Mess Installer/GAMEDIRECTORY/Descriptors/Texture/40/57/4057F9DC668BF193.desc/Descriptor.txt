@@ -1,0 +1,12 @@
+{
+    "guid": "4057F9DC668BF193",
+    "sourceFilePath": "../assets/Objects/Table_No_Cloth/Table_No_Cloth.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC5_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "false"
+    }
+}

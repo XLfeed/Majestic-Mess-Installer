@@ -1,0 +1,15 @@
+{
+    "guid": "0A2B563A5D06C3CF",
+    "sourceFilePath": "assets/3D Models/Kitchen/pan.obj",
+    "dependencies": [
+        "9C2AD095E9CC7F63"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "palette",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

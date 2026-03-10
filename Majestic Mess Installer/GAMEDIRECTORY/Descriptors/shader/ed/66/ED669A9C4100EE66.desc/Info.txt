@@ -1,0 +1,8 @@
+{
+    "guid": "ED669A9C4100EE66",
+    "name": "pbrLit",
+    "comments": "",
+    "type": "Shader",
+    "virtualPath": [],
+    "links": []
+}

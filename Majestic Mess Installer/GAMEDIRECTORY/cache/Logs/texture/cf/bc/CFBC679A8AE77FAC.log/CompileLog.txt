@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Knight_CustomEngine/Shoulder.R.png
+Output: ..\cache\Resources\texture\cf\bc\CFBC679A8AE77FAC
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 15x15
+Generated 4 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: ..\cache\Resources\texture\cf\bc\CFBC679A8AE77FAC.dds
+Output size: 0 KB
+Texture Compilation Completed Successfully

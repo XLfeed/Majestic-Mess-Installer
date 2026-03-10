@@ -1,0 +1,8 @@
+{
+    "guid": "DDAAA31240C768E5",
+    "name": "Cape",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

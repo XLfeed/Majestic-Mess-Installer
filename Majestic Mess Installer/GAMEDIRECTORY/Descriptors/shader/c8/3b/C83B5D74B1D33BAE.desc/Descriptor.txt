@@ -1,0 +1,9 @@
+{
+    "guid": "C83B5D74B1D33BAE",
+    "sourceFilePath": "../assets/Shaders/unlit.shader",
+    "dependencies": [],
+    "properties": {
+        "vertexShader": "unlit.vert",
+        "fragmentShader": "unlit.frag"
+    }
+}

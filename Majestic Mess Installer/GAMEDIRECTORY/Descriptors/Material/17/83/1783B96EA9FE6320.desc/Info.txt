@@ -1,0 +1,8 @@
+{
+    "guid": "1783B96EA9FE6320",
+    "name": "NavmeshObjs_m5_Barrel_Material.056",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

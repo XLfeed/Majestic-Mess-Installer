@@ -1,0 +1,8 @@
+{
+    "guid": "0690CF76FBFECBAC",
+    "name": "Forearm.R",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,8 @@
+{
+    "guid": "12980A30F6A8A215",
+    "name": "screen_gamma",
+    "comments": "",
+    "type": "Shader",
+    "virtualPath": [],
+    "links": []
+}

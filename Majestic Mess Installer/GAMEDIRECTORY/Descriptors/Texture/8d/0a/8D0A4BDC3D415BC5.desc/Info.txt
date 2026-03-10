@@ -1,0 +1,8 @@
+{
+    "guid": "8D0A4BDC3D415BC5",
+    "name": "Treasure_small",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

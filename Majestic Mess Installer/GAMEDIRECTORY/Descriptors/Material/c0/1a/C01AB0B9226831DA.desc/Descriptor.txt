@@ -1,0 +1,9 @@
+{
+    "guid": "C01AB0B9226831DA",
+    "sourceFilePath": "assets/Textures/Player/Player_Shoulder.R_Material.mat",
+    "dependencies": [
+        "387A31872CF54AFF",
+        "425984BB844B7E3B"
+    ],
+    "properties": {}
+}

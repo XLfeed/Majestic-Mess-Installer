@@ -1,0 +1,12 @@
+{
+    "guid": "66E4B05F8D7EF66E",
+    "sourceFilePath": "../assets/Enemies/Knight/Knight.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

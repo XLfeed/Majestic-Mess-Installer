@@ -1,0 +1,8 @@
+{
+    "guid": "BDD9E1475A7E1B31",
+    "name": "plate",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

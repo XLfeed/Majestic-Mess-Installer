@@ -1,0 +1,8 @@
+{
+    "guid": "B9391694125CE974",
+    "name": "qwantani_morning_puresky_4k",
+    "comments": "",
+    "type": "Cubemap",
+    "virtualPath": [],
+    "links": []
+}

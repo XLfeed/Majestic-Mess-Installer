@@ -1,0 +1,13 @@
+{
+    "guid": "C7D9355AE76B4B6C",
+    "sourceFilePath": "assets/Scenes/main_menu.scene",
+    "dependencies": [
+        "6AA1460620772B76",
+        "BDD40D9474BA9DEA",
+        "A1B2C3D4E5F60001",
+        "A1B2C3D4E5F60002",
+        "A1B2C3D4E5F60003",
+        "C7D9355AE76B4B6C"
+    ],
+    "properties": {}
+}

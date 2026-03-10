@@ -1,0 +1,8 @@
+{
+    "guid": "2B68FB2E9BA07997",
+    "name": "medieval_library_bookshelf",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

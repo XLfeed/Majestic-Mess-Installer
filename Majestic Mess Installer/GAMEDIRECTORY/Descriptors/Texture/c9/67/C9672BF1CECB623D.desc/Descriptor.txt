@@ -1,0 +1,12 @@
+{
+    "guid": "C9672BF1CECB623D",
+    "sourceFilePath": "../assets/Textures/UI/exmark.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

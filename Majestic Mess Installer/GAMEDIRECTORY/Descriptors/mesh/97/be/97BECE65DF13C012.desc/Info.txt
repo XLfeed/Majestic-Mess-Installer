@@ -1,0 +1,8 @@
+{
+    "guid": "97BECE65DF13C012",
+    "name": "guard_bed",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

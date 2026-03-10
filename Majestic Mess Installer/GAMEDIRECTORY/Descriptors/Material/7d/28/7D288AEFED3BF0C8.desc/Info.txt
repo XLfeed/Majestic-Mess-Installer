@@ -1,0 +1,8 @@
+{
+    "guid": "7D288AEFED3BF0C8",
+    "name": "wizardmap_Crate_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

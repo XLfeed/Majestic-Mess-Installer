@@ -1,0 +1,8 @@
+{
+    "guid": "FBF4DF09D7C89513",
+    "name": "Treasure_2",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

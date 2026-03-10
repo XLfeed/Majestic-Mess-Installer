@@ -1,0 +1,12 @@
+{
+    "guid": "0690CF76FBFECBAC",
+    "sourceFilePath": "../assets/Textures/Player/Forearm.R.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

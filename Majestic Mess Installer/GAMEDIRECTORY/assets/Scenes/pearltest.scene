@@ -1,0 +1,222 @@
+{
+    "entities": [
+        {
+            "name": "UI Canvas",
+            "id": 3,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "UI Canvas",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "CanvasComponent",
+                    "type_id": 12,
+                    "data": {
+                        "sortOrder": 0,
+                        "referenceResolution": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "scaleFactor": 0.5333333611488342,
+                        "pixelPerfect": false,
+                        "planeDistance": 100.0,
+                        "Render In Scene View": true,
+                        "Render In Game View": true
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "anchorMax": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchoredPosition": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "sizeDelta": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "name": "UI Panel",
+            "id": 4,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "UI Panel",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": -0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "ScriptComponent",
+                    "type_id": 9,
+                    "data": {
+                        "instances": [
+                            {
+                                "className": "UIButtonTest",
+                                "instanceId": "BF868300F3646675",
+                                "fieldValues": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "anchorMax": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchoredPosition": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "sizeDelta": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        }
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": {
+                            "x": 1.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 1.0
+                        },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "sliceBorder": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 0.0
+                        },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "UI Canvas",
+            "uiParentName": "UI Canvas"
+        }
+    ],
+    "count": 2,
+    "nextEntityID": 5,
+    "sceneGUID": "A8B598C8CE6BA968",
+    "version": "1.0",
+    "serializer": "Engine::EntitySerializer"
+}

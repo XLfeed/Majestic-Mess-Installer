@@ -1,0 +1,8 @@
+{
+    "guid": "DBF86A283CA43291",
+    "name": "test",
+    "comments": "",
+    "type": "Shader",
+    "virtualPath": [],
+    "links": []
+}

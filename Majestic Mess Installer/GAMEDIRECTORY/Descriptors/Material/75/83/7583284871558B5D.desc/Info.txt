@@ -1,0 +1,8 @@
+{
+    "guid": "7583284871558B5D",
+    "name": "Thigh.L_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

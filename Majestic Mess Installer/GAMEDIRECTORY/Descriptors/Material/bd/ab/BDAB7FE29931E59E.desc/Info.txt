@@ -1,0 +1,8 @@
+{
+    "guid": "BDAB7FE29931E59E",
+    "name": "playarea_Barrier_Wooden_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

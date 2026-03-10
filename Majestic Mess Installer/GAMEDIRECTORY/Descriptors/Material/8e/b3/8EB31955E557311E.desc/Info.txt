@@ -1,0 +1,8 @@
+{
+    "guid": "8EB31955E557311E",
+    "name": "Player_Foot.R_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

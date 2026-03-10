@@ -1,0 +1,8 @@
+{
+    "guid": "FCC23A1A808784BA",
+    "name": "kitchen_shelf",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

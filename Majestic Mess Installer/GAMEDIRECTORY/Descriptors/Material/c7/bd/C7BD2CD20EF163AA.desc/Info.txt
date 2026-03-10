@@ -1,0 +1,8 @@
+{
+    "guid": "C7BD2CD20EF163AA",
+    "name": "Barrel_Hideable_Barrel_Hideable_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

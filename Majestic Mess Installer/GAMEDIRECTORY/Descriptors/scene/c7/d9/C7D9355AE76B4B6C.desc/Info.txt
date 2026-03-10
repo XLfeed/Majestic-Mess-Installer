@@ -1,0 +1,8 @@
+{
+    "guid": "C7D9355AE76B4B6C",
+    "name": "main_menu",
+    "comments": "",
+    "type": "Scene",
+    "virtualPath": [],
+    "links": []
+}

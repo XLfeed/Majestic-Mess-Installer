@@ -1,0 +1,8 @@
+{
+    "guid": "A26CB449222F81B2",
+    "name": "Throne_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

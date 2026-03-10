@@ -1,0 +1,8 @@
+{
+    "guid": "7B0FCDFD8BAACFBA",
+    "name": "Thigh.L",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

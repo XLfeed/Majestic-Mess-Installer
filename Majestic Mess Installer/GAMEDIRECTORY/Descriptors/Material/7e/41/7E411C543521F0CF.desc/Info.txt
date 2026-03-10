@@ -1,0 +1,8 @@
+{
+    "guid": "7E411C543521F0CF",
+    "name": "sword_rack_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

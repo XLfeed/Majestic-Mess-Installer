@@ -1,0 +1,8 @@
+{
+    "guid": "FBD97D9F0E3CA4E6",
+    "name": "Barrel_Hideable_Player",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

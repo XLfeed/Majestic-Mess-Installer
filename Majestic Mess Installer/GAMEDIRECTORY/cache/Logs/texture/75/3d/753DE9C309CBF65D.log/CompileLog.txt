@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/3D Models/Kitchen/kitchen_shelf.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\75\3d\753DE9C309CBF65D
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 256x1
+Generated 9 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\75\3d\753DE9C309CBF65D.dds
+Output size: 1 KB
+Texture Compilation Completed Successfully

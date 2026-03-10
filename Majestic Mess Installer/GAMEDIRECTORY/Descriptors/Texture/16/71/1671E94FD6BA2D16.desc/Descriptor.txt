@@ -1,0 +1,12 @@
+{
+    "guid": "1671E94FD6BA2D16",
+    "sourceFilePath": "assets/Textures/UI/Slider/UI_Options_Scroller.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC3_UNORM_SRGB",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

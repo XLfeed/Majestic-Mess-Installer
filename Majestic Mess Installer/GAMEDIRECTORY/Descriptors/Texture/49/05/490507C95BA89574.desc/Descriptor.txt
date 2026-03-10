@@ -1,0 +1,12 @@
+{
+    "guid": "490507C95BA89574",
+    "sourceFilePath": "../assets/Textures/UI/emerald_icon.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

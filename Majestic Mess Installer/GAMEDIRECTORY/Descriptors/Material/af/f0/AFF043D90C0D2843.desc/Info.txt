@@ -1,0 +1,8 @@
+{
+    "guid": "AFF043D90C0D2843",
+    "name": "portal_pink_palette.009",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

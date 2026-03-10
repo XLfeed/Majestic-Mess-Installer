@@ -1,0 +1,8 @@
+{
+    "guid": "065934314EDE0A36",
+    "name": "Map_Carpet_Material.002",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

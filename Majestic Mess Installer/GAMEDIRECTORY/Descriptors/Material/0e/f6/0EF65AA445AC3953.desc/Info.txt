@@ -1,0 +1,8 @@
+{
+    "guid": "0EF65AA445AC3953",
+    "name": "ThroneRoom-Door_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

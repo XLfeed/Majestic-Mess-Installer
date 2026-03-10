@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Textures/Treasure_3/PhoneScreen_SpriteSheet.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\45\73\45739B3B21AC3AD4
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 256x64
+Generated 9 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\45\73\45739B3B21AC3AD4.dds
+Output size: 10 KB
+Texture Compilation Completed Successfully

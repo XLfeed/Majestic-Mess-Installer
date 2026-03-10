@@ -1,0 +1,8 @@
+{
+    "guid": "CC8185ADBF961AD8",
+    "name": "Footstep_Player_Walk_12",
+    "comments": "",
+    "type": "Audio",
+    "virtualPath": [],
+    "links": []
+}

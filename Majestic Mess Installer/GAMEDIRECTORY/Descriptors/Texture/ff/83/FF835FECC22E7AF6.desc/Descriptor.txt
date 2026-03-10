@@ -1,0 +1,12 @@
+{
+    "guid": "FF835FECC22E7AF6",
+    "sourceFilePath": "../assets/3D Models/Lighting/Lantern.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

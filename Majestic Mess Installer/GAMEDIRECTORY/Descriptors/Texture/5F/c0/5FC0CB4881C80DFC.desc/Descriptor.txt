@@ -1,0 +1,12 @@
+{
+    "guid": "5FC0CB4881C80DFC",
+    "sourceFilePath": "../assets/Textures/Environment/medievial_ceiling_beam.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

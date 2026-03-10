@@ -1,0 +1,8 @@
+{
+    "guid": "65C595AE75DDF0B2",
+    "name": "plate",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

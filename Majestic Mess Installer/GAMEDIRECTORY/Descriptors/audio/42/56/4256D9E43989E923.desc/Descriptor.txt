@@ -1,0 +1,6 @@
+{
+    "guid": "4256D9E43989E923",
+    "sourceFilePath": "../assets/Audio/SFX/Scroll_Open.wav",
+    "dependencies": [],
+    "properties": {}
+}

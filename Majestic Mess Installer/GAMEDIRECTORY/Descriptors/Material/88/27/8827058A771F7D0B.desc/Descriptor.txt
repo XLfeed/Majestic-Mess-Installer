@@ -1,0 +1,9 @@
+{
+    "guid": "8827058A771F7D0B",
+    "sourceFilePath": "assets/3D Models/Map/Wizard room/wizardmap_palette.041.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "753DE9C309CBF65D"
+    ],
+    "properties": {}
+}

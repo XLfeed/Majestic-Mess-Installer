@@ -1,0 +1,8 @@
+{
+    "guid": "67C590A15E5D2B91",
+    "name": "Table_Cloth",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

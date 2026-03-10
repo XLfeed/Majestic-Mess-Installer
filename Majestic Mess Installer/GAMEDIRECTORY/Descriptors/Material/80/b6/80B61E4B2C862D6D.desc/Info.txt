@@ -1,0 +1,8 @@
+{
+    "guid": "80B61E4B2C862D6D",
+    "name": "Shoulder.L_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

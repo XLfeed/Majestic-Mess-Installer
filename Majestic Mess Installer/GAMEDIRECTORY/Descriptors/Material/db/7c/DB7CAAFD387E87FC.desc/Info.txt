@@ -1,0 +1,8 @@
+{
+    "guid": "DB7CAAFD387E87FC",
+    "name": "Map_palette.008",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

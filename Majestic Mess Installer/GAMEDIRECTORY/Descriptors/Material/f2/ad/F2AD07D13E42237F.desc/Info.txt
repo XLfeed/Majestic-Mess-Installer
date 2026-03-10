@@ -1,0 +1,8 @@
+{
+    "guid": "F2AD07D13E42237F",
+    "name": "floor_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

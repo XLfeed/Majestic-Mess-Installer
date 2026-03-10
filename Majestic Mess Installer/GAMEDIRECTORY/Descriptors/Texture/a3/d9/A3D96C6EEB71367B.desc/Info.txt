@@ -1,0 +1,8 @@
+{
+    "guid": "A3D96C6EEB71367B",
+    "name": "UI_Options_slider_button",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

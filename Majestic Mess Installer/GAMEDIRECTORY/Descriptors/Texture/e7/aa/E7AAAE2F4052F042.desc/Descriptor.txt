@@ -1,0 +1,12 @@
+{
+    "guid": "E7AAAE2F4052F042",
+    "sourceFilePath": "../assets/Textures/basic_sparkle.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC3_UNORM_SRGB",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

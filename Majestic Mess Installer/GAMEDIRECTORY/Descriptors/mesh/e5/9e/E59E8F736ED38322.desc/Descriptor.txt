@@ -1,0 +1,15 @@
+{
+    "guid": "E59E8F736ED38322",
+    "sourceFilePath": "assets/3D Models/Window/medieval_window_interior.obj",
+    "dependencies": [
+        "C7E4FADEF5275E9B"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "palette",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "guid": "800F603742146CB9",
+    "name": "game_over",
+    "comments": "",
+    "type": "Scene",
+    "virtualPath": [],
+    "links": []
+}

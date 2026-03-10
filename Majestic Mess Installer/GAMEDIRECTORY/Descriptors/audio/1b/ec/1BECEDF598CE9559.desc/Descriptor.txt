@@ -1,0 +1,6 @@
+{
+    "guid": "1BECEDF598CE9559",
+    "sourceFilePath": "../assets/Audio/SFX/Footsteps_Enemy_06.wav",
+    "dependencies": [],
+    "properties": {}
+}

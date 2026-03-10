@@ -1,0 +1,8 @@
+{
+    "guid": "D93F35A07C19CB7B",
+    "sourceFilePath": "../assets/3D Models/Map/Scene map/Map_DefaultMaterial.mat",
+    "dependencies": [
+        "B2B91947C3628F0D"
+    ],
+    "properties": {}
+}

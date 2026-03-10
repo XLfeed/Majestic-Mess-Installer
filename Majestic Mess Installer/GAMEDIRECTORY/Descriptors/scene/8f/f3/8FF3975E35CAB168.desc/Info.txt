@@ -1,0 +1,8 @@
+{
+    "guid": "8FF3975E35CAB168",
+    "name": "settings",
+    "comments": "",
+    "type": "Scene",
+    "virtualPath": [],
+    "links": []
+}

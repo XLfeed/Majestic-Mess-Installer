@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Textures/Bounty_List/Circle.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\e5\53\E553104C46F5FD85
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 256x256
+Generated 9 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\e5\53\E553104C46F5FD85.dds
+Output size: 42 KB
+Texture Compilation Completed Successfully

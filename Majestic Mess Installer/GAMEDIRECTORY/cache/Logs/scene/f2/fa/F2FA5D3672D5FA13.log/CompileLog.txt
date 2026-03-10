@@ -1,0 +1,10 @@
+Scene Compilation Started
+Source: ../assets/Scenes/particle.scene
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\scene\f2\fa\F2FA5D3672D5FA13.scene
+Loaded JSON: 261177 bytes
+JSON validation passed
+Found 99 dependencies
+Original size: 261177 bytes
+Compressed size: 16298 bytes
+Compression ratio: 16.025095x
+Scene Compilation Completed Successfully

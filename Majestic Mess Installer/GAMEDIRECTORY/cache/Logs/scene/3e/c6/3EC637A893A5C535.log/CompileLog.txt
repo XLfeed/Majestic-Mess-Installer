@@ -1,0 +1,10 @@
+Scene Compilation Started
+Source: ../assets/Scenes/wizardroom.scene
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\scene\3e\c6\3EC637A893A5C535.scene
+Loaded JSON: 269192 bytes
+JSON validation passed
+Found 102 dependencies
+Original size: 269192 bytes
+Compressed size: 17101 bytes
+Compression ratio: 15.741302x
+Scene Compilation Completed Successfully

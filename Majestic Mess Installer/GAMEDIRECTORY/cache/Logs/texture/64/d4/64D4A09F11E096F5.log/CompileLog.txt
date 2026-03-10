@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Textures/Player/Forearm.L.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\64\d4\64D4A09F11E096F5
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 6x6
+Generated 3 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\64\d4\64D4A09F11E096F5.dds
+Output size: 0 KB
+Texture Compilation Completed Successfully

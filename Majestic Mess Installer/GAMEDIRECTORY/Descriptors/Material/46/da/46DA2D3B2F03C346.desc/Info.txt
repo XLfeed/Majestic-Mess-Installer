@@ -1,0 +1,8 @@
+{
+    "guid": "46DA2D3B2F03C346",
+    "name": "playarea_Carpet_Material.002",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

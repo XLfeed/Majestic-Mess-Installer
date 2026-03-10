@@ -1,0 +1,8 @@
+{
+    "guid": "7604EF1A4F31D9F1",
+    "name": "Forearm.R_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

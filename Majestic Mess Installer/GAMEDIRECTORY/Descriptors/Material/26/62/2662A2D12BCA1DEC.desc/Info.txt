@@ -1,0 +1,8 @@
+{
+    "guid": "2662A2D12BCA1DEC",
+    "name": "NOTmegumin_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

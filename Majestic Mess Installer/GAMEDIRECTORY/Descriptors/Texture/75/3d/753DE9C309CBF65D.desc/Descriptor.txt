@@ -1,0 +1,12 @@
+{
+    "guid": "753DE9C309CBF65D",
+    "sourceFilePath": "../assets/3D Models/Kitchen/kitchen_shelf.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

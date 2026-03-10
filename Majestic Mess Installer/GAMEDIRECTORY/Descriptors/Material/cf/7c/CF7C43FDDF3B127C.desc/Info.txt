@@ -1,0 +1,8 @@
+{
+    "guid": "CF7C43FDDF3B127C",
+    "name": "Treasure_small_Untitled_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,8 @@
+{
+    "guid": "0A6C89EC47BF1879",
+    "name": "Knight_Material.004",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

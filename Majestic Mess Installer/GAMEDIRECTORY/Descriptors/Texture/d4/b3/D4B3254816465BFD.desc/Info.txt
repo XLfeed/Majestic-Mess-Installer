@@ -1,0 +1,8 @@
+{
+    "guid": "D4B3254816465BFD",
+    "name": "heart_icon",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

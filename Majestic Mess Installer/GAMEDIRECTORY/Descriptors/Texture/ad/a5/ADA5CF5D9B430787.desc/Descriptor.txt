@@ -1,0 +1,12 @@
+{
+    "guid": "ADA5CF5D9B430787",
+    "sourceFilePath": "../assets/Textures/UI/crosshair118.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

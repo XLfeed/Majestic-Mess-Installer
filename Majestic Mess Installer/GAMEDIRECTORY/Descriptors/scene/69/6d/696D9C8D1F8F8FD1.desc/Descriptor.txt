@@ -1,0 +1,6 @@
+{
+    "guid": "696D9C8D1F8F8FD1",
+    "sourceFilePath": "assets/Scenes/UILayerTest.scene",
+    "dependencies": [],
+    "properties": {}
+}

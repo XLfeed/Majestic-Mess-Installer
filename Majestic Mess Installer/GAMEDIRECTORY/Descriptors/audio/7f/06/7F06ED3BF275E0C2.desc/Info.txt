@@ -1,0 +1,8 @@
+{
+    "guid": "7F06ED3BF275E0C2",
+    "name": "Enemy_Sword_Unsheath",
+    "comments": "",
+    "type": "Audio",
+    "virtualPath": [],
+    "links": []
+}

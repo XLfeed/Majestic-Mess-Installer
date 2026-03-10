@@ -1,0 +1,8 @@
+{
+    "guid": "E8767462416B06D6",
+    "name": "PhoneScreen_4",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

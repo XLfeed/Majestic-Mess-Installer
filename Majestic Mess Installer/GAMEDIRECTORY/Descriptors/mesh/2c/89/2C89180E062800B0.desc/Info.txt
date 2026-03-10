@@ -1,0 +1,8 @@
+{
+    "guid": "2C89180E062800B0",
+    "name": "medieval_library_stackofbooks",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

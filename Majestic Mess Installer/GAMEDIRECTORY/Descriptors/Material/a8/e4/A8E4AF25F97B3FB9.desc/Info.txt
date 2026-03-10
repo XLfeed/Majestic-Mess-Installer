@@ -1,0 +1,8 @@
+{
+    "guid": "A8E4AF25F97B3FB9",
+    "name": "Knight_Torso_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

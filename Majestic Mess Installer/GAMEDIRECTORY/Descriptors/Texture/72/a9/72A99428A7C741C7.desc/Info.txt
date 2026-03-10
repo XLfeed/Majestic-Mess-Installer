@@ -1,0 +1,8 @@
+{
+    "guid": "72A99428A7C741C7",
+    "name": "medievial_floor",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

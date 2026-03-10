@@ -1,0 +1,8 @@
+{
+    "guid": "0A2B563A5D06C3CF",
+    "name": "pan",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

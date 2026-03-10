@@ -1,0 +1,15 @@
+{
+    "guid": "6B525BA83055E04B",
+    "sourceFilePath": "../assets/3D Models/Extraction/portal_green.obj",
+    "dependencies": [
+        "7078A2CE2D2815CD"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "palette.010",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

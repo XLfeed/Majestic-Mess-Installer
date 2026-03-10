@@ -1,0 +1,8 @@
+{
+    "guid": "FC0E387E9537BDA9",
+    "name": "playarea",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

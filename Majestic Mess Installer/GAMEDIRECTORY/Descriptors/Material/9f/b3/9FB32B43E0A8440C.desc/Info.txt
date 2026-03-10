@@ -1,0 +1,8 @@
+{
+    "guid": "9FB32B43E0A8440C",
+    "name": "medieval_bedroom_chest_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

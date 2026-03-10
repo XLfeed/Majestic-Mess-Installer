@@ -1,0 +1,8 @@
+{
+    "guid": "51144916209F537F",
+    "name": "mug_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

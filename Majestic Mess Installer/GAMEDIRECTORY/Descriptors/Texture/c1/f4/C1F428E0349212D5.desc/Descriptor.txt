@@ -1,0 +1,12 @@
+{
+    "guid": "C1F428E0349212D5",
+    "sourceFilePath": "assets/Textures/UI/Slider/UI_Options_Scroller_Button.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

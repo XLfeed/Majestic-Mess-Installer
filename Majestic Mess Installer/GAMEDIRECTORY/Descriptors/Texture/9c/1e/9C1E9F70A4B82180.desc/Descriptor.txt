@@ -1,0 +1,12 @@
+{
+    "guid": "9C1E9F70A4B82180",
+    "sourceFilePath": "../assets/3D Models/Kitchen/medieval_kitchen_pot.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

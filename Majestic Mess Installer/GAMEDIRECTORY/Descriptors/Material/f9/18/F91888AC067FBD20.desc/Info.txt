@@ -1,0 +1,8 @@
+{
+    "guid": "F91888AC067FBD20",
+    "name": "wizardmap_Table_Cloth_Material.004",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

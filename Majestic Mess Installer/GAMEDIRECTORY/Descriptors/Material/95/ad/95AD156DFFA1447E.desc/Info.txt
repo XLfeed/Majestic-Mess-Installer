@@ -1,0 +1,8 @@
+{
+    "guid": "95AD156DFFA1447E",
+    "name": "Foot.R_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

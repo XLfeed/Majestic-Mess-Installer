@@ -1,0 +1,8 @@
+{
+    "guid": "4CCCB1F68F9AB1B4",
+    "name": "Shoulder.L",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

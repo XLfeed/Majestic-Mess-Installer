@@ -1,0 +1,8 @@
+{
+    "guid": "BCF7AF693756E37D",
+    "name": "basic_smoke",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

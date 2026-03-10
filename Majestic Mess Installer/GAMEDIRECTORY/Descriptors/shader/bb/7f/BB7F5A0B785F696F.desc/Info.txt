@@ -1,0 +1,8 @@
+{
+    "guid": "BB7F5A0B785F696F",
+    "name": "shadowDepth",
+    "comments": "",
+    "type": "Shader",
+    "virtualPath": [],
+    "links": []
+}

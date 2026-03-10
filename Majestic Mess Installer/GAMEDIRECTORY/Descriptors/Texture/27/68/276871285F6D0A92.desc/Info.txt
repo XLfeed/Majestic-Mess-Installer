@@ -1,0 +1,8 @@
+{
+    "guid": "276871285F6D0A92",
+    "name": "NOTmegumin",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

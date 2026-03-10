@@ -1,0 +1,8 @@
+{
+    "guid": "F172917D4C041212",
+    "name": "Torso",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

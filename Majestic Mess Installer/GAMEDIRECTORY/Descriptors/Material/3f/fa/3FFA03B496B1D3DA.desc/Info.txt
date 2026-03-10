@@ -1,0 +1,8 @@
+{
+    "guid": "3FFA03B496B1D3DA",
+    "name": "wizardmap_Torch_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

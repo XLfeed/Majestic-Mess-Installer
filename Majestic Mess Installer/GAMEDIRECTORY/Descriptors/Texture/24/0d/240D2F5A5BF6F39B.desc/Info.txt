@@ -1,0 +1,8 @@
+{
+    "guid": "240D2F5A5BF6F39B",
+    "name": "medieval_library_stackofbooks",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

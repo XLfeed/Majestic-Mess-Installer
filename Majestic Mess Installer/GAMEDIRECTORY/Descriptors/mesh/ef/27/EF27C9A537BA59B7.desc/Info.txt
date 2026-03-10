@@ -1,0 +1,8 @@
+{
+    "guid": "EF27C9A537BA59B7",
+    "name": "Table_No_Cloth",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

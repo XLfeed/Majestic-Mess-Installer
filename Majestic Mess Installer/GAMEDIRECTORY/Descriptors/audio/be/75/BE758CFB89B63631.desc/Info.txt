@@ -1,0 +1,8 @@
+{
+    "guid": "BE758CFB89B63631",
+    "name": "Enemy_SwordAttack_02 1",
+    "comments": "",
+    "type": "Audio",
+    "virtualPath": [],
+    "links": []
+}

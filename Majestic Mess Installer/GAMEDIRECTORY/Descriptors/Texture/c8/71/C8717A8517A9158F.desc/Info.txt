@@ -1,0 +1,8 @@
+{
+    "guid": "C8717A8517A9158F",
+    "name": "CloseButton_Clicked",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

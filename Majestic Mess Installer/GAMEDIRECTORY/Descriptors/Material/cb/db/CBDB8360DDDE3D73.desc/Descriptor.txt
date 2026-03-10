@@ -1,0 +1,9 @@
+{
+    "guid": "CBDB8360DDDE3D73",
+    "sourceFilePath": "../assets/Objects/Treasures/Treasure_3_Material.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "1975684A41D69CFE"
+    ],
+    "properties": {}
+}

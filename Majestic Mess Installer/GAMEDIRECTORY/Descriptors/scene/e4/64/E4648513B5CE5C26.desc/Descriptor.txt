@@ -1,0 +1,11 @@
+{
+    "guid": "E4648513B5CE5C26",
+    "sourceFilePath": "assets/Scenes/cutscene_test.scene",
+    "dependencies": [
+        "442BCE396F9BB267",
+        "12B2AC41501DC540",
+        "3EC637A893A5C535",
+        "E4648513B5CE5C26"
+    ],
+    "properties": {}
+}

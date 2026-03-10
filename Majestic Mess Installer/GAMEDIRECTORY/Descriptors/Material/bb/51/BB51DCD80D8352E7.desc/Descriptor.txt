@@ -1,0 +1,9 @@
+{
+    "guid": "BB51DCD80D8352E7",
+    "sourceFilePath": "assets/3D Models/Map/Wizard room/wizardmap_celling_Material.002.mat",
+    "dependencies": [
+        "6AE9922563A60EA5",
+        "5FC0CB4881C80DFC"
+    ],
+    "properties": {}
+}

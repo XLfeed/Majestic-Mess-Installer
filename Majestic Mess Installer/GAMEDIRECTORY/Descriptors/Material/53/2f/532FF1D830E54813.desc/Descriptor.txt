@@ -1,0 +1,8 @@
+{
+    "guid": "532FF1D830E54813",
+    "sourceFilePath": "assets/3D Models/Map/Wizard room/wizardmap_MI_Trim_Metal.001.mat",
+    "dependencies": [
+        "6AE9922563A60EA5"
+    ],
+    "properties": {}
+}

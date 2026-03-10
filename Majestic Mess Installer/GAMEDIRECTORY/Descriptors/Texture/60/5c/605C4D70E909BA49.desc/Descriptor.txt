@@ -1,0 +1,12 @@
+{
+    "guid": "605C4D70E909BA49",
+    "sourceFilePath": "../assets/Textures/UI/injured.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

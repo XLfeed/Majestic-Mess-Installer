@@ -1,0 +1,9 @@
+{
+    "guid": "6F131F59B4D35B89",
+    "sourceFilePath": "../assets/3D Models/Extraction/portal_pink_portal_pink_Material.mat",
+    "dependencies": [
+        "6AE9922563A60EA5",
+        "8441A0A2F07655C8"
+    ],
+    "properties": {}
+}

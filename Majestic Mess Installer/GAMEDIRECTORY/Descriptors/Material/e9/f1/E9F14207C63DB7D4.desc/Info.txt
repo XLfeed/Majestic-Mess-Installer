@@ -1,0 +1,8 @@
+{
+    "guid": "E9F14207C63DB7D4",
+    "name": "plate_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

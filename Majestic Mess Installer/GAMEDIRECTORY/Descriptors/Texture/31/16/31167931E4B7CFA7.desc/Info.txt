@@ -1,0 +1,8 @@
+{
+    "guid": "31167931E4B7CFA7",
+    "name": "Map_BG",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

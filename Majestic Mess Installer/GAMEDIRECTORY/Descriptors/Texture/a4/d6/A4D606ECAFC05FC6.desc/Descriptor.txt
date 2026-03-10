@@ -1,0 +1,12 @@
+{
+    "guid": "A4D606ECAFC05FC6",
+    "sourceFilePath": "../assets/medieval_window/medieval_window_interior.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

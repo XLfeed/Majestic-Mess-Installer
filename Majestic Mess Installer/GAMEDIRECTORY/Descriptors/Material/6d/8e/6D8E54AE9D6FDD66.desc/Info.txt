@@ -1,0 +1,8 @@
+{
+    "guid": "6D8E54AE9D6FDD66",
+    "name": "Map_Untitled_Material.003",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,17 @@
+{
+    "guid": "FE9B70CC95458EEF",
+    "sourceFilePath": "../assets/Scenes/settings.scene",
+    "dependencies": [
+        "D39F71152213FB36",
+        "E6F310DA5191B500",
+        "ABAE29F527BDB1C3",
+        "1681FBD0AB4FB95D",
+        "D77AAE3DABFEE992",
+        "9FA6A5CCC227B25E",
+        "B1C2D3E4F5060001",
+        "B1C2D3E4F5060002",
+        "B1C2D3E4F5060003",
+        "FE9B70CC95458EEF"
+    ],
+    "properties": {}
+}

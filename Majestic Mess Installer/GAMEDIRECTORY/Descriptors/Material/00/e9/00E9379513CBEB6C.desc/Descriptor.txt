@@ -1,0 +1,9 @@
+{
+    "guid": "00E9379513CBEB6C",
+    "sourceFilePath": "../assets/3D Models/Kitchen/palette.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "753DE9C309CBF65D"
+    ],
+    "properties": {}
+}

@@ -1,0 +1,8 @@
+{
+    "guid": "CB1D2A37C0AB16E7",
+    "name": "cooldown_image 1",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,12 @@
+{
+    "guid": "B2B4A87EF55867D1",
+    "sourceFilePath": "../assets/Textures/basic_fire.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

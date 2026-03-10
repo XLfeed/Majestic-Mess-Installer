@@ -1,0 +1,9 @@
+{
+    "guid": "0CAA8CB9352E4D8D",
+    "sourceFilePath": "assets/Scenes/kaibase.scene",
+    "dependencies": [
+        "97894B450210FD9D",
+        "66E4B05F8D7EF66E"
+    ],
+    "properties": {}
+}

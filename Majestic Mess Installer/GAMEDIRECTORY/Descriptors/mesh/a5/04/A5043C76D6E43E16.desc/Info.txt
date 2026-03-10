@@ -1,0 +1,8 @@
+{
+    "guid": "A5043C76D6E43E16",
+    "name": "medieval_bedroom_bed",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

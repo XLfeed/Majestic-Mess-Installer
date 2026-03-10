@@ -1,0 +1,8 @@
+{
+    "guid": "D91E79DB8165C9C5",
+    "name": "playarea_palette.013",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

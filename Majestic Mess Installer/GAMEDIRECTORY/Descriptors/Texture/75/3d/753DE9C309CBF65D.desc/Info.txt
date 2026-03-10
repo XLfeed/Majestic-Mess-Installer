@@ -1,0 +1,8 @@
+{
+    "guid": "753DE9C309CBF65D",
+    "name": "kitchen_shelf",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

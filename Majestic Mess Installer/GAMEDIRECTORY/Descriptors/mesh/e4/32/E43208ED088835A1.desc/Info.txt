@@ -1,0 +1,8 @@
+{
+    "guid": "E43208ED088835A1",
+    "name": "Celling",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

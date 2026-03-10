@@ -1,0 +1,8 @@
+{
+    "guid": "475D21308775C207",
+    "name": "MedievalSharp-Book",
+    "comments": "",
+    "type": "Font",
+    "virtualPath": [],
+    "links": []
+}

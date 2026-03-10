@@ -1,0 +1,8 @@
+{
+    "guid": "BF025836595E2CE5",
+    "name": "win",
+    "comments": "",
+    "type": "Scene",
+    "virtualPath": [],
+    "links": []
+}

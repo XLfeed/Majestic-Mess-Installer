@@ -1,0 +1,8 @@
+{
+    "guid": "64AF839D64E1DA64",
+    "name": "Table_Cloth_White_Untitled_Material.003",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,8 @@
+{
+    "guid": "163A99723D646EB7",
+    "name": "Barrel_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

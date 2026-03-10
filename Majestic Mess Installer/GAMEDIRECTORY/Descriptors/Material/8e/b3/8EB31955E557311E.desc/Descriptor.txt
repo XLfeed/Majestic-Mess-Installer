@@ -1,0 +1,9 @@
+{
+    "guid": "8EB31955E557311E",
+    "sourceFilePath": "assets/Textures/Player/Player_Foot.R_Material.mat",
+    "dependencies": [
+        "387A31872CF54AFF",
+        "495E5422A021575A"
+    ],
+    "properties": {}
+}

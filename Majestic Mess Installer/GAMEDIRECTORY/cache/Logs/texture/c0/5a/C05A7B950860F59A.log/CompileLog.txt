@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets\Enemies\Knight\Knight.png
+Output: ..\cache\Resources\texture\c0\5a\C05A7B950860F59A
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 49x49
+Generated 6 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: ..\cache\Resources\texture\c0\5a\C05A7B950860F59A.dds
+Output size: 1 KB
+Texture Compilation Completed Successfully

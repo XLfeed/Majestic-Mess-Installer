@@ -1,0 +1,9 @@
+{
+    "guid": "9051549A300E53B5",
+    "sourceFilePath": "../assets/3D Models/Map/Scene map/playarea_Barrel_Material.002.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "9A197723FE489E3B"
+    ],
+    "properties": {}
+}

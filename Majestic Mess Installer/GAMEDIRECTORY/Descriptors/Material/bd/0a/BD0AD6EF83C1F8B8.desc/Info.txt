@@ -1,0 +1,8 @@
+{
+    "guid": "BD0AD6EF83C1F8B8",
+    "name": "wizardmap_Barrel_Material.039",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

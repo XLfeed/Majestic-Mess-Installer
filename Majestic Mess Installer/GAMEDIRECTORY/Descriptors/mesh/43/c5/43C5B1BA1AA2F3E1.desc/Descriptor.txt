@@ -1,0 +1,15 @@
+{
+    "guid": "43C5B1BA1AA2F3E1",
+    "sourceFilePath": "assets/Npc/NOTmegumin.obj",
+    "dependencies": [
+        "2662A2D12BCA1DEC"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "palette",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

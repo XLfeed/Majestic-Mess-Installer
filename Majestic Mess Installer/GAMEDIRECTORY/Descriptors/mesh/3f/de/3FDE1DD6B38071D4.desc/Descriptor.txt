@@ -1,0 +1,31 @@
+{
+    "guid": "3FDE1DD6B38071D4",
+    "sourceFilePath": "../assets/3D Models/Map/Wizard room/wizardmap_1.obj",
+    "dependencies": [
+        "E10E0810927CED32",
+        "B3CCB38D340A08D9",
+        "799647F09A9DF24A",
+        "150AA15D412CF611",
+        "21F4BFCFAEF83777",
+        "D8F53D35DE15D8D5",
+        "520873AF934A46E6",
+        "6B3379E689A8D6D8",
+        "01EA24E939BEA228"
+    ],
+    "properties": {
+        "assimp_materialCount": "9",
+        "assimp_materialName_0": "MI_Trim_Metal.009",
+        "assimp_materialName_1": "Material.001",
+        "assimp_materialName_2": "Material.003",
+        "assimp_materialName_3": "Table_Cloth_Material.001",
+        "assimp_materialName_4": "Torch_Material",
+        "assimp_materialName_5": "palette.002",
+        "assimp_materialName_6": "palette.003",
+        "assimp_materialName_7": "palette.009",
+        "assimp_materialName_8": "palette.010",
+        "assimp_submeshCount": "8",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

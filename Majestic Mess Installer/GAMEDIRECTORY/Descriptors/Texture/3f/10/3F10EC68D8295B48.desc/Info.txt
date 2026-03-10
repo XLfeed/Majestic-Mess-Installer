@@ -1,0 +1,8 @@
+{
+    "guid": "3F10EC68D8295B48",
+    "name": "Sword",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

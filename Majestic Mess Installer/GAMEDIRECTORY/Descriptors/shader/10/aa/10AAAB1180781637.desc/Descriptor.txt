@@ -1,0 +1,9 @@
+{
+    "guid": "10AAAB1180781637",
+    "sourceFilePath": "assets/Shaders/video_yuv.shader",
+    "dependencies": [],
+    "properties": {
+        "fragmentShader": "video_yuv.frag",
+        "vertexShader": "video_yuv.vert"
+    }
+}

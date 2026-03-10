@@ -1,0 +1,8 @@
+{
+    "guid": "79B99D104E8CB38C",
+    "name": "HUD_border_horizontal",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

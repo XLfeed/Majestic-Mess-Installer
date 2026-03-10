@@ -1,0 +1,8 @@
+{
+    "guid": "10AAAB1180781637",
+    "name": "video_yuv",
+    "comments": "",
+    "type": "Shader",
+    "virtualPath": [],
+    "links": []
+}

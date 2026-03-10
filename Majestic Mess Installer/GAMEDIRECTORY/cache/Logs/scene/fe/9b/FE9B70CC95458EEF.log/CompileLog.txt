@@ -1,0 +1,10 @@
+Scene Compilation Started
+Source: ../assets/Scenes/settings.scene
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\scene\fe\9b\FE9B70CC95458EEF.scene
+Loaded JSON: 14050 bytes
+JSON validation passed
+Found 5 dependencies
+Original size: 14050 bytes
+Compressed size: 2063 bytes
+Compression ratio: 6.810470x
+Scene Compilation Completed Successfully

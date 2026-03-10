@@ -1,0 +1,8 @@
+{
+    "guid": "D272117EA00665A7",
+    "name": "Treasure_1_Treasure_1_Material.003",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

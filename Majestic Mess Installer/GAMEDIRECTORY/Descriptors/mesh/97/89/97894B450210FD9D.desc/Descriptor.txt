@@ -1,0 +1,15 @@
+{
+    "guid": "97894B450210FD9D",
+    "sourceFilePath": "assets/Enemies/Knight/Knight.obj",
+    "dependencies": [
+        "A8A9F3D498A68955"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "Knight_Material.004",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

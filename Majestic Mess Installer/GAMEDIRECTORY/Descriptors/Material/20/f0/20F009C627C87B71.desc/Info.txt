@@ -1,0 +1,8 @@
+{
+    "guid": "20F009C627C87B71",
+    "name": "Player_Torso_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

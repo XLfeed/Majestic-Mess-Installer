@@ -1,0 +1,12 @@
+{
+    "guid": "5D3EACE5074382FE",
+    "sourceFilePath": "../assets/Textures/Menu/WinScreen.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

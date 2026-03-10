@@ -1,0 +1,12 @@
+{
+    "guid": "3ACB14B2C89EC4E3",
+    "sourceFilePath": "../assets/Knight_CustomEngine/Foot.L.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

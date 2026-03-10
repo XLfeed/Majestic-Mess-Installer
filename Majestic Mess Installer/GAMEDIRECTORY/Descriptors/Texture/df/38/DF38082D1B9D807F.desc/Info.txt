@@ -1,0 +1,8 @@
+{
+    "guid": "DF38082D1B9D807F",
+    "name": "medieval_kitchen_table",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

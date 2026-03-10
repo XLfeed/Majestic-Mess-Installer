@@ -1,0 +1,8 @@
+{
+    "guid": "EDF1861A9499EB28",
+    "name": "Floor_Material.005",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

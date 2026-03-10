@@ -1,0 +1,6 @@
+{
+    "guid": "CCDB561CEE73DAC3",
+    "sourceFilePath": "../assets/Audio/SFX/EnemyVO/VO_Enemy_03.wav",
+    "dependencies": [],
+    "properties": {}
+}

@@ -1,0 +1,9 @@
+{
+    "guid": "5039146CA167FDE5",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/Environmnt_m5_palette.074.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "0779F52A5DB2DFAC"
+    ],
+    "properties": {}
+}

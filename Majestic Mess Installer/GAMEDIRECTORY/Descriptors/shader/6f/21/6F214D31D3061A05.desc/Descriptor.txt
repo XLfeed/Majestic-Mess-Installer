@@ -1,0 +1,9 @@
+{
+    "guid": "6F214D31D3061A05",
+    "sourceFilePath": "../assets/Shaders/picking.shader",
+    "dependencies": [],
+    "properties": {
+        "vertexShader": "picking.vert",
+        "fragmentShader": "picking.frag"
+    }
+}

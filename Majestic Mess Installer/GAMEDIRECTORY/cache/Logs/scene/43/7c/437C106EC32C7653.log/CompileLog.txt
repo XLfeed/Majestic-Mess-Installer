@@ -1,0 +1,10 @@
+Scene Compilation Started
+Source: ../assets/Scenes/M3_Level.scene
+Output: ..\cache\Resources\scene\43\7c\437C106EC32C7653.scene
+Loaded JSON: 1377347 bytes
+JSON validation passed
+Found 843 dependencies
+Original size: 1377347 bytes
+Compressed size: 62197 bytes
+Compression ratio: 22.144911x
+Scene Compilation Completed Successfully

@@ -1,0 +1,8 @@
+{
+    "guid": "974610BC6497E18F",
+    "name": "pan",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

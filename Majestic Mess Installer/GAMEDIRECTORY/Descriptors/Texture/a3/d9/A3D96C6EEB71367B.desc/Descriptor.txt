@@ -1,0 +1,12 @@
+{
+    "guid": "A3D96C6EEB71367B",
+    "sourceFilePath": "assets/Textures/UI/Slider/UI_Options_slider_button.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

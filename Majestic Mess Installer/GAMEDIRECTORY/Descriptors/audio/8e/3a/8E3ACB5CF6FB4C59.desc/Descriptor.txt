@@ -1,0 +1,6 @@
+{
+    "guid": "8E3ACB5CF6FB4C59",
+    "sourceFilePath": "../assets/Audio/TreasureThree/MobilePhone_Loop_NoPause.wav",
+    "dependencies": [],
+    "properties": {}
+}

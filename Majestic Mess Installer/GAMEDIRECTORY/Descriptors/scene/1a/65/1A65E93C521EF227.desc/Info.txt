@@ -1,0 +1,8 @@
+{
+    "guid": "1A65E93C521EF227",
+    "name": "test_entities",
+    "comments": "",
+    "type": "Scene",
+    "virtualPath": [],
+    "links": []
+}

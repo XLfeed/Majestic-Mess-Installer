@@ -1,0 +1,8 @@
+{
+    "guid": "A8B5B6232AE5ECEB",
+    "name": "Carpet_Color.002",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

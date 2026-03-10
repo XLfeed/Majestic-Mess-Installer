@@ -1,0 +1,9 @@
+{
+    "guid": "263BC263B7A09219",
+    "sourceFilePath": "../assets/Shaders/ui_quad - Copy.shader",
+    "dependencies": [],
+    "properties": {
+        "vertexShader": "ui_quad.vert",
+        "fragmentShader": "ui_quad.frag"
+    }
+}

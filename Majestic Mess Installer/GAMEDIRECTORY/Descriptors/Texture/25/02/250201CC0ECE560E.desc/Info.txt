@@ -1,0 +1,8 @@
+{
+    "guid": "250201CC0ECE560E",
+    "name": "ame",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

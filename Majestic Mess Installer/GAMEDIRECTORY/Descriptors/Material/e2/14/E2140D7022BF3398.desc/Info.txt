@@ -1,0 +1,8 @@
+{
+    "guid": "E2140D7022BF3398",
+    "name": "medieval_kitchen_table_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

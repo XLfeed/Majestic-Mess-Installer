@@ -1,0 +1,9 @@
+{
+    "guid": "64DEE0D17D32E5AD",
+    "sourceFilePath": "assets/3D Models/Knight_CustomEngine/Knight_Untitled.001_Material.002.mat",
+    "dependencies": [
+        "387A31872CF54AFF",
+        "E556A61304A9499F"
+    ],
+    "properties": {}
+}

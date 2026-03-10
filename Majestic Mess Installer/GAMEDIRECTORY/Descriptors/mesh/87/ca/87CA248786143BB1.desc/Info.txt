@@ -1,0 +1,8 @@
+{
+    "guid": "87CA248786143BB1",
+    "name": "Lantern",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

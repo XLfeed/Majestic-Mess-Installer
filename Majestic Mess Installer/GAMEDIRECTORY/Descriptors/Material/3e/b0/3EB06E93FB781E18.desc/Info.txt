@@ -1,0 +1,8 @@
+{
+    "guid": "3EB06E93FB781E18",
+    "name": "Player_Thigh.R_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

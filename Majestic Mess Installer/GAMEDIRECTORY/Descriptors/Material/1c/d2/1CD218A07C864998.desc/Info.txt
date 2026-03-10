@@ -1,0 +1,8 @@
+{
+    "guid": "1CD218A07C864998",
+    "name": "Environmnt_m5_Material.020",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

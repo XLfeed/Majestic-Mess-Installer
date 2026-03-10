@@ -1,0 +1,8 @@
+{
+    "guid": "C7E4FADEF5275E9B",
+    "name": "medieval_window_interior_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

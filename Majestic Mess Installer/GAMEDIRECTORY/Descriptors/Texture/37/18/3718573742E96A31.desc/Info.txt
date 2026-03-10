@@ -1,0 +1,8 @@
+{
+    "guid": "3718573742E96A31",
+    "name": "money",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

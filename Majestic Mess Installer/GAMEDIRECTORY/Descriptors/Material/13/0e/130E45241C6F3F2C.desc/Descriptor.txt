@@ -1,0 +1,9 @@
+{
+    "guid": "130E45241C6F3F2C",
+    "sourceFilePath": "assets/3D Models/Map/Wizard room/wizardmap_Barrel_Material.021.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "9A197723FE489E3B"
+    ],
+    "properties": {}
+}

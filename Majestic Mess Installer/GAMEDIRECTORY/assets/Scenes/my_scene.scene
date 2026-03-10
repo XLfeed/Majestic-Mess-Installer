@@ -1,0 +1,461 @@
+{
+    "entities": [
+        {
+            "name": "MainCamera",
+            "id": 1,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "MainCamera",
+                        "tag": "MainCamera"
+                    }
+                },
+                {
+                    "type": "CameraComponent",
+                    "type_id": 8,
+                    "data": {
+                        "isMainCamera": true,
+                        "Field of View": 60.0,
+                        "Near Plane": 0.10000000149011612,
+                        "Far Plane": 1000.0
+                    }
+                },
+                {
+                    "type": "MeshFilterComponent",
+                    "type_id": 7,
+                    "data": {
+                        "meshGuid": "PROCEDURAL_CUBE"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 2.0,
+                            "z": 5.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "MeshRendererComponent",
+                    "type_id": 6,
+                    "data": {
+                        "materialGuid": "DEFAULT_MATERIAL",
+                        "visible": true,
+                        "textureGuid": "",
+                        "colorOverride": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "useColorOverride": false,
+                        "useNoTexture": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "RedCube",
+            "id": 2,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "RedCube",
+                        "tag": "Prop"
+                    }
+                },
+                {
+                    "type": "MeshFilterComponent",
+                    "type_id": 7,
+                    "data": {
+                        "meshGuid": "PROCEDURAL_CUBE"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": -2.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "MeshRendererComponent",
+                    "type_id": 6,
+                    "data": {
+                        "materialGuid": "DEFAULT_MATERIAL",
+                        "visible": true,
+                        "textureGuid": "",
+                        "colorOverride": {
+                            "x": 1.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "useColorOverride": true,
+                        "useNoTexture": false
+                    }
+                },
+                {
+                    "type": "AudioComponent",
+                    "type_id": 5,
+                    "data": {
+                        "instances": [
+                            {
+                                "soundFile": "B6E2E5332FB93EA1",
+                                "volume": 0.5,
+                                "shouldPlay": false,
+                                "shouldStop": true,
+                                "shouldPause": false,
+                                "maxdist": 1.0,
+                                "doppelerscale": 1.0,
+                                "rolloffscale": 1.0,
+                                "distancefactor": 1.0,
+                                "threeD": false,
+                                "loop": false,
+                                "instanceId": ""
+                            }
+                        ],
+                        "audioLinks": 0
+                    }
+                }
+            ]
+        },
+        {
+            "name": "GreenSphere",
+            "id": 3,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "GreenSphere",
+                        "tag": "Prop"
+                    }
+                },
+                {
+                    "type": "MeshFilterComponent",
+                    "type_id": 7,
+                    "data": {
+                        "meshGuid": "PROCEDURAL_SPHERE"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 1.6690864562988281,
+                            "y": -0.045643150806427,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": -0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "MeshRendererComponent",
+                    "type_id": 6,
+                    "data": {
+                        "materialGuid": "DEFAULT_MATERIAL",
+                        "visible": true,
+                        "textureGuid": "",
+                        "colorOverride": {
+                            "x": 0.0,
+                            "y": 1.0,
+                            "z": 0.0
+                        },
+                        "useColorOverride": true,
+                        "useNoTexture": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "GroundPlane",
+            "id": 4,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "GroundPlane",
+                        "tag": "Ground"
+                    }
+                },
+                {
+                    "type": "MeshFilterComponent",
+                    "type_id": 7,
+                    "data": {
+                        "meshGuid": "PROCEDURAL_PLANE"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": -1.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 10.0,
+                            "y": 1.0,
+                            "z": 10.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "MeshRendererComponent",
+                    "type_id": 6,
+                    "data": {
+                        "materialGuid": "DEFAULT_MATERIAL",
+                        "visible": true,
+                        "textureGuid": "",
+                        "colorOverride": {
+                            "x": 0.699999988079071,
+                            "y": 0.699999988079071,
+                            "z": 0.699999988079071
+                        },
+                        "useColorOverride": true,
+                        "useNoTexture": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "PhysicsTestCube",
+            "id": 5,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "PhysicsTestCube",
+                        "tag": "Player"
+                    }
+                },
+                {
+                    "type": "MeshFilterComponent",
+                    "type_id": 7,
+                    "data": {
+                        "meshGuid": "PROCEDURAL_CUBE"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": -89608.578125,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.5,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "MeshRendererComponent",
+                    "type_id": 6,
+                    "data": {
+                        "materialGuid": "DEFAULT_MATERIAL",
+                        "visible": true,
+                        "textureGuid": "",
+                        "colorOverride": {
+                            "x": 0.0,
+                            "y": 0.5,
+                            "z": 1.0
+                        },
+                        "useColorOverride": true,
+                        "useNoTexture": false
+                    }
+                },
+                {
+                    "type": "ColliderComponent",
+                    "type_id": 4,
+                    "data": {
+                        "shape": "BOX",
+                        "isTrigger": false,
+                        "isEnabled": true,
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "boxSize": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "sphereRadius": 0.5,
+                        "capsuleRadius": 0.5,
+                        "capsuleHeight": 2.0,
+                        "isStatic": false
+                    }
+                },
+                {
+                    "type": "RigidBodyComponent",
+                    "type_id": 3,
+                    "data": {
+                        "mass": 1.0,
+                        "velocity": {
+                            "x": 0.0,
+                            "y": -97.83209991455078,
+                            "z": 0.0
+                        },
+                        "acceleration": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "force": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "angularVelocity": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "angularAcceleration": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "torque": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "inertiaTensor": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "useGravity": true,
+                        "gravityScale": 1.0,
+                        "dragCoefficient": 0.10000000149011612,
+                        "angularDragCoefficient": 0.10000000149011612,
+                        "isActive": true,
+                        "isKinematic": false,
+                        "invMass": 1.0
+                    }
+                }
+            ]
+        },
+        {
+            "name": "NewEntity1",
+            "id": 6,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "NewEntity1",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "MeshFilterComponent",
+                    "type_id": 7,
+                    "data": {
+                        "meshGuid": "PROCEDURAL_CUBE"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": -0.4399999976158142,
+                            "y": -0.19900000095367432,
+                            "z": 0.1398329734802246
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": -0.30000001192092896,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "MeshRendererComponent",
+                    "type_id": 6,
+                    "data": {
+                        "materialGuid": "DEFAULT_MATERIAL",
+                        "visible": true,
+                        "textureGuid": "B4887ADCE7134D9B",
+                        "colorOverride": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "useColorOverride": false,
+                        "useNoTexture": false
+                    }
+                }
+            ]
+        }
+    ],
+    "count": 6,
+    "nextEntityID": 7,
+    "version": "1.0",
+    "serializer": "Engine::EntitySerializer"
+}

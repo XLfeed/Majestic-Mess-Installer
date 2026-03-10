@@ -1,0 +1,8 @@
+{
+    "guid": "C8360C70ECE492B3",
+    "name": "ui_quad",
+    "comments": "",
+    "type": "Shader",
+    "virtualPath": [],
+    "links": []
+}

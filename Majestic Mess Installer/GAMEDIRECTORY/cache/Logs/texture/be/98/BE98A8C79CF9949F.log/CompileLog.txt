@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets\3D Models\TEst\Foot.R.png
+Output: ..\cache\Resources\texture\be\98\BE98A8C79CF9949F
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 14x14
+Generated 4 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: ..\cache\Resources\texture\be\98\BE98A8C79CF9949F.dds
+Output size: 0 KB
+Texture Compilation Completed Successfully

@@ -1,0 +1,12 @@
+{
+    "guid": "3234210E02679949",
+    "sourceFilePath": "../assets/Textures/Treasure_3/PhoneScreen_2.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

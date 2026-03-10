@@ -1,0 +1,8 @@
+{
+    "guid": "5AC85E7EEE11DC28",
+    "name": "medieval_kitchen_chair_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

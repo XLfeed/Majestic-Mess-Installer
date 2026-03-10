@@ -1,0 +1,6 @@
+{
+    "guid": "036DED4AE73D3039",
+    "sourceFilePath": "../assets/Audio/SFX/Footstep_Player_Walk_02.wav",
+    "dependencies": [],
+    "properties": {}
+}

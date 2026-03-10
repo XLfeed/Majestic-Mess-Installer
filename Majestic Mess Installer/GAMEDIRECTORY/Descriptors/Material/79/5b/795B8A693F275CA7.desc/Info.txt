@@ -1,0 +1,8 @@
+{
+    "guid": "795B8A693F275CA7",
+    "name": "medieval_library_bookshelf_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

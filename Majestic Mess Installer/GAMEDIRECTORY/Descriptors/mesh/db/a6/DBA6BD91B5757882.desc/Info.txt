@@ -1,0 +1,8 @@
+{
+    "guid": "DBA6BD91B5757882",
+    "name": "medieval_kitchen_table",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

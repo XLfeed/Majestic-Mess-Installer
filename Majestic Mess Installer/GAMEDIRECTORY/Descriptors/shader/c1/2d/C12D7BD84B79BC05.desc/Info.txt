@@ -1,0 +1,8 @@
+{
+    "guid": "C12D7BD84B79BC05",
+    "name": "shadowmap_depth",
+    "comments": "",
+    "type": "Shader",
+    "virtualPath": [],
+    "links": []
+}

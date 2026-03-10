@@ -1,0 +1,10 @@
+Scene Compilation Started
+Source: ../assets/Scenes/test.scene
+Output: ..\cache\Resources\scene\c9\c7\C9C7EF2AA290CE2F.scene
+Loaded JSON: 132611 bytes
+JSON validation passed
+Found 70 dependencies
+Original size: 132611 bytes
+Compressed size: 9432 bytes
+Compression ratio: 14.059690x
+Scene Compilation Completed Successfully

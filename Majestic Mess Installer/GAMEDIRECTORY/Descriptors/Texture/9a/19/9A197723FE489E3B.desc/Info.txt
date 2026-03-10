@@ -1,0 +1,8 @@
+{
+    "guid": "9A197723FE489E3B",
+    "name": "Barrel",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

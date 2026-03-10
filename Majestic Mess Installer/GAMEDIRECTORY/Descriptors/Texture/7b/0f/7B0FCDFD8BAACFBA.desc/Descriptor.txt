@@ -1,0 +1,12 @@
+{
+    "guid": "7B0FCDFD8BAACFBA",
+    "sourceFilePath": "../assets/Knight_CustomEngine/Thigh.L.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

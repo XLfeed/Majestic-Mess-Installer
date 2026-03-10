@@ -1,0 +1,32 @@
+{
+    "guid": "54D4AAD63C1E5126",
+    "sourceFilePath": "assets/3D Models/Knight_CustomEngine/Knight.fbx",
+    "dependencies": [
+        "ADF7D57DDD89162D",
+        "12789194BBE84B0D",
+        "8EDBD85E62AE7ACE",
+        "3527411C328D4627",
+        "CBE2781423AAB9B1",
+        "A8E4AF25F97B3FB9",
+        "64DEE0D17D32E5AD",
+        "B88807E4C9670D4E",
+        "4310A4052C8DDFB8",
+        "D3BD2B5B66A0904C",
+        "0155C65B348F03D7"
+    ],
+    "properties": {
+        "animationFPS": "30",
+        "importAnimations": "true",
+        "importMesh": "true",
+        "importSkeleton": "true",
+        "preTransformPosX": "0.000000",
+        "preTransformPosY": "0.000000",
+        "preTransformPosZ": "0.000000",
+        "preTransformRotX": "0.000000",
+        "preTransformRotY": "0.000000",
+        "preTransformRotZ": "0.000000",
+        "preTransformScaleX": "1.000000",
+        "preTransformScaleY": "1.000000",
+        "preTransformScaleZ": "1.000000"
+    }
+}

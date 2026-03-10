@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ..\assets\3D Models\Crate\Crate.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\6b\72\6B72E6C2CB270ECC
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 112x112
+Generated 7 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\6b\72\6B72E6C2CB270ECC.dds
+Output size: 8 KB
+Texture Compilation Completed Successfully

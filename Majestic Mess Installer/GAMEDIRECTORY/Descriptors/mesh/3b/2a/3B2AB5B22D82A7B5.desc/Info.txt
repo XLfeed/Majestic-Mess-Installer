@@ -1,0 +1,8 @@
+{
+    "guid": "3B2AB5B22D82A7B5",
+    "name": "NavmeshObjs_m5",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

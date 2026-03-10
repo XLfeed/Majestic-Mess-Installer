@@ -1,0 +1,6 @@
+{
+    "guid": "BF165A050D0035B0",
+    "sourceFilePath": "assets/Scenes/kaitest1.scene",
+    "dependencies": [],
+    "properties": {}
+}

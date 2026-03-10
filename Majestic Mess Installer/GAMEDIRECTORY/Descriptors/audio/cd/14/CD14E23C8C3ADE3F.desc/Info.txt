@@ -1,0 +1,8 @@
+{
+    "guid": "CD14E23C8C3ADE3F",
+    "name": "Burn",
+    "comments": "",
+    "type": "Audio",
+    "virtualPath": [],
+    "links": []
+}

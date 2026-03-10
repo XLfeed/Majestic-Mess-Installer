@@ -1,0 +1,8 @@
+{
+    "guid": "3ACB14B2C89EC4E3",
+    "name": "Foot.L",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

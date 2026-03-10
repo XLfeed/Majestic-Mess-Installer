@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ..\assets\3D Models\Barrel\Barrel.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\9a\19\9A197723FE489E3B
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 115x115
+Generated 7 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\9a\19\9A197723FE489E3B.dds
+Output size: 9 KB
+Texture Compilation Completed Successfully

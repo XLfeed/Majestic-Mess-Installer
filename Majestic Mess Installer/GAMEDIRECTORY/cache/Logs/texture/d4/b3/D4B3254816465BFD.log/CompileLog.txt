@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Textures/UI/heart_icon.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\d4\b3\D4B3254816465BFD
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 400x352
+Generated 9 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\d4\b3\D4B3254816465BFD.dds
+Output size: 91 KB
+Texture Compilation Completed Successfully

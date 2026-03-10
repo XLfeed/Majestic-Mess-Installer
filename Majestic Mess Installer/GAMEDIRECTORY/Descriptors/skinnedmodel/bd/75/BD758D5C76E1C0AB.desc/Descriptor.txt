@@ -1,0 +1,31 @@
+{
+    "guid": "BD758D5C76E1C0AB",
+    "sourceFilePath": "assets/Textures/Player/Player.fbx",
+    "dependencies": [
+        "20F009C627C87B71",
+        "C00EE5643BCFB395",
+        "3EB06E93FB781E18",
+        "A01C3A830D0ED66F",
+        "C01AB0B9226831DA",
+        "722B0373ABBE910D",
+        "8FB758F2D5A5A7FA",
+        "E6DEA4D914124836",
+        "024864F8A5061C58",
+        "8EB31955E557311E"
+    ],
+    "properties": {
+        "animationFPS": "60",
+        "importAnimations": "true",
+        "importMesh": "true",
+        "importSkeleton": "true",
+        "preTransformPosX": "0.000000",
+        "preTransformPosY": "0.000000",
+        "preTransformPosZ": "0.000000",
+        "preTransformRotX": "0.000000",
+        "preTransformRotY": "180.000000",
+        "preTransformRotZ": "0.000000",
+        "preTransformScaleX": "0.001000",
+        "preTransformScaleY": "0.001000",
+        "preTransformScaleZ": "0.001000"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "guid": "20F009C627C87B71",
+    "sourceFilePath": "assets/Textures/Player/Player_Torso_Material.001.mat",
+    "dependencies": [
+        "387A31872CF54AFF",
+        "4D0301AFBE8BA0BE"
+    ],
+    "properties": {}
+}

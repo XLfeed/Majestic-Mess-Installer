@@ -1,0 +1,8 @@
+{
+    "guid": "9B900B7FE1A236D1",
+    "name": "Dummy",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

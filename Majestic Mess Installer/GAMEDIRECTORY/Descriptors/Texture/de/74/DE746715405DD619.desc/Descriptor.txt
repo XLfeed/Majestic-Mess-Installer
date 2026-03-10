@@ -1,0 +1,12 @@
+{
+    "guid": "DE746715405DD619",
+    "sourceFilePath": "../assets/Objects/Barrier/Barrier_Wooden/Barrier_Wooden.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

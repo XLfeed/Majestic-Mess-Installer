@@ -1,0 +1,8 @@
+{
+    "guid": "E476F9DC3A864F54",
+    "name": "medieval_portal_glow",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

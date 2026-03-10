@@ -1,0 +1,15 @@
+{
+    "guid": "89FD29A8476EB93D",
+    "sourceFilePath": "assets/3D Models/Crate/Crate.obj",
+    "dependencies": [
+        "9260E92A4953CFC7"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "Crate_Material",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

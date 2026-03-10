@@ -1,0 +1,8 @@
+{
+    "guid": "9BE6261E5C7C47EF",
+    "name": "Carpet",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

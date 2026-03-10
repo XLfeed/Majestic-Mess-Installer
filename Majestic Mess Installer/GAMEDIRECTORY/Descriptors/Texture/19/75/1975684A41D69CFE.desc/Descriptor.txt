@@ -1,0 +1,12 @@
+{
+    "guid": "1975684A41D69CFE",
+    "sourceFilePath": "../assets/Objects/Treasures/Treasure_3.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

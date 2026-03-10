@@ -1,0 +1,15 @@
+{
+    "guid": "5C0A8F38DE5809A8",
+    "sourceFilePath": "assets/3D Models/Table_Cloth/Table_Cloth.obj",
+    "dependencies": [
+        "27E5D9394D0749E4"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "Table_Cloth_Material.001",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

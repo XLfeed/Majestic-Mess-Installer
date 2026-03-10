@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Textures/Player_Hands/Hand_Left.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\f8\75\F875F58804905732
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 364x364
+Generated 9 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\f8\75\F875F58804905732.dds
+Output size: 87 KB
+Texture Compilation Completed Successfully

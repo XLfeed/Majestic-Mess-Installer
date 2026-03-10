@@ -1,0 +1,8 @@
+{
+    "guid": "27E5D9394D0749E4",
+    "name": "Table_Cloth_Table_Cloth_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

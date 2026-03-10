@@ -1,0 +1,8 @@
+{
+    "guid": "115FB88CE9D16629",
+    "name": "Hand_Right",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

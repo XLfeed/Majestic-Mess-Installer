@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets\Textures\Player\Player_Head.png
+Output: ..\cache\Resources\texture\dc\0a\DC0A41E6182B71E0
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 28x28
+Generated 5 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: ..\cache\Resources\texture\dc\0a\DC0A41E6182B71E0.dds
+Output size: 0 KB
+Texture Compilation Completed Successfully

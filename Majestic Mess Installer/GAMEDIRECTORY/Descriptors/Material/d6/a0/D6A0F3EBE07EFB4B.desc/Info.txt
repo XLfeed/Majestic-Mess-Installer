@@ -1,0 +1,8 @@
+{
+    "guid": "D6A0F3EBE07EFB4B",
+    "name": "Torso_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

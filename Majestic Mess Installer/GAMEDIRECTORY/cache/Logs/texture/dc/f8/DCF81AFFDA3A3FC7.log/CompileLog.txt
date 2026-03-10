@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets\Textures\Player\Player_Thigh.L.png
+Output: ..\cache\Resources\texture\dc\f8\DCF81AFFDA3A3FC7
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 3x3
+Generated 2 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: ..\cache\Resources\texture\dc\f8\DCF81AFFDA3A3FC7.dds
+Output size: 0 KB
+Texture Compilation Completed Successfully

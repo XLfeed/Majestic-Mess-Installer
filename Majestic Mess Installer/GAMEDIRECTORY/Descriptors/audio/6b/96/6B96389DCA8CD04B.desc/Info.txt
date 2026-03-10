@@ -1,0 +1,8 @@
+{
+    "guid": "6B96389DCA8CD04B",
+    "name": "MiscPickup_2",
+    "comments": "",
+    "type": "Audio",
+    "virtualPath": [],
+    "links": []
+}

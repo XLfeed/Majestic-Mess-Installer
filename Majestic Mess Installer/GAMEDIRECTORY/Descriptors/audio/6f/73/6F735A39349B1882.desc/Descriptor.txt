@@ -1,0 +1,6 @@
+{
+    "guid": "6F735A39349B1882",
+    "sourceFilePath": "../assets/Audio/SFX/Scroll_Close.wav",
+    "dependencies": [],
+    "properties": {}
+}

@@ -1,0 +1,8 @@
+{
+    "guid": "E83EFB416C5399B1",
+    "name": "guard_bed_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

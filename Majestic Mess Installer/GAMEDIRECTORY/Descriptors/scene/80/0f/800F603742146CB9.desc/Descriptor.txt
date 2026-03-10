@@ -1,0 +1,6 @@
+{
+    "guid": "800F603742146CB9",
+    "sourceFilePath": "assets/Scenes/game_over.scene",
+    "dependencies": [],
+    "properties": {}
+}

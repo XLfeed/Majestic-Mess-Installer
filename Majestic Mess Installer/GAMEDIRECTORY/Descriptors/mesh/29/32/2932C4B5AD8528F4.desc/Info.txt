@@ -1,0 +1,8 @@
+{
+    "guid": "2932C4B5AD8528F4",
+    "name": "Barrel_Hideable",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

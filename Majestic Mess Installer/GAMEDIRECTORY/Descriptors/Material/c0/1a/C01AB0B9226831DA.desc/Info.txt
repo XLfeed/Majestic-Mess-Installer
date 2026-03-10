@@ -1,0 +1,8 @@
+{
+    "guid": "C01AB0B9226831DA",
+    "name": "Player_Shoulder.R_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

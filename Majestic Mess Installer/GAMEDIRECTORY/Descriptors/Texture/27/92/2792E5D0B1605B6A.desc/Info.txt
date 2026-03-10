@@ -1,0 +1,8 @@
+{
+    "guid": "2792E5D0B1605B6A",
+    "name": "Spacebar_1",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

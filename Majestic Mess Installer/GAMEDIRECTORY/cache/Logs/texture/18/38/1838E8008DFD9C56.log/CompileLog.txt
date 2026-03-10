@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Textures/Menu/LoseScreen.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\18\38\1838E8008DFD9C56
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 256x256
+Generated 9 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\18\38\1838E8008DFD9C56.dds
+Output size: 42 KB
+Texture Compilation Completed Successfully

@@ -1,0 +1,9 @@
+{
+    "guid": "F8BAC9EE6A94844C",
+    "sourceFilePath": "../assets/3D Models/Kitchen/kitchen_shelf_palette.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "753DE9C309CBF65D"
+    ],
+    "properties": {}
+}

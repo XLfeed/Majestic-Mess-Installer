@@ -1,0 +1,8 @@
+{
+    "guid": "F92D03FAF1162669",
+    "name": "forclaude",
+    "comments": "",
+    "type": "Scene",
+    "virtualPath": [],
+    "links": []
+}

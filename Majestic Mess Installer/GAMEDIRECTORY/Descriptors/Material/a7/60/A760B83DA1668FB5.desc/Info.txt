@@ -1,0 +1,8 @@
+{
+    "guid": "A760B83DA1668FB5",
+    "name": "Carpet_Carpet_Material.002",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

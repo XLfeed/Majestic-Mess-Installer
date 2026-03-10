@@ -1,0 +1,8 @@
+{
+    "guid": "5D3EACE5074382FE",
+    "name": "WinScreen",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

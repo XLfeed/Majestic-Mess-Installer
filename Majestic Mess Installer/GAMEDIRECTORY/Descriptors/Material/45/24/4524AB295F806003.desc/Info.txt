@@ -1,0 +1,8 @@
+{
+    "guid": "4524AB295F806003",
+    "name": "medieval_kitchen_pot_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

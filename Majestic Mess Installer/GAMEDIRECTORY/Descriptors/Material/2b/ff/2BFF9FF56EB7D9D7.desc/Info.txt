@@ -1,0 +1,8 @@
+{
+    "guid": "2BFF9FF56EB7D9D7",
+    "name": "portal_pink_portal_pink_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

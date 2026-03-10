@@ -1,0 +1,8 @@
+{
+    "guid": "2D7A574E9726FD30",
+    "name": "juliustestscene",
+    "comments": "",
+    "type": "Scene",
+    "virtualPath": [],
+    "links": []
+}

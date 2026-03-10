@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets\KnighttoSend\Knight_CustomEngine (1)\Arm.L.png
+Output: ..\cache\Resources\texture\6a\cd\6ACD15F87A64A9E5
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 15x15
+Generated 4 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: ..\cache\Resources\texture\6a\cd\6ACD15F87A64A9E5.dds
+Output size: 0 KB
+Texture Compilation Completed Successfully

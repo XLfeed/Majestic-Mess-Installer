@@ -1,0 +1,6 @@
+{
+    "guid": "23E7E036EC7CB0B5",
+    "sourceFilePath": "../assets/Audio/TreasureOneVoices/T1_Unpicked_1.wav",
+    "dependencies": [],
+    "properties": {}
+}

@@ -1,0 +1,8 @@
+{
+    "guid": "287FAB69A844863D",
+    "name": "Barrel",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

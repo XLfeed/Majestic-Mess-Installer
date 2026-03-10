@@ -1,0 +1,8 @@
+{
+    "guid": "E676B982F1DE3570",
+    "name": "NavmeshObjs_m5_palette.057",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

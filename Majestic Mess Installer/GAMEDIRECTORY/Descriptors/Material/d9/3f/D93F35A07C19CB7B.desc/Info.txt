@@ -1,0 +1,8 @@
+{
+    "guid": "D93F35A07C19CB7B",
+    "name": "Map_DefaultMaterial",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

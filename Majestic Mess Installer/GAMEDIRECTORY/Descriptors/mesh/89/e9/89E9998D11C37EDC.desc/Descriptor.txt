@@ -1,0 +1,15 @@
+{
+    "guid": "89E9998D11C37EDC",
+    "sourceFilePath": "assets/3D Models/Treasures/Treasure_2.obj",
+    "dependencies": [
+        "C7AE39E2DF051B88"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "Treasure_2_Material",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

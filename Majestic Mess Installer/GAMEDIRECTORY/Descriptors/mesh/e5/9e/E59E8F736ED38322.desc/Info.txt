@@ -1,0 +1,8 @@
+{
+    "guid": "E59E8F736ED38322",
+    "name": "medieval_window_interior",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

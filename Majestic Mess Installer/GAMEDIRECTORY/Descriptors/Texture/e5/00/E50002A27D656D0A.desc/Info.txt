@@ -1,0 +1,8 @@
+{
+    "guid": "E50002A27D656D0A",
+    "name": "skill_scroll of cinder_border",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

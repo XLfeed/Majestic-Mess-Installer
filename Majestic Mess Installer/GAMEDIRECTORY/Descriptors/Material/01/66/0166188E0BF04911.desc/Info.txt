@@ -1,0 +1,8 @@
+{
+    "guid": "0166188E0BF04911",
+    "name": "playarea_Untitled_Material.003",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

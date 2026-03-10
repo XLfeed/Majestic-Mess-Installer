@@ -1,0 +1,15 @@
+{
+    "guid": "97BECE65DF13C012",
+    "sourceFilePath": "assets/3D Models/Bedroom/guard_bed.obj",
+    "dependencies": [
+        "E83EFB416C5399B1"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "palette",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

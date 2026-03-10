@@ -1,0 +1,8 @@
+{
+    "guid": "56E88EB156C34380",
+    "name": "Sword_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

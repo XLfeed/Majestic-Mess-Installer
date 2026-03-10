@@ -1,0 +1,8 @@
+{
+    "guid": "7E1A54D0C5CCF83E",
+    "name": "Throne",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

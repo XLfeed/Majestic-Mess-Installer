@@ -1,0 +1,8 @@
+{
+    "guid": "C00EE5643BCFB395",
+    "name": "Player_Forearm.R_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

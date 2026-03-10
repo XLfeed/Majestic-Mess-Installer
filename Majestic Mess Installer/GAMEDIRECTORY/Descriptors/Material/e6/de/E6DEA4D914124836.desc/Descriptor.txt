@@ -1,0 +1,9 @@
+{
+    "guid": "E6DEA4D914124836",
+    "sourceFilePath": "assets/Textures/Player/Player_Head_Material.001.mat",
+    "dependencies": [
+        "387A31872CF54AFF",
+        "01AFEEC010E73787"
+    ],
+    "properties": {}
+}

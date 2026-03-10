@@ -1,0 +1,8 @@
+{
+    "guid": "3FDE1DD6B38071D4",
+    "name": "wizardmap_1",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,17 @@
+{
+    "guid": "B461936F380ECDF2",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/floor.obj",
+    "dependencies": [
+        "F2AD07D13E42237F",
+        "190432094D1C8BE3"
+    ],
+    "properties": {
+        "assimp_materialCount": "2",
+        "assimp_materialName_0": "Material.001",
+        "assimp_materialName_1": "Material.003",
+        "assimp_submeshCount": "2",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

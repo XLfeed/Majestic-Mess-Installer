@@ -1,0 +1,12 @@
+{
+    "guid": "0779F52A5DB2DFAC",
+    "sourceFilePath": "../assets/3D Models/Bedroom/medieval_bedroom_chest.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "guid": "FD8AB80FC40F60C2",
+    "name": "NavmeshObjs_m5_palette.012",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

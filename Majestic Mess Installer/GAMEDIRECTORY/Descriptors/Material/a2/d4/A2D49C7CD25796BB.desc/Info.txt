@@ -1,0 +1,8 @@
+{
+    "guid": "A2D49C7CD25796BB",
+    "name": "portal_green_portal_green_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

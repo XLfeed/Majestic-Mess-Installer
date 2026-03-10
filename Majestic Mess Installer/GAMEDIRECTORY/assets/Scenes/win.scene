@@ -1,0 +1,651 @@
+{
+    "entities": [
+        {
+            "name": "WinUIController",
+            "id": 1,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "WinUIController",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "ScriptComponent",
+                    "type_id": 9,
+                    "data": {
+                        "instances": [
+                            {
+                                "className": "UIBaseController",
+                                "instanceId": "700BDA984AD94E82",
+                                "fieldValues": [
+                                    {
+                                        "fieldName": "exitKey",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "gameSceneName",
+                                        "fieldType": 17,
+                                        "stringValue": "TestLevel"
+                                    },
+                                    {
+                                        "fieldName": "loseKey",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "loseSceneName",
+                                        "fieldType": 17,
+                                        "stringValue": "LoseScene"
+                                    },
+                                    {
+                                        "fieldName": "menuKey",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "menuSceneName",
+                                        "fieldType": 17,
+                                        "stringValue": "MainMenu"
+                                    },
+                                    {
+                                        "fieldName": "mode",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "restartKey",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "settingKey",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "settingSceneName",
+                                        "fieldType": 17,
+                                        "stringValue": "SettingScene"
+                                    },
+                                    {
+                                        "fieldName": "startKey",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "winKey",
+                                        "fieldType": 0,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "winSceneName",
+                                        "fieldType": 17,
+                                        "stringValue": "WinScene"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "name": "MainCamera",
+            "id": 2,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "MainCamera",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "CameraComponent",
+                    "type_id": 8,
+                    "data": {
+                        "isMainCamera": true,
+                        "Field of View": 60.0,
+                        "Near Plane": 0.10000000149011612,
+                        "Far Plane": 1000.0
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "name": "UI Canvas",
+            "id": 3,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "UI Canvas",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "CanvasComponent",
+                    "type_id": 12,
+                    "data": {
+                        "sortOrder": 0,
+                        "referenceResolution": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "scaleFactor": 0.5333333611488342,
+                        "pixelPerfect": false,
+                        "planeDistance": 100.0,
+                        "Render In Scene View": true,
+                        "Render In Game View": true
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "anchorMax": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchoredPosition": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "sizeDelta": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "name": "UI Panel",
+            "id": 4,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "UI Panel",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": -0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "anchorMax": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchoredPosition": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "sizeDelta": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        }
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "5D3EACE5074382FE",
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "sliceBorder": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 0.0
+                        },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "UI Canvas",
+            "uiParentName": "UI Canvas"
+        },
+        {
+            "name": "MainMenuButton",
+            "id": 5,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "MainMenuButton",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": -0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "ScriptComponent",
+                    "type_id": 9,
+                    "data": {
+                        "instances": [
+                            {
+                                "className": "MenuButton",
+                                "instanceId": "C2D3E4F5A6070001",
+                                "fieldValues": [
+                                    {
+                                        "fieldName": "isQuitButton",
+                                        "fieldType": 3,
+                                        "buffer": [
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0,
+                                            0
+                                        ]
+                                    },
+                                    {
+                                        "fieldName": "targetScene",
+                                        "fieldType": 17
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 1.399999976158142,
+                            "y": 0.75
+                        },
+                        "anchorMax": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "pivot": {
+                            "x": 1.0,
+                            "y": 0.9100000262260437
+                        },
+                        "anchoredPosition": {
+                            "x": -119.0,
+                            "y": -224.0
+                        },
+                        "sizeDelta": {
+                            "x": 300.0,
+                            "y": 80.0
+                        },
+                        "sortOrder": 1
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": {
+                            "x": 0.30000001192092896,
+                            "y": 0.5,
+                            "z": 0.800000011920929,
+                            "w": 1.0
+                        },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "sliceBorder": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 0.0
+                        },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "UI Canvas",
+            "uiParentName": "UI Canvas"
+        }
+    ],
+    "count": 5,
+    "nextEntityID": 6,
+    "sceneGUID": "BF025836595E2CE5",
+    "version": "1.0",
+    "serializer": "Engine::EntitySerializer"
+}

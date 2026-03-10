@@ -1,0 +1,8 @@
+{
+    "guid": "C9672BF1CECB623D",
+    "name": "exmark",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

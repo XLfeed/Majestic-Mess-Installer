@@ -1,0 +1,8 @@
+{
+    "guid": "EB08987D9F197F5F",
+    "name": "spoon",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

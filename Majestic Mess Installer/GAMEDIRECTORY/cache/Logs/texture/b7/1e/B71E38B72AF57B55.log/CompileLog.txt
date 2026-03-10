@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Textures/Player/Foot.L.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\b7\1e\B71E38B72AF57B55
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 4x4
+Generated 3 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\b7\1e\B71E38B72AF57B55.dds
+Output size: 0 KB
+Texture Compilation Completed Successfully

@@ -1,0 +1,8 @@
+{
+    "guid": "E3054109AC3C7F31",
+    "name": "Table_Cloth_White",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/3D Models/Bedroom/medieval_bedroom_chest.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\07\79\0779F52A5DB2DFAC
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 256x1
+Generated 9 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\07\79\0779F52A5DB2DFAC.dds
+Output size: 1 KB
+Texture Compilation Completed Successfully

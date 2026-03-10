@@ -1,0 +1,8 @@
+{
+    "guid": "97F8B3985D718F02",
+    "name": "medieval_portal_glow",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

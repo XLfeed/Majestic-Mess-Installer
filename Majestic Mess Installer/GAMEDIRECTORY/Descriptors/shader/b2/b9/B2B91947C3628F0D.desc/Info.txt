@@ -1,0 +1,8 @@
+{
+    "guid": "B2B91947C3628F0D",
+    "name": "diffuse",
+    "comments": "",
+    "type": "Shader",
+    "virtualPath": [],
+    "links": []
+}

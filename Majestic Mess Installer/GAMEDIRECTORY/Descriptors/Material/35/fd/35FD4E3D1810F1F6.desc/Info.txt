@@ -1,0 +1,8 @@
+{
+    "guid": "35FD4E3D1810F1F6",
+    "name": "wizardmap_celling_Material.027",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = ScriptCore
+build_property.ProjectDir = C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Scripts\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

@@ -1,0 +1,12 @@
+{
+    "guid": "974610BC6497E18F",
+    "sourceFilePath": "../assets/3D Models/Kitchen/pan.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

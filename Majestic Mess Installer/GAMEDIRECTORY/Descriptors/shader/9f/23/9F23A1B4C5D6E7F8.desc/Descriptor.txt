@@ -1,0 +1,9 @@
+{
+    "guid": "9F23A1B4C5D6E7F8",
+    "sourceFilePath": "../assets/Shaders/particle_additive.shader",
+    "dependencies": [],
+    "properties": {
+        "vertexShader": "particle_additive.vert",
+        "fragmentShader": "particle_additive.frag"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "guid": "68AAB556BBEE4F2A",
+    "sourceFilePath": "../assets/Audio/TreasureOneVoices/T1_Near_6.wav",
+    "dependencies": [],
+    "properties": {}
+}

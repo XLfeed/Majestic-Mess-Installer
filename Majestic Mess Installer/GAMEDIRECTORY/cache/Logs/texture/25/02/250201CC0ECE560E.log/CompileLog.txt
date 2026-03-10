@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Spritesheets/ame.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\25\02\250201CC0ECE560E
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 2000x2500
+Generated 12 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\25\02\250201CC0ECE560E.dds
+Output size: 3257 KB
+Texture Compilation Completed Successfully

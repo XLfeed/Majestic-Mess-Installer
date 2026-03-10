@@ -1,0 +1,9 @@
+Scene Compilation Started
+Source: ../assets/Scenes/kaitest1.scene
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\scene\bf\16\BF165A050D0035B0.scene
+Loaded JSON: 12783 bytes
+JSON validation passed
+Original size: 12783 bytes
+Compressed size: 1697 bytes
+Compression ratio: 7.532705x
+Scene Compilation Completed Successfully

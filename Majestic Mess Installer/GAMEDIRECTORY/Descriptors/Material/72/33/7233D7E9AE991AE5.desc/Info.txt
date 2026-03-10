@@ -1,0 +1,8 @@
+{
+    "guid": "7233D7E9AE991AE5",
+    "name": "Cape_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

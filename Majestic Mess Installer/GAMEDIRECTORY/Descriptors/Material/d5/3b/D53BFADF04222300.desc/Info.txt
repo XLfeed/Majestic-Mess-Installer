@@ -1,0 +1,8 @@
+{
+    "guid": "D53BFADF04222300",
+    "name": "medieval_portal_glow_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

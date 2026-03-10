@@ -1,0 +1,8 @@
+{
+    "guid": "63DD965BC55CB7C7",
+    "name": "VO_Enemy_01",
+    "comments": "",
+    "type": "Audio",
+    "virtualPath": [],
+    "links": []
+}

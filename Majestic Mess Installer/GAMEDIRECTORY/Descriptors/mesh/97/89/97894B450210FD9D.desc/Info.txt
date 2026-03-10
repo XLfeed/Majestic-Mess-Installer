@@ -1,0 +1,8 @@
+{
+    "guid": "97894B450210FD9D",
+    "name": "Knight",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

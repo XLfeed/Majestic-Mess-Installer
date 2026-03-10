@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ..\assets\3D Models\Table_No_Cloth\Table_No_Cloth.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\40\57\4057F9DC668BF193
+Format: BC5_UNORM
+Mipmaps: Enabled
+Loaded image: 86x86
+Generated 7 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC5_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\40\57\4057F9DC668BF193.dds
+Output size: 10 KB
+Texture Compilation Completed Successfully

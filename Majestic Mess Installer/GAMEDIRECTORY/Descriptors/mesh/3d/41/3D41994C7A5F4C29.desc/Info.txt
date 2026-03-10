@@ -1,0 +1,8 @@
+{
+    "guid": "3D41994C7A5F4C29",
+    "name": "Barrier_Wooden",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

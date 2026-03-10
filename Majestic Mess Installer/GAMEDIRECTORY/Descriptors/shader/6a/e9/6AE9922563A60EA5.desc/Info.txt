@@ -1,0 +1,8 @@
+{
+    "guid": "6AE9922563A60EA5",
+    "name": "standard_specular",
+    "comments": "",
+    "type": "Shader",
+    "virtualPath": [],
+    "links": []
+}

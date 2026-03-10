@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Textures/Environment/medievial_wall.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\b2\ba\B2BA50ECA5105F8C
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 4096x4096
+Generated 13 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\b2\ba\B2BA50ECA5105F8C.dds
+Output size: 10922 KB
+Texture Compilation Completed Successfully

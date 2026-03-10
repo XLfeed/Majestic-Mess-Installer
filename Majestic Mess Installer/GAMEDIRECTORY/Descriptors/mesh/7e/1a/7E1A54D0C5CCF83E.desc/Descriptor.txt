@@ -1,0 +1,15 @@
+{
+    "guid": "7E1A54D0C5CCF83E",
+    "sourceFilePath": "assets/3D Models/Throne/Throne.obj",
+    "dependencies": [
+        "A26CB449222F81B2"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "palette",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

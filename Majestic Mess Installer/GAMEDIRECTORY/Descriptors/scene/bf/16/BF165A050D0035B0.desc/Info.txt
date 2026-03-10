@@ -1,0 +1,8 @@
+{
+    "guid": "BF165A050D0035B0",
+    "name": "kaitest1",
+    "comments": "",
+    "type": "Scene",
+    "virtualPath": [],
+    "links": []
+}

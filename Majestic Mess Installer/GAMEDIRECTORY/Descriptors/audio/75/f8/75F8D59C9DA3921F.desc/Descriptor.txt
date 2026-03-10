@@ -1,0 +1,6 @@
+{
+    "guid": "75F8D59C9DA3921F",
+    "sourceFilePath": "../assets/Audio/SFX/Enemy_SwordAttack_03 1.wav",
+    "dependencies": [],
+    "properties": {}
+}

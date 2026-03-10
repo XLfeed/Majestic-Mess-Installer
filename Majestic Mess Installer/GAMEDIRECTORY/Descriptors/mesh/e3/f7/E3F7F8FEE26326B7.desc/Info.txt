@@ -1,0 +1,8 @@
+{
+    "guid": "E3F7F8FEE26326B7",
+    "name": "portal_green",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

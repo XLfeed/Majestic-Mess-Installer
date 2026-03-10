@@ -1,0 +1,9 @@
+{
+    "guid": "C095C957C7DB0DD3",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/NavmeshObjs_m5_Crate_Material.062.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "6B72E6C2CB270ECC"
+    ],
+    "properties": {}
+}

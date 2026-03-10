@@ -1,0 +1,8 @@
+{
+    "guid": "1681FBD0AB4FB95D",
+    "name": "Settings",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

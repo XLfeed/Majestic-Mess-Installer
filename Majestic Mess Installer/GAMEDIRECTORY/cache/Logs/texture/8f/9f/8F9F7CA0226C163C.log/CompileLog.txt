@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets\KnighttoSend\Knight_CustomEngine (1)\Thigh.R.png
+Output: ..\cache\Resources\texture\8f\9f\8F9F7CA0226C163C
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 14x14
+Generated 4 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: ..\cache\Resources\texture\8f\9f\8F9F7CA0226C163C.dds
+Output size: 0 KB
+Texture Compilation Completed Successfully

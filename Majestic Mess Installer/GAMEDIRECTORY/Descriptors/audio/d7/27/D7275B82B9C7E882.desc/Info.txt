@@ -1,0 +1,8 @@
+{
+    "guid": "D7275B82B9C7E882",
+    "name": "Enemy_Sword_Sheath",
+    "comments": "",
+    "type": "Audio",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,17 @@
+{
+    "guid": "9F160154BC8B6ED0",
+    "sourceFilePath": "assets/3D Models/Map/Wizard room/wizardmap_celling.obj",
+    "dependencies": [
+        "BB51DCD80D8352E7",
+        "35FD4E3D1810F1F6"
+    ],
+    "properties": {
+        "assimp_materialCount": "2",
+        "assimp_materialName_0": "Material.002",
+        "assimp_materialName_1": "Material.027",
+        "assimp_submeshCount": "2",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

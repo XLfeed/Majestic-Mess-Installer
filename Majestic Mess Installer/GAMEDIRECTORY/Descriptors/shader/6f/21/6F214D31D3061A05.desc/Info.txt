@@ -1,0 +1,8 @@
+{
+    "guid": "6F214D31D3061A05",
+    "name": "picking",
+    "comments": "",
+    "type": "Shader",
+    "virtualPath": [],
+    "links": []
+}

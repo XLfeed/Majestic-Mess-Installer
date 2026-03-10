@@ -1,0 +1,8 @@
+{
+    "guid": "C83B5D74B1D33BAE",
+    "name": "unlit",
+    "comments": "",
+    "type": "Shader",
+    "virtualPath": [],
+    "links": []
+}

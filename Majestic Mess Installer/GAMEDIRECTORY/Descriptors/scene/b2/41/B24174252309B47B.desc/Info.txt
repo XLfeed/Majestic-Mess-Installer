@@ -1,0 +1,8 @@
+{
+    "guid": "B24174252309B47B",
+    "name": "my_scene",
+    "comments": "",
+    "type": "Scene",
+    "virtualPath": [],
+    "links": []
+}

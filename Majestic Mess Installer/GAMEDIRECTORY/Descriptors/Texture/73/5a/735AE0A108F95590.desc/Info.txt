@@ -1,0 +1,8 @@
+{
+    "guid": "735AE0A108F95590",
+    "name": "portal_pink_Color",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

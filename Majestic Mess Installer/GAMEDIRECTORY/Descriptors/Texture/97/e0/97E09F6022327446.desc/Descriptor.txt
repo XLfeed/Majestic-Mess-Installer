@@ -1,0 +1,12 @@
+{
+    "guid": "97E09F6022327446",
+    "sourceFilePath": "../assets/Knight_CustomEngine/Arm.L.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

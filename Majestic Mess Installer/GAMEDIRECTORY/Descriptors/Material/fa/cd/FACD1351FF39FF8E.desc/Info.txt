@@ -1,0 +1,8 @@
+{
+    "guid": "FACD1351FF39FF8E",
+    "name": "Environmnt_m5_Barrier_Wooden_Material.056",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

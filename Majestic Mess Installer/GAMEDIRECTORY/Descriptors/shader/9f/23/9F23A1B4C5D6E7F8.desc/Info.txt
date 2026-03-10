@@ -1,0 +1,8 @@
+{
+    "guid": "9F23A1B4C5D6E7F8",
+    "name": "particle_additive",
+    "comments": "",
+    "type": "Shader",
+    "virtualPath": [],
+    "links": []
+}

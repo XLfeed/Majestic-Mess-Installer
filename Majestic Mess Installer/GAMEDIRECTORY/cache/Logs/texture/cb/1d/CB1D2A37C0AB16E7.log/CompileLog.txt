@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Textures/UI/cooldown_image 1.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\cb\1d\CB1D2A37C0AB16E7
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 480x512
+Generated 10 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\cb\1d\CB1D2A37C0AB16E7.dds
+Output size: 160 KB
+Texture Compilation Completed Successfully

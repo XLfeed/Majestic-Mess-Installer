@@ -1,0 +1,8 @@
+{
+    "guid": "FF983B7050731B2E",
+    "name": "medievial_wall_grey_bright",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

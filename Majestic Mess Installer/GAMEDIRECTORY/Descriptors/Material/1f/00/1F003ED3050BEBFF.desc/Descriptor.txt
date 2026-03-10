@@ -1,0 +1,9 @@
+{
+    "guid": "1F003ED3050BEBFF",
+    "sourceFilePath": "../assets/3D Models/Map/Scene map/playarea_Table_Cloth_Material.001.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "67C590A15E5D2B91"
+    ],
+    "properties": {}
+}

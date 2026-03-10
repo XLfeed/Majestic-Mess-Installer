@@ -1,0 +1,15 @@
+{
+    "guid": "2C89180E062800B0",
+    "sourceFilePath": "assets/3D Models/Library/medieval_library_stackofbooks.obj",
+    "dependencies": [
+        "66D829273497700F"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "palette",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

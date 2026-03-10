@@ -1,0 +1,8 @@
+{
+    "guid": "7078A2CE2D2815CD",
+    "sourceFilePath": "../assets/3D Models/Extraction/portal_green_palette.010.mat",
+    "dependencies": [
+        "B2B91947C3628F0D"
+    ],
+    "properties": {}
+}

@@ -1,0 +1,9 @@
+{
+    "guid": "CF7C43FDDF3B127C",
+    "sourceFilePath": "../assets/3D Models/Treasures/Treasure_small_Untitled_Material.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "8D0A4BDC3D415BC5"
+    ],
+    "properties": {}
+}

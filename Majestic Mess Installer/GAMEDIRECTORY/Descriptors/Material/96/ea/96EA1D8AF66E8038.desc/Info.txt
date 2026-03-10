@@ -1,0 +1,8 @@
+{
+    "guid": "96EA1D8AF66E8038",
+    "name": "Map_Crate_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

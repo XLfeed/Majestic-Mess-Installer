@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ..\assets\3D Models\Treasures\Treasure_2.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\17\55\17552C3000EF2151
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 60x60
+Generated 6 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\17\55\17552C3000EF2151.dds
+Output size: 2 KB
+Texture Compilation Completed Successfully

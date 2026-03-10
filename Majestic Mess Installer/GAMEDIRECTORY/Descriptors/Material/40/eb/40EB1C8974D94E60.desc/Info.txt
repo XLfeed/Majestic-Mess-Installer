@@ -1,0 +1,8 @@
+{
+    "guid": "40EB1C8974D94E60",
+    "name": "Map_Barrel_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

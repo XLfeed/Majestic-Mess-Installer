@@ -1,0 +1,8 @@
+{
+    "guid": "B2B4A87EF55867D1",
+    "name": "basic_fire",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

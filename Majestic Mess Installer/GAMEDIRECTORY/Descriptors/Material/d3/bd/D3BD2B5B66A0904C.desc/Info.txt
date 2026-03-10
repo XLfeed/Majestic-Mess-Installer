@@ -1,0 +1,8 @@
+{
+    "guid": "D3BD2B5B66A0904C",
+    "name": "Knight_Sword_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

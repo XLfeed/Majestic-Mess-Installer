@@ -1,0 +1,9 @@
+{
+    "guid": "5EA762772337CA9D",
+    "sourceFilePath": "../assets/3D Models/Barracks/Dummy_Dummy_Material.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "6A263F001B86EE23"
+    ],
+    "properties": {}
+}

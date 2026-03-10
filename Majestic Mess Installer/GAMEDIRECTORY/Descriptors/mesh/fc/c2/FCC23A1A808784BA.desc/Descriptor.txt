@@ -1,0 +1,15 @@
+{
+    "guid": "FCC23A1A808784BA",
+    "sourceFilePath": "assets/3D Models/Kitchen/kitchen_shelf.obj",
+    "dependencies": [
+        "F8BAC9EE6A94844C"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "palette",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

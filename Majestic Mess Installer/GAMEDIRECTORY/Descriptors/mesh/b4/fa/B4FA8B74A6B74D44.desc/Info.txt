@@ -1,0 +1,8 @@
+{
+    "guid": "B4FA8B74A6B74D44",
+    "name": "mug",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

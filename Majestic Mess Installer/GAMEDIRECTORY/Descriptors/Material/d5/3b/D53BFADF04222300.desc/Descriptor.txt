@@ -1,0 +1,9 @@
+{
+    "guid": "D53BFADF04222300",
+    "sourceFilePath": "../assets/3D Models/Extraction/medieval_portal_glow_palette.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "E476F9DC3A864F54"
+    ],
+    "properties": {}
+}

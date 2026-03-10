@@ -1,0 +1,15 @@
+{
+    "guid": "9B900B7FE1A236D1",
+    "sourceFilePath": "assets/3D Models/Barracks/Dummy.obj",
+    "dependencies": [
+        "5EA762772337CA9D"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "Dummy_Material",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "guid": "31D9863EFE6CA86C",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/Environmnt_m5_Barrier_Wooden_Material.051.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "DE746715405DD619"
+    ],
+    "properties": {}
+}

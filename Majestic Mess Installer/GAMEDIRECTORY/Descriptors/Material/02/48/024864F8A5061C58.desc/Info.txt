@@ -1,0 +1,8 @@
+{
+    "guid": "024864F8A5061C58",
+    "name": "Player_Cape_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

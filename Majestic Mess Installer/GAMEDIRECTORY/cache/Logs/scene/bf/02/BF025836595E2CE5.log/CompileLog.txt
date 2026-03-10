@@ -1,0 +1,10 @@
+Scene Compilation Started
+Source: ../assets/Scenes/win.scene
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\scene\bf\02\BF025836595E2CE5.scene
+Loaded JSON: 9875 bytes
+JSON validation passed
+Found 2 dependencies
+Original size: 9875 bytes
+Compressed size: 1529 bytes
+Compression ratio: 6.458469x
+Scene Compilation Completed Successfully

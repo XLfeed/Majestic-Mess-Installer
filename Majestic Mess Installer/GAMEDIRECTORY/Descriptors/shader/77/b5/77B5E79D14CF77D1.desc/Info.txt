@@ -1,0 +1,8 @@
+{
+    "guid": "77B5E79D14CF77D1",
+    "name": "text",
+    "comments": "",
+    "type": "Shader",
+    "virtualPath": [],
+    "links": []
+}

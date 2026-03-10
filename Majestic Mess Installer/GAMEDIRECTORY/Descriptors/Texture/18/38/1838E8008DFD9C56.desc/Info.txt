@@ -1,0 +1,8 @@
+{
+    "guid": "1838E8008DFD9C56",
+    "name": "LoseScreen",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

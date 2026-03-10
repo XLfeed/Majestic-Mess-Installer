@@ -1,0 +1,8 @@
+{
+    "guid": "9C1E9F70A4B82180",
+    "name": "medieval_kitchen_pot",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

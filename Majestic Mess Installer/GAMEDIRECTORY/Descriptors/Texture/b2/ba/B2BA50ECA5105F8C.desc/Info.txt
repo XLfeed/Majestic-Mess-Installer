@@ -1,0 +1,8 @@
+{
+    "guid": "B2BA50ECA5105F8C",
+    "name": "medievial_wall",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

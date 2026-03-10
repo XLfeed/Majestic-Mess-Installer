@@ -1,0 +1,12 @@
+{
+    "guid": "E553104C46F5FD85",
+    "sourceFilePath": "../assets/Textures/Bounty_List/Circle.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

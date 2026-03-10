@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets\Textures\Player\Player_Forearm.L.png
+Output: ..\cache\Resources\texture\1a\bb\1ABBAA14EB23A13F
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 6x6
+Generated 3 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: ..\cache\Resources\texture\1a\bb\1ABBAA14EB23A13F.dds
+Output size: 0 KB
+Texture Compilation Completed Successfully

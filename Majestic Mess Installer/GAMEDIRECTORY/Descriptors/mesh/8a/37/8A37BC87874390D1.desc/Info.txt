@@ -1,0 +1,8 @@
+{
+    "guid": "8A37BC87874390D1",
+    "name": "medieval_kitchen_chair",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

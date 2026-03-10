@@ -1,0 +1,9 @@
+Scene Compilation Started
+Source: ../assets/Scenes/kaibase.scene
+Output: ..\cache\Resources\scene\ca\a8\CAA8CB9352E4D8D.scene
+Loaded JSON: 12874 bytes
+JSON validation passed
+Original size: 12874 bytes
+Compressed size: 1970 bytes
+Compression ratio: 6.535026x
+Scene Compilation Completed Successfully

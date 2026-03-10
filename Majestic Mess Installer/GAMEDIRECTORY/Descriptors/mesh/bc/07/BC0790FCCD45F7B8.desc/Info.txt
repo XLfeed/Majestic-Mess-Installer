@@ -1,0 +1,8 @@
+{
+    "guid": "BC0790FCCD45F7B8",
+    "name": "medieval_bedroom_chest",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

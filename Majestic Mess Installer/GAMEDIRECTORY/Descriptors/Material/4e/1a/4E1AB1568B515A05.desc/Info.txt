@@ -1,0 +1,8 @@
+{
+    "guid": "4E1AB1568B515A05",
+    "name": "Celling_Material.002",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

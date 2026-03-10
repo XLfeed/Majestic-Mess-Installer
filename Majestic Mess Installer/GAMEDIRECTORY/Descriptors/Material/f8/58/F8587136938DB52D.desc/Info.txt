@@ -1,0 +1,8 @@
+{
+    "guid": "F8587136938DB52D",
+    "name": "wizardmap_palette.020",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

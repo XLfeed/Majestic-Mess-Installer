@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets\Knight2.png
+Output: ..\cache\Resources\texture\df\51\DF51C5CC24D42D0A
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 49x49
+Generated 6 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: ..\cache\Resources\texture\df\51\DF51C5CC24D42D0A.dds
+Output size: 1 KB
+Texture Compilation Completed Successfully

@@ -1,0 +1,12 @@
+{
+    "guid": "01AFEEC010E73787",
+    "sourceFilePath": "../assets/Textures/Player/Head.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

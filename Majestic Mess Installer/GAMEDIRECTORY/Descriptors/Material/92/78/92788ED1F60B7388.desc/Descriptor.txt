@@ -1,0 +1,9 @@
+{
+    "guid": "92788ED1F60B7388",
+    "sourceFilePath": "../assets/medieval_window/palette.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "A4D606ECAFC05FC6"
+    ],
+    "properties": {}
+}

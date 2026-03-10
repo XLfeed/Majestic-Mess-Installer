@@ -1,0 +1,15 @@
+{
+    "guid": "9BE6261E5C7C47EF",
+    "sourceFilePath": "assets/3D Models/Carpet/Carpet.obj",
+    "dependencies": [
+        "A760B83DA1668FB5"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "Carpet_Material.002",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "guid": "1783B96EA9FE6320",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/NavmeshObjs_m5_Barrel_Material.056.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "9A197723FE489E3B"
+    ],
+    "properties": {}
+}

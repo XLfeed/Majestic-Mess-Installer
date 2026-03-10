@@ -1,0 +1,8 @@
+{
+    "guid": "8F452CF2C26B618D",
+    "name": "Torch_Color",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,9 @@
+{
+    "guid": "4BCF3C75C3FDB39F",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/Environmnt_m5_Barrel_Material.037.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "9A197723FE489E3B"
+    ],
+    "properties": {}
+}

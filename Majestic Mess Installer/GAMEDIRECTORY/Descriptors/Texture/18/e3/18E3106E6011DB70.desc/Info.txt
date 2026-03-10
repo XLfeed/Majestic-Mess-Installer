@@ -1,0 +1,8 @@
+{
+    "guid": "18E3106E6011DB70",
+    "name": "sword_rack",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

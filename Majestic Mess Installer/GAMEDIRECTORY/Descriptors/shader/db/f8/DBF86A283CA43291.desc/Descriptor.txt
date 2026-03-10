@@ -1,0 +1,9 @@
+{
+    "guid": "DBF86A283CA43291",
+    "sourceFilePath": "../assets/Shaders/test.shader",
+    "dependencies": [],
+    "properties": {
+        "vertexShader": "test.vert",
+        "fragmentShader": "test.frag"
+    }
+}

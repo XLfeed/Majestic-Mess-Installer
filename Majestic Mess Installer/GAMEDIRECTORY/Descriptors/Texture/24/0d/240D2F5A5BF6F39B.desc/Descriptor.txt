@@ -1,0 +1,12 @@
+{
+    "guid": "240D2F5A5BF6F39B",
+    "sourceFilePath": "../assets/3D Models/Library/medieval_library_stackofbooks.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

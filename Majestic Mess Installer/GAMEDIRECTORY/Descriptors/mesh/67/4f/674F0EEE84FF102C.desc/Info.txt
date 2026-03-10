@@ -1,0 +1,8 @@
+{
+    "guid": "674F0EEE84FF102C",
+    "name": "spoon",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

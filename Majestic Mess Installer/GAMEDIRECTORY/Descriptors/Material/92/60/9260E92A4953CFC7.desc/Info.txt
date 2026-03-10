@@ -1,0 +1,8 @@
+{
+    "guid": "9260E92A4953CFC7",
+    "name": "Crate_Crate_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

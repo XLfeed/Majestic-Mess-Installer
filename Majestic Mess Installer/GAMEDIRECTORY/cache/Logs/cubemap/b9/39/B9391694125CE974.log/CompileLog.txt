@@ -1,0 +1,27 @@
+Cubemap Compilation Started
+Source: ../assets/Textures/Skybox/qwantani_morning_puresky_4k.hdr
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\cubemap\b9\39\B9391694125CE974
+Format: RGBA16F
+Loaded HDR image
+Loaded image: 4096x3072
+Detected horizontal cross layout (face size: 1024x1024)
+Extracting 6 cubemap faces...
+Extracted face 0
+Extracted face 1
+Extracted face 2
+Extracted face 3
+Extracted face 4
+Extracted face 5
+Skipping mipmap generation for HDR - will compress base level only
+  (BC6H compression of mipmaps is too slow - GPU will generate them)
+Compressing cubemap to RGBA16F...
+  Total images: 6 (6 faces × 1 mips)
+  Format: 95
+  Metadata: arraySize=6, miscFlags=0x4
+Skipping BC6H compression (too slow - would take 5-10 minutes)
+  Converting to RGBA16F (half-precision) instead
+  Trade-off: 2-3x larger files, but instant compilation and native GPU format
+Converted to RGBA16F with 11 mip levels
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\cubemap\b9\39\B9391694125CE974.dds
+Output size: 65536 KB
+Cubemap Compilation Completed Successfully

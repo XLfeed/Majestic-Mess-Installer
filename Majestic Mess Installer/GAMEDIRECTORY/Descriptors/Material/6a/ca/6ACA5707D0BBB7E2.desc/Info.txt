@@ -1,0 +1,8 @@
+{
+    "guid": "6ACA5707D0BBB7E2",
+    "name": "Barrel_Hideable_Player_Barrel_Hideable_Player_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

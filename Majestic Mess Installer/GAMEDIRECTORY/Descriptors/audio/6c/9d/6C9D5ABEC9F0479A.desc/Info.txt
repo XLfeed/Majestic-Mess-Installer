@@ -1,0 +1,8 @@
+{
+    "guid": "6C9D5ABEC9F0479A",
+    "name": "CropTop_170-1_bpm(v1)",
+    "comments": "",
+    "type": "Audio",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,12 @@
+{
+    "guid": "475D21308775C207",
+    "sourceFilePath": "../assets/Fonts/MedievalSharp-Book.ttf",
+    "dependencies": [],
+    "properties": {
+        "atlasHeight": "1024",
+        "atlasWidth": "1024",
+        "characterSet": "ascii",
+        "fontSize": "48",
+        "includeKerning": "true"
+    }
+}

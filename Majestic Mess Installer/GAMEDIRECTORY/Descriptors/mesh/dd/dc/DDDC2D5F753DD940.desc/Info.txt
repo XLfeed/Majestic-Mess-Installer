@@ -1,0 +1,8 @@
+{
+    "guid": "DDDC2D5F753DD940",
+    "name": "portal_pink",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Textures/UI/emerald_icon.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\49\05\490507C95BA89574
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 192x208
+Generated 8 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\49\05\490507C95BA89574.dds
+Output size: 26 KB
+Texture Compilation Completed Successfully

@@ -1,0 +1,12 @@
+{
+    "guid": "E556A61304A9499F",
+    "sourceFilePath": "../assets/Knight_CustomEngine/Shoulder.R.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

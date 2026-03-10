@@ -1,0 +1,26 @@
+{
+    "guid": "8FF3975E35CAB168",
+    "sourceFilePath": "assets/Scenes/settings.scene",
+    "dependencies": [
+        "D39F71152213FB36",
+        "E6F310DA5191B500",
+        "ABAE29F527BDB1C3",
+        "1681FBD0AB4FB95D",
+        "D77AAE3DABFEE992",
+        "9FA6A5CCC227B25E",
+        "B1C2D3E4F5060001",
+        "B1C2D3E4F5060002",
+        "B1C2D3E4F5060003",
+        "4E003E8D0F50E02F",
+        "A4E4793CA98F11FF",
+        "A3D96C6EEB71367B",
+        "933146C713058560",
+        "A4E4793CA98F11FF",
+        "A3D96C6EEB71367B",
+        "39589D2D5656B8C8",
+        "A4E4793CA98F11FF",
+        "A3D96C6EEB71367B",
+        "8FF3975E35CAB168"
+    ],
+    "properties": {}
+}

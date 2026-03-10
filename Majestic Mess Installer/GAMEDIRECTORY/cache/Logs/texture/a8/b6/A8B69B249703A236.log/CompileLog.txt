@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets\Textures\Player\Player_Cape.png
+Output: ..\cache\Resources\texture\a8\b6\A8B69B249703A236
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 35x35
+Generated 6 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: ..\cache\Resources\texture\a8\b6\A8B69B249703A236.dds
+Output size: 1 KB
+Texture Compilation Completed Successfully

@@ -1,0 +1,15 @@
+{
+    "guid": "674F0EEE84FF102C",
+    "sourceFilePath": "assets/3D Models/Kitchen/spoon.obj",
+    "dependencies": [
+        "F1894C0A2D151B94"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "palette",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

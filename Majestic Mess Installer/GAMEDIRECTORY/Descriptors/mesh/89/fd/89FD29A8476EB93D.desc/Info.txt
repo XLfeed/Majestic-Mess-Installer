@@ -1,0 +1,8 @@
+{
+    "guid": "89FD29A8476EB93D",
+    "name": "Crate",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

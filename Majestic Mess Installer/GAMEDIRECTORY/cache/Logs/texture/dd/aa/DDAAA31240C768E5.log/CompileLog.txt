@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Textures/Player/Cape.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\dd\aa\DDAAA31240C768E5
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 35x35
+Generated 6 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\dd\aa\DDAAA31240C768E5.dds
+Output size: 1 KB
+Texture Compilation Completed Successfully

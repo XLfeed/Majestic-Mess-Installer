@@ -1,0 +1,8 @@
+{
+    "guid": "B2516E76883D0202",
+    "name": "skybox",
+    "comments": "",
+    "type": "Shader",
+    "virtualPath": [],
+    "links": []
+}

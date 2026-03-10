@@ -1,0 +1,8 @@
+{
+    "guid": "D7C043F3BC7C4572",
+    "name": "skinned_standard",
+    "comments": "",
+    "type": "Shader",
+    "virtualPath": [],
+    "links": []
+}

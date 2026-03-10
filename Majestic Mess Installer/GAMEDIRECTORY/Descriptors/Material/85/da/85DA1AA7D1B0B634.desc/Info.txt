@@ -1,0 +1,8 @@
+{
+    "guid": "85DA1AA7D1B0B634",
+    "name": "wizardmap_MI_Trim_Metal.005",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

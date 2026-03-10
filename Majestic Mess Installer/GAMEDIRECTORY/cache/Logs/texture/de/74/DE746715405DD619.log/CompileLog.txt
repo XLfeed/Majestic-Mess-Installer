@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ..\assets\3D Models\Barrier\Barrier_Wooden\Barrier_Wooden.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\de\74\DE746715405DD619
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 27x27
+Generated 5 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\de\74\DE746715405DD619.dds
+Output size: 0 KB
+Texture Compilation Completed Successfully

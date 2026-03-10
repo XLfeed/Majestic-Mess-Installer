@@ -1,0 +1,8 @@
+{
+    "guid": "B453452550735C92",
+    "name": "hanzoFEET",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

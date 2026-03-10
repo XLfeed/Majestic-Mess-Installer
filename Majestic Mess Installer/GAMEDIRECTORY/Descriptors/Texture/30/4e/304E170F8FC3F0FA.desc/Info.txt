@@ -1,0 +1,8 @@
+{
+    "guid": "304E170F8FC3F0FA",
+    "name": "ThroneRoom-Door",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

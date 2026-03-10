@@ -1,0 +1,8 @@
+{
+    "guid": "81CFDB5CBBEFD9C9",
+    "name": "Barrel_Hideable_Player_Color",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

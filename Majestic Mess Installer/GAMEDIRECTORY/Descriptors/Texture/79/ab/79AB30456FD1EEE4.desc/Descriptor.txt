@@ -1,0 +1,12 @@
+{
+    "guid": "79AB30456FD1EEE4",
+    "sourceFilePath": "../assets/Textures/UI/skill_disguise_border 1.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC7_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "false",
+        "sRGB": "true"
+    }
+}

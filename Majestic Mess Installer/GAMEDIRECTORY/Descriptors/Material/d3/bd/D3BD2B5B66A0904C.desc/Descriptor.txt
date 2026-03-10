@@ -1,0 +1,9 @@
+{
+    "guid": "D3BD2B5B66A0904C",
+    "sourceFilePath": "assets/3D Models/Knight_CustomEngine/Knight_Sword_Material.mat",
+    "dependencies": [
+        "387A31872CF54AFF",
+        "3F10EC68D8295B48"
+    ],
+    "properties": {}
+}

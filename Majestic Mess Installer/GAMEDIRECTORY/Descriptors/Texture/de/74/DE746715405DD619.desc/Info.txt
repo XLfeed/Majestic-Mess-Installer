@@ -1,0 +1,8 @@
+{
+    "guid": "DE746715405DD619",
+    "name": "Barrier_Wooden",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

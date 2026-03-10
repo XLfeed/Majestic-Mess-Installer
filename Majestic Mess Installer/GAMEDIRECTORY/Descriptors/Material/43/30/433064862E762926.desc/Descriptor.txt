@@ -1,0 +1,9 @@
+{
+    "guid": "433064862E762926",
+    "sourceFilePath": "assets/3D Models/Map/Wizard room/wizardmap_Torch_Material.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "8F452CF2C26B618D"
+    ],
+    "properties": {}
+}

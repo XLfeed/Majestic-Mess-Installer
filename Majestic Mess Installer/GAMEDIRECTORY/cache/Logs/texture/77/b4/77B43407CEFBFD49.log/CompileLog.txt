@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Knight_CustomEngine/Head.png
+Output: ..\cache\Resources\texture\77\b4\77B43407CEFBFD49
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 24x24
+Generated 5 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: ..\cache\Resources\texture\77\b4\77B43407CEFBFD49.dds
+Output size: 0 KB
+Texture Compilation Completed Successfully

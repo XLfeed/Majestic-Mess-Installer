@@ -1,0 +1,15 @@
+{
+    "guid": "287FAB69A844863D",
+    "sourceFilePath": "assets/3D Models/Barrel/Barrel.obj",
+    "dependencies": [
+        "14AABADF668AF932"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "Barrel_Material.001",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

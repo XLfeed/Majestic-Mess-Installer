@@ -1,0 +1,9 @@
+{
+    "guid": "3EB06E93FB781E18",
+    "sourceFilePath": "assets/Textures/Player/Player_Thigh.R_Material.mat",
+    "dependencies": [
+        "387A31872CF54AFF",
+        "D66E4CF23CEA6748"
+    ],
+    "properties": {}
+}

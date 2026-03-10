@@ -1,0 +1,9 @@
+{
+    "guid": "B24174252309B47B",
+    "sourceFilePath": "assets/Scenes/my_scene.scene",
+    "dependencies": [
+        "B6E2E5332FB93EA1",
+        "B4887ADCE7134D9B"
+    ],
+    "properties": {}
+}

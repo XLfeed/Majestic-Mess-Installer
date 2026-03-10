@@ -1,0 +1,8 @@
+{
+    "guid": "6A263F001B86EE23",
+    "name": "Dummy_Color",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

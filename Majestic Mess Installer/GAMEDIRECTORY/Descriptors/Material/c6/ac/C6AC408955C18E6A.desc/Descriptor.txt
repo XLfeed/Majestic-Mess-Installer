@@ -1,0 +1,9 @@
+{
+    "guid": "C6AC408955C18E6A",
+    "sourceFilePath": "../assets/3D Models/Throne/palette.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "BB04C3DAA2C9664C"
+    ],
+    "properties": {}
+}

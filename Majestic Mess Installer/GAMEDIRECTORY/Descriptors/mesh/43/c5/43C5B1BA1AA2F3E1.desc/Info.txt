@@ -1,0 +1,8 @@
+{
+    "guid": "43C5B1BA1AA2F3E1",
+    "name": "NOTmegumin",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

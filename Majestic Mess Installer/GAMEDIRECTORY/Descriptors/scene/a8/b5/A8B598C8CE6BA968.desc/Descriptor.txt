@@ -1,0 +1,9 @@
+{
+    "guid": "A8B598C8CE6BA968",
+    "sourceFilePath": "assets/Scenes/pearltest.scene",
+    "dependencies": [
+        "BF868300F3646675",
+        "A8B598C8CE6BA968"
+    ],
+    "properties": {}
+}

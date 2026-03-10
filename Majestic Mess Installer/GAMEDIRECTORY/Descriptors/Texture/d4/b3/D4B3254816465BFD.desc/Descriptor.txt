@@ -1,0 +1,12 @@
+{
+    "guid": "D4B3254816465BFD",
+    "sourceFilePath": "../assets/Textures/UI/heart_icon.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "guid": "7078A2CE2D2815CD",
+    "name": "portal_green_palette.010",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,97 @@
+{
+    "prefab": {
+        "name": "FireEmitter",
+        "version": "1.0",
+        "serializer": "Engine::PrefabSerializer",
+        "count": 1
+    },
+    "entities": [
+        {
+            "name": "SmokeEmitter",
+            "id": 49,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "SmokeEmitter",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.44497764110565186,
+                            "y": 2.5718233585357666,
+                            "z": 0.14581573009490967
+                        },
+                        "scale": {
+                            "x": 1.0000017881393433,
+                            "y": 0.9999998211860657,
+                            "z": 1.0000016689300537
+                        },
+                        "rotation": {
+                            "x": 3.0924596786499023,
+                            "y": -1.3889304399490356,
+                            "z": -3.0826053619384766
+                        }
+                    }
+                },
+                {
+                    "type": "ParticleSystemComponent",
+                    "type_id": 18,
+                    "data": {
+                        "duration": 0.6000000238418579,
+                        "loop": false,
+                        "playOnAwake": false,
+                        "startDelay": 0.0,
+                        "startLifetime": 1.2999999523162842,
+                        "startSpeed": 1.2000000476837158,
+                        "startSize": 1.600000023841858,
+                        "startColor": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "gravityModifier": 0.0,
+                        "simulationSpaceLocal": true,
+                        "maxParticles": 1000,
+                        "emissionEnabled": true,
+                        "rateOverTime": 80.0,
+                        "shapeType": 1,
+                        "shapeAngle": 25.0,
+                        "shapeRadius": 0.25,
+                        "shapeBox": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "materialGuid": "",
+                        "textureGuid": "BCF7AF693756E37D",
+                        "useNoTexture": false,
+                        "offsetPosition": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "offsetRotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "offsetScale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "offsetWorldSpace": false
+                    }
+                }
+            ],
+            "parentName": "Player"
+        }
+    ]
+}

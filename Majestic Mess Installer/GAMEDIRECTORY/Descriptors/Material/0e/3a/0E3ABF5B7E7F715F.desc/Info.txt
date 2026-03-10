@@ -1,0 +1,8 @@
+{
+    "guid": "0E3ABF5B7E7F715F",
+    "name": "Map_Barrier_Wooden_Material.002",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

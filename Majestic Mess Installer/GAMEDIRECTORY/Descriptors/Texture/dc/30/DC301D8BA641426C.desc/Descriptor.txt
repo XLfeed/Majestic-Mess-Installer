@@ -1,0 +1,12 @@
+{
+    "guid": "DC301D8BA641426C",
+    "sourceFilePath": "../assets/Textures/Player/Thigh.L.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

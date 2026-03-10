@@ -1,0 +1,8 @@
+{
+    "guid": "5EDF53A3DF9B91BB",
+    "name": "Map_Table_Cloth_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

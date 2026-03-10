@@ -1,0 +1,8 @@
+{
+    "guid": "4266BD4F506EF5DD",
+    "sourceFilePath": "../assets/3D Models/Lighting/Untitled_Material.001.mat",
+    "dependencies": [
+        "B2B91947C3628F0D"
+    ],
+    "properties": {}
+}

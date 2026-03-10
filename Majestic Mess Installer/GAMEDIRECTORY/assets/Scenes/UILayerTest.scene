@@ -1,0 +1,1112 @@
+{
+    "entities": [
+        {
+            "name": "MainCamera",
+            "id": 1,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "MainCamera",
+                        "tag": "MainCamera"
+                    }
+                },
+                {
+                    "type": "CameraComponent",
+                    "type_id": 8,
+                    "data": {
+                        "isMainCamera": true,
+                        "Field of View": 60.0,
+                        "Near Plane": 0.10000000149011612,
+                        "Far Plane": 1000.0
+                    }
+                },
+                {
+                    "type": "MeshFilterComponent",
+                    "type_id": 7,
+                    "data": {
+                        "meshGuid": "PROCEDURAL_CUBE"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 10.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "MeshRendererComponent",
+                    "type_id": 6,
+                    "data": {
+                        "materialGuid": "DEFAULT_MATERIAL",
+                        "visible": false,
+                        "textureGuid": "",
+                        "colorOverride": { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "useColorOverride": false,
+                        "useNoTexture": true,
+                        "hasMaterialInstance": false,
+                        "instanceColorOverride": { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "instanceColorOverridden": false,
+                        "instanceShininessOverride": 0.5,
+                        "instanceShininessOverridden": false,
+                        "instanceOpacityOverride": 1.0,
+                        "instanceOpacityOverridden": false
+                    }
+                }
+            ]
+        },
+
+        {
+            "name": "UILayerTestCanvas",
+            "id": 2,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "UILayerTestCanvas",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "CanvasComponent",
+                    "type_id": 12,
+                    "data": {
+                        "sortOrder": 0,
+                        "referenceResolution": { "x": 1920.0, "y": 1080.0 },
+                        "scaleFactor": 1.0,
+                        "pixelPerfect": false,
+                        "planeDistance": 100.0,
+                        "Render In Scene View": true,
+                        "Render In Game View": true
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.0, "y": 0.0 },
+                        "anchorMax": { "x": 1.0, "y": 1.0 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": 0.0, "y": 0.0 },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": false,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 },
+                        "layerID": 0
+                    }
+                }
+            ]
+        },
+
+        {
+            "name": "Red_LayerID0_SO0",
+            "id": 3,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "Red_LayerID0_SO0",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.25, "y": 0.25 },
+                        "anchorMax": { "x": 0.75, "y": 0.75 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": 0.0, "y": 0.0 },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 },
+                        "layerID": 0
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": { "x": 0.85, "y": 0.15, "z": 0.15, "w": 1.0 },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": { "x": 0.0, "y": 0.0, "z": 1.0, "w": 1.0 },
+                        "sliceBorder": { "x": 0.0, "y": 0.0, "z": 0.0, "w": 0.0 },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "UILayerTestCanvas",
+            "uiParentName": "UILayerTestCanvas"
+        },
+
+        {
+            "name": "Green_LayerID0_SO1",
+            "id": 4,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "Green_LayerID0_SO1",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.20, "y": 0.30 },
+                        "anchorMax": { "x": 0.55, "y": 0.70 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": 0.0, "y": 0.0 },
+                        "sortOrder": 1
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 },
+                        "layerID": 0
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": { "x": 0.15, "y": 0.75, "z": 0.15, "w": 1.0 },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": { "x": 0.0, "y": 0.0, "z": 1.0, "w": 1.0 },
+                        "sliceBorder": { "x": 0.0, "y": 0.0, "z": 0.0, "w": 0.0 },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "UILayerTestCanvas",
+            "uiParentName": "UILayerTestCanvas"
+        },
+
+        {
+            "name": "Blue_LayerID1_SO0",
+            "id": 5,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "Blue_LayerID1_SO0",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.45, "y": 0.30 },
+                        "anchorMax": { "x": 0.80, "y": 0.70 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": 0.0, "y": 0.0 },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 },
+                        "layerID": 1
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": { "x": 0.15, "y": 0.35, "z": 0.90, "w": 1.0 },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": { "x": 0.0, "y": 0.0, "z": 1.0, "w": 1.0 },
+                        "sliceBorder": { "x": 0.0, "y": 0.0, "z": 0.0, "w": 0.0 },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "UILayerTestCanvas",
+            "uiParentName": "UILayerTestCanvas"
+        },
+
+        {
+            "name": "Yellow_LayerID2_SO0",
+            "id": 6,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "Yellow_LayerID2_SO0",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.40, "y": 0.40 },
+                        "anchorMax": { "x": 0.60, "y": 0.60 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": 0.0, "y": 0.0 },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 },
+                        "layerID": 2
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": { "x": 1.0, "y": 0.85, "z": 0.0, "w": 1.0 },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": { "x": 0.0, "y": 0.0, "z": 1.0, "w": 1.0 },
+                        "sliceBorder": { "x": 0.0, "y": 0.0, "z": 0.0, "w": 0.0 },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "UILayerTestCanvas",
+            "uiParentName": "UILayerTestCanvas"
+        },
+
+        {
+            "name": "Legacy_NoLayerField",
+            "id": 7,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "Legacy_NoLayerField",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.05, "y": 0.82 },
+                        "anchorMax": { "x": 0.35, "y": 0.97 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": 0.0, "y": 0.0 },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": false,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 }
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": { "x": 0.6, "y": 0.6, "z": 0.6, "w": 0.85 },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": { "x": 0.0, "y": 0.0, "z": 1.0, "w": 1.0 },
+                        "sliceBorder": { "x": 0.0, "y": 0.0, "z": 0.0, "w": 0.0 },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "UILayerTestCanvas",
+            "uiParentName": "UILayerTestCanvas"
+        },
+
+        {
+            "name": "PanelA_LayerID0",
+            "id": 8,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "PanelA_LayerID0",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.05, "y": 0.05 },
+                        "anchorMax": { "x": 0.45, "y": 0.22 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": 0.0, "y": 0.0 },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": false,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 },
+                        "layerID": 0
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": { "x": 0.25, "y": 0.10, "z": 0.40, "w": 0.7 },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": { "x": 0.0, "y": 0.0, "z": 1.0, "w": 1.0 },
+                        "sliceBorder": { "x": 0.0, "y": 0.0, "z": 0.0, "w": 0.0 },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "UILayerTestCanvas",
+            "uiParentName": "UILayerTestCanvas"
+        },
+
+        {
+            "name": "PanelA_Child_LayerID0",
+            "id": 9,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "PanelA_Child_LayerID0",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.0, "y": 0.0 },
+                        "anchorMax": { "x": 1.0, "y": 1.0 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": -10.0, "y": -10.0 },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 },
+                        "layerID": 0
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": { "x": 0.5, "y": 0.2, "z": 0.8, "w": 1.0 },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": { "x": 0.0, "y": 0.0, "z": 1.0, "w": 1.0 },
+                        "sliceBorder": { "x": 0.0, "y": 0.0, "z": 0.0, "w": 0.0 },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "PanelA_LayerID0",
+            "uiParentName": "PanelA_LayerID0"
+        },
+
+        {
+            "name": "PanelB_LayerID1",
+            "id": 10,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "PanelB_LayerID1",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.25, "y": 0.05 },
+                        "anchorMax": { "x": 0.65, "y": 0.22 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": 0.0, "y": 0.0 },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": false,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 },
+                        "layerID": 1
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": { "x": 0.10, "y": 0.30, "z": 0.25, "w": 0.7 },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": { "x": 0.0, "y": 0.0, "z": 1.0, "w": 1.0 },
+                        "sliceBorder": { "x": 0.0, "y": 0.0, "z": 0.0, "w": 0.0 },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "UILayerTestCanvas",
+            "uiParentName": "UILayerTestCanvas"
+        },
+
+        {
+            "name": "PanelB_Child_LayerID0",
+            "id": 11,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "PanelB_Child_LayerID0",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.0, "y": 0.0 },
+                        "anchorMax": { "x": 1.0, "y": 1.0 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": -10.0, "y": -10.0 },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 },
+                        "layerID": 0
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": { "x": 0.2, "y": 0.65, "z": 0.5, "w": 1.0 },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": { "x": 0.0, "y": 0.0, "z": 1.0, "w": 1.0 },
+                        "sliceBorder": { "x": 0.0, "y": 0.0, "z": 0.0, "w": 0.0 },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "PanelB_LayerID1",
+            "uiParentName": "PanelB_LayerID1"
+        },
+
+        {
+            "name": "CanvasB_SO1",
+            "id": 12,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "CanvasB_SO1",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "CanvasComponent",
+                    "type_id": 12,
+                    "data": {
+                        "sortOrder": 1,
+                        "referenceResolution": { "x": 1920.0, "y": 1080.0 },
+                        "scaleFactor": 1.0,
+                        "pixelPerfect": false,
+                        "planeDistance": 100.0,
+                        "Render In Scene View": true,
+                        "Render In Game View": true
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.0, "y": 0.0 },
+                        "anchorMax": { "x": 1.0, "y": 1.0 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": 0.0, "y": 0.0 },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": false,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 },
+                        "layerID": 0
+                    }
+                }
+            ]
+        },
+
+        {
+            "name": "CB_Panel_BG_LayerID0",
+            "id": 13,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "CB_Panel_BG_LayerID0",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.55, "y": 0.25 },
+                        "anchorMax": { "x": 0.95, "y": 0.75 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": 0.0, "y": 0.0 },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": false,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 },
+                        "layerID": 0
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": { "x": 0.55, "y": 0.10, "z": 0.55, "w": 0.9 },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": { "x": 0.0, "y": 0.0, "z": 1.0, "w": 1.0 },
+                        "sliceBorder": { "x": 0.0, "y": 0.0, "z": 0.0, "w": 0.0 },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "CanvasB_SO1",
+            "uiParentName": "CanvasB_SO1"
+        },
+
+        {
+            "name": "CB_BG_SubChild_LayerID0",
+            "id": 14,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "CB_BG_SubChild_LayerID0",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.05, "y": 0.1 },
+                        "anchorMax": { "x": 0.55, "y": 0.9 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": 0.0, "y": 0.0 },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 },
+                        "layerID": 0
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": { "x": 0.80, "y": 0.30, "z": 0.80, "w": 1.0 },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": { "x": 0.0, "y": 0.0, "z": 1.0, "w": 1.0 },
+                        "sliceBorder": { "x": 0.0, "y": 0.0, "z": 0.0, "w": 0.0 },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "CB_Panel_BG_LayerID0",
+            "uiParentName": "CB_Panel_BG_LayerID0"
+        },
+
+        {
+            "name": "CB_BG_SubChild_LayerID1",
+            "id": 15,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "CB_BG_SubChild_LayerID1",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.45, "y": 0.1 },
+                        "anchorMax": { "x": 0.95, "y": 0.9 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": 0.0, "y": 0.0 },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 },
+                        "layerID": 1
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": { "x": 1.0, "y": 0.55, "z": 1.0, "w": 1.0 },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": { "x": 0.0, "y": 0.0, "z": 1.0, "w": 1.0 },
+                        "sliceBorder": { "x": 0.0, "y": 0.0, "z": 0.0, "w": 0.0 },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "CB_Panel_BG_LayerID0",
+            "uiParentName": "CB_Panel_BG_LayerID0"
+        },
+
+        {
+            "name": "CB_Panel_Mid_LayerID1",
+            "id": 16,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "CB_Panel_Mid_LayerID1",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.60, "y": 0.30 },
+                        "anchorMax": { "x": 0.92, "y": 0.70 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": 0.0, "y": 0.0 },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": false,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 },
+                        "layerID": 1
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": { "x": 0.10, "y": 0.65, "z": 0.65, "w": 0.9 },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": { "x": 0.0, "y": 0.0, "z": 1.0, "w": 1.0 },
+                        "sliceBorder": { "x": 0.0, "y": 0.0, "z": 0.0, "w": 0.0 },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "CanvasB_SO1",
+            "uiParentName": "CanvasB_SO1"
+        },
+
+        {
+            "name": "CB_Mid_Child_LayerID0",
+            "id": 17,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "CB_Mid_Child_LayerID0",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.05, "y": 0.1 },
+                        "anchorMax": { "x": 0.95, "y": 0.9 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": -8.0, "y": -8.0 },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 },
+                        "layerID": 0
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": { "x": 0.20, "y": 0.90, "z": 0.90, "w": 1.0 },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": { "x": 0.0, "y": 0.0, "z": 1.0, "w": 1.0 },
+                        "sliceBorder": { "x": 0.0, "y": 0.0, "z": 0.0, "w": 0.0 },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "CB_Panel_Mid_LayerID1",
+            "uiParentName": "CB_Panel_Mid_LayerID1"
+        },
+
+        {
+            "name": "CB_Panel_Top_LayerID2",
+            "id": 18,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "CB_Panel_Top_LayerID2",
+                        "tag": "UI"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+                        "scale":    { "x": 1.0, "y": 1.0, "z": 1.0 },
+                        "rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": { "x": 0.67, "y": 0.38 },
+                        "anchorMax": { "x": 0.88, "y": 0.62 },
+                        "pivot": { "x": 0.5, "y": 0.5 },
+                        "anchoredPosition": { "x": 0.0, "y": 0.0 },
+                        "sizeDelta": { "x": 0.0, "y": 0.0 },
+                        "sortOrder": 0
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": { "x": 1.0, "y": 1.0, "z": 1.0, "w": 1.0 },
+                        "layerID": 2
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "",
+                        "color": { "x": 1.0, "y": 0.50, "z": 0.0, "w": 1.0 },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": { "x": 0.0, "y": 0.0, "z": 1.0, "w": 1.0 },
+                        "sliceBorder": { "x": 0.0, "y": 0.0, "z": 0.0, "w": 0.0 },
+                        "enabled": true
+                    }
+                }
+            ],
+            "parentName": "CanvasB_SO1",
+            "uiParentName": "CanvasB_SO1"
+        }
+    ]
+}

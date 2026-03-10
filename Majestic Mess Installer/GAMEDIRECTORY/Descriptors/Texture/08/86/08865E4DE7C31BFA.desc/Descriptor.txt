@@ -1,0 +1,12 @@
+{
+    "guid": "08865E4DE7C31BFA",
+    "sourceFilePath": "../assets/Textures/Treasure_3/Spacebar_2.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

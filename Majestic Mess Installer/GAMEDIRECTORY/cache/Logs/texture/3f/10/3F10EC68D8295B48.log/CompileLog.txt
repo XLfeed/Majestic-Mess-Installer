@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ..\assets\3D Models\Knight_CustomEngine\Sword.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\3f\10\3F10EC68D8295B48
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 26x26
+Generated 5 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\3f\10\3F10EC68D8295B48.dds
+Output size: 0 KB
+Texture Compilation Completed Successfully

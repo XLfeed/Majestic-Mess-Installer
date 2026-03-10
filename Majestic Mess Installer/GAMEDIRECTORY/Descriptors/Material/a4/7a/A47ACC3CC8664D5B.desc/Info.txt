@@ -1,0 +1,8 @@
+{
+    "guid": "A47ACC3CC8664D5B",
+    "name": "NavmeshObjs_m5_Crate_Material.094",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

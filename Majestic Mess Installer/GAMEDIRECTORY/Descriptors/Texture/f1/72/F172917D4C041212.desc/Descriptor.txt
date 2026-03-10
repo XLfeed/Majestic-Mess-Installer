@@ -1,0 +1,12 @@
+{
+    "guid": "F172917D4C041212",
+    "sourceFilePath": "../assets/Knight_CustomEngine/Torso.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

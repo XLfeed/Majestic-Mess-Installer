@@ -1,0 +1,8 @@
+{
+    "guid": "017CBA39E80980D8",
+    "name": "Rubik Doodle Shadow-Regular",
+    "comments": "",
+    "type": "Font",
+    "virtualPath": [],
+    "links": []
+}

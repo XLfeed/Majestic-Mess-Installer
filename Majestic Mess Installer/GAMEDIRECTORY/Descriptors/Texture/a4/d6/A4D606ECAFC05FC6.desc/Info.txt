@@ -1,0 +1,8 @@
+{
+    "guid": "A4D606ECAFC05FC6",
+    "name": "medieval_window_interior",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,12 @@
+{
+    "guid": "1681FBD0AB4FB95D",
+    "sourceFilePath": "../assets/Textures/Menu/Settings.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

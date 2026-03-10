@@ -1,0 +1,8 @@
+{
+    "guid": "4987B8910E267AE0",
+    "name": "scuff_method_1",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,8 @@
+{
+    "guid": "0A76F482FE8B4A0A",
+    "name": "ThroneRoom-Door",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

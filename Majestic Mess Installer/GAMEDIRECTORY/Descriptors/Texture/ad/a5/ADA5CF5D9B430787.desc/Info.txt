@@ -1,0 +1,8 @@
+{
+    "guid": "ADA5CF5D9B430787",
+    "name": "crosshair118",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

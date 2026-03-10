@@ -1,0 +1,9 @@
+{
+    "guid": "6ACA5707D0BBB7E2",
+    "sourceFilePath": "../assets/3D Models/Barrel/Barrel_Hideable_Player_Barrel_Hideable_Player_Material.mat",
+    "dependencies": [
+        "6AE9922563A60EA5",
+        "81CFDB5CBBEFD9C9"
+    ],
+    "properties": {}
+}

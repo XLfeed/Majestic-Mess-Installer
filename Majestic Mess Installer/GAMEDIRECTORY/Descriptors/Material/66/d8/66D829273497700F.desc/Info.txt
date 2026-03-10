@@ -1,0 +1,8 @@
+{
+    "guid": "66D829273497700F",
+    "name": "medieval_library_stackofbooks_palette",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

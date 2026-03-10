@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ..\assets\3D Models\Knight_CustomEngine\Shoulder.R.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\e5\56\E556A61304A9499F
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 15x15
+Generated 4 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\e5\56\E556A61304A9499F.dds
+Output size: 0 KB
+Texture Compilation Completed Successfully

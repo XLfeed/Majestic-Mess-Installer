@@ -1,0 +1,8 @@
+{
+    "guid": "D41B7878555CFD95",
+    "name": "PhoneScreen_3",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,9 @@
+{
+    "guid": "90134A7D370573AE",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/NavmeshObjs_m5_Table_Cloth_Material.012.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "67C590A15E5D2B91"
+    ],
+    "properties": {}
+}

@@ -1,0 +1,8 @@
+{
+    "guid": "9B2EFF73EFAC585D",
+    "name": "Shop_BG",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

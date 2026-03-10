@@ -1,0 +1,8 @@
+{
+    "guid": "490507C95BA89574",
+    "name": "emerald_icon",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

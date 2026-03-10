@@ -1,0 +1,8 @@
+{
+    "guid": "A8B598C8CE6BA968",
+    "name": "pearltest",
+    "comments": "",
+    "type": "Scene",
+    "virtualPath": [],
+    "links": []
+}

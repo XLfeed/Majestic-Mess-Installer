@@ -1,0 +1,6 @@
+{
+    "guid": "058FD130F812AD12",
+    "sourceFilePath": "../assets/Audio/SFX/BGM_Level_Normal_01.wav",
+    "dependencies": [],
+    "properties": {}
+}

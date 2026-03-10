@@ -1,0 +1,8 @@
+{
+    "guid": "BED0B6877D73CE62",
+    "name": "Treasure_1_List",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

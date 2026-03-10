@@ -1,0 +1,8 @@
+{
+    "guid": "6F4C64B9308AA61A",
+    "name": "guard_bed",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

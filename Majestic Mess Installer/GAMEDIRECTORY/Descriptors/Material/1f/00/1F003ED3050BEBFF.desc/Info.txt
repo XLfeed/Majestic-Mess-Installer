@@ -1,0 +1,8 @@
+{
+    "guid": "1F003ED3050BEBFF",
+    "name": "playarea_Table_Cloth_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

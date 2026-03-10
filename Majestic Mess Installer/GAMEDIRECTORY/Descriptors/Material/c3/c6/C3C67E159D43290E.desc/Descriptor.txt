@@ -1,0 +1,9 @@
+{
+    "guid": "C3C67E159D43290E",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/Celling_Material.023.mat",
+    "dependencies": [
+        "6AE9922563A60EA5",
+        "5FC0CB4881C80DFC"
+    ],
+    "properties": {}
+}

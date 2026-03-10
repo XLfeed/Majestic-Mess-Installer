@@ -1,0 +1,8 @@
+{
+    "guid": "0779F52A5DB2DFAC",
+    "name": "medieval_bedroom_chest",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

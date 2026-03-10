@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets\KnighttoSend\Knight_CustomEngine (1)\Sword.png
+Output: ..\cache\Resources\texture\7f\54\7F5437DC4ED9FB7E
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 26x26
+Generated 5 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: ..\cache\Resources\texture\7f\54\7F5437DC4ED9FB7E.dds
+Output size: 0 KB
+Texture Compilation Completed Successfully

@@ -1,0 +1,15 @@
+{
+    "guid": "0B74A276A68B15EA",
+    "sourceFilePath": "assets/3D Models/Extraction/portal_pink.obj",
+    "dependencies": [
+        "6F131F59B4D35B89"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "portal_pink_Material",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

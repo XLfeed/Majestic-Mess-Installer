@@ -1,0 +1,8 @@
+{
+    "guid": "75F8D59C9DA3921F",
+    "name": "Enemy_SwordAttack_03 1",
+    "comments": "",
+    "type": "Audio",
+    "virtualPath": [],
+    "links": []
+}

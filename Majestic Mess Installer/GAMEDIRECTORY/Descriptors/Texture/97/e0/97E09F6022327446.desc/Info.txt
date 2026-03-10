@@ -1,0 +1,8 @@
+{
+    "guid": "97E09F6022327446",
+    "name": "Arm.L",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

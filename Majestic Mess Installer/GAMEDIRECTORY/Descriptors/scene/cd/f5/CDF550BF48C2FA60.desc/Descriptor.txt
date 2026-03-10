@@ -1,0 +1,9 @@
+{
+    "guid": "CDF550BF48C2FA60",
+    "sourceFilePath": "../assets/Scenes/main_menu.scene",
+    "dependencies": [
+        "6AA1460620772B76",
+        "B7EE667CADDE1015"
+    ],
+    "properties": {}
+}

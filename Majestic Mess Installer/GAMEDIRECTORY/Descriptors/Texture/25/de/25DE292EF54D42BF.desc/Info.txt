@@ -1,0 +1,8 @@
+{
+    "guid": "25DE292EF54D42BF",
+    "name": "Hand",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

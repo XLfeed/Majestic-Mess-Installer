@@ -1,0 +1,8 @@
+{
+    "guid": "D66E4CF23CEA6748",
+    "name": "Thigh.R",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

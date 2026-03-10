@@ -1,0 +1,8 @@
+{
+    "guid": "C04DF8C10ADF3190",
+    "name": "Torso_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

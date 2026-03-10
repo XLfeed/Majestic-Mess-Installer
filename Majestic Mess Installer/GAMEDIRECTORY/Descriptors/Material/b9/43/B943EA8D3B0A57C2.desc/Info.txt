@@ -1,0 +1,8 @@
+{
+    "guid": "B943EA8D3B0A57C2",
+    "name": "wizardmap_DefaultMaterial",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

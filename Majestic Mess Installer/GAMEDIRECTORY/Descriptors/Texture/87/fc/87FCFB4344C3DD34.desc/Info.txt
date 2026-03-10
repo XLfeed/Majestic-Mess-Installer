@@ -1,0 +1,8 @@
+{
+    "guid": "87FCFB4344C3DD34",
+    "name": "medieval_bedroom_bed",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

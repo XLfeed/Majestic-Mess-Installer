@@ -1,0 +1,8 @@
+{
+    "guid": "79AB30456FD1EEE4",
+    "name": "skill_disguise_border 1",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,0 +1,9 @@
+{
+    "guid": "9FBC22D408CCF2CF",
+    "sourceFilePath": "../assets/Objects/Table_Cloth/Table_Cloth_Material.001.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "67C590A15E5D2B91"
+    ],
+    "properties": {}
+}

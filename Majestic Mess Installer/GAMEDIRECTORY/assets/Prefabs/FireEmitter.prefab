@@ -1,0 +1,101 @@
+{
+    "prefab": {
+        "name": "FireEmitter",
+        "version": "1.0",
+        "serializer": "Engine::PrefabSerializer",
+        "count": 1
+    },
+    "entities": [
+        {
+            "name": "FireEmitter",
+            "id": 50,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "FireEmitter",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "ParticleSystemComponent",
+                    "type_id": 18,
+                    "data": {
+                        "duration": 0.6000000238418579,
+                        "loop": false,
+                        "playOnAwake": false,
+                        "startDelay": 0.0,
+                        "startLifetime": 1.2999999523162842,
+                        "startSpeed": 1.2000000476837158,
+                        "startSize": 1.600000023841858,
+                        "startColor": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "gravityModifier": 0.0,
+                        "simulationSpaceLocal": true,
+                        "maxParticles": 1000,
+                        "emissionEnabled": true,
+                        "rateOverTime": 80.0,
+                        "shapeType": 1,
+                        "shapeAngle": 25.0,
+                        "shapeRadius": 0.25,
+                        "shapeBox": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "materialGuid": "",
+                        "textureGuid": "B2B4A87EF55867D1",
+                        "useNoTexture": false,
+                        "blendMode": 1,
+                        "softParticles": true,
+                        "softParticlesDistance": 0.5,
+                        "offsetPosition": {
+                            "x": 0.0,
+                            "y": 1.5,
+                            "z": 0.0
+                        },
+                        "offsetRotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "offsetScale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "offsetWorldSpace": false,
+                        "useCustomSeed": false,
+                        "randomSeed": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

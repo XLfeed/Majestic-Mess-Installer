@@ -1,0 +1,8 @@
+{
+    "guid": "E77AE0A74DD9D383",
+    "name": "NavmeshObjs_m5_Table_Cloth_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

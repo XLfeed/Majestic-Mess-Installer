@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: ../assets/Textures/hanzoFEET.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\b4\53\B453452550735C92
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 820x874
+Generated 10 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\b4\53\B453452550735C92.dds
+Output size: 469 KB
+Texture Compilation Completed Successfully

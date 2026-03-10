@@ -1,0 +1,9 @@
+{
+    "guid": "40212CAA9CE572BE",
+    "sourceFilePath": "../assets/3D Models/Map/Scene map/playarea_palette.009.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "EB08987D9F197F5F"
+    ],
+    "properties": {}
+}

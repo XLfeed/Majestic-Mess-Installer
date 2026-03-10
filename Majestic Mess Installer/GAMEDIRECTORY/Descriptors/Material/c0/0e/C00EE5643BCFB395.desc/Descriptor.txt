@@ -1,0 +1,9 @@
+{
+    "guid": "C00EE5643BCFB395",
+    "sourceFilePath": "assets/Textures/Player/Player_Forearm.R_Material.mat",
+    "dependencies": [
+        "387A31872CF54AFF",
+        "64D4A09F11E096F5"
+    ],
+    "properties": {}
+}

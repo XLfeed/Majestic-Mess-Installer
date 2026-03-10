@@ -1,0 +1,8 @@
+{
+    "guid": "45739B3B21AC3AD4",
+    "name": "PhoneScreen_SpriteSheet",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

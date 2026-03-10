@@ -1,0 +1,9 @@
+{
+    "guid": "1E1BA9DF50828228",
+    "sourceFilePath": "../assets/3D Models/Bedroom/medieval_bedroom_bed_palette.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "87FCFB4344C3DD34"
+    ],
+    "properties": {}
+}

@@ -1,0 +1,12 @@
+{
+    "guid": "BCF7AF693756E37D",
+    "sourceFilePath": "../assets/Textures/basic_smoke.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC3_UNORM",
+        "compressionQuality": "DEFAULT",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

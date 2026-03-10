@@ -1,0 +1,8 @@
+{
+    "guid": "E553104C46F5FD85",
+    "name": "Circle",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

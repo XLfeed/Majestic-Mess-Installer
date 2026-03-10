@@ -1,0 +1,8 @@
+{
+    "guid": "4F12E41F6D3B241E",
+    "name": "Floor",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}
