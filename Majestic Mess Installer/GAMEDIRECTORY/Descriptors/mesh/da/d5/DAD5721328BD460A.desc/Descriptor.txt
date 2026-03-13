@@ -1,0 +1,15 @@
+{
+    "guid": "DAD5721328BD460A",
+    "sourceFilePath": "assets/3D Models/Library/Closescroll.obj",
+    "dependencies": [
+        "AB95C3FBC2CF703B"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "Closescroll_Material.001",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

@@ -1,6 +1,6 @@
 {
     "guid": "BDD40D9474BA9DEA",
-    "sourceFilePath": "../assets/Textures/Menu/Mainmenu.png",
+    "sourceFilePath": "assets/Textures/Menu/Mainmenu.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

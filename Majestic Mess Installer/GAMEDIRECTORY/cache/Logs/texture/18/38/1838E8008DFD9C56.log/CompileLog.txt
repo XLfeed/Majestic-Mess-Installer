@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/Menu/LoseScreen.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Menu\LoseScreen.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\18\38\1838E8008DFD9C56
 Format: BC1_UNORM
 Mipmaps: Enabled

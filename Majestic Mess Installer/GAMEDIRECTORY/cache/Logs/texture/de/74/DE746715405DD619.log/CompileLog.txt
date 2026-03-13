@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ..\assets\3D Models\Barrier\Barrier_Wooden\Barrier_Wooden.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Barrier\Barrier_Wooden\Barrier_Wooden.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\de\74\DE746715405DD619
 Format: BC1_UNORM
 Mipmaps: Enabled

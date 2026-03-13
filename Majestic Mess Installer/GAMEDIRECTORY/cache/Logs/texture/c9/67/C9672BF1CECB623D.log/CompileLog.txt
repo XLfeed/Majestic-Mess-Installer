@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/UI/exmark.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\UI\exmark.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\c9\67\C9672BF1CECB623D
 Format: BC1_UNORM
 Mipmaps: Enabled

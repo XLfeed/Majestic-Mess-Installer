@@ -1,5 +1,5 @@
 Cubemap Compilation Started
-Source: ../assets/Textures/Skybox/qwantani_morning_puresky_4k.hdr
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Skybox\qwantani_morning_puresky_4k.hdr
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\cubemap\b9\39\B9391694125CE974
 Format: RGBA16F
 Loaded HDR image

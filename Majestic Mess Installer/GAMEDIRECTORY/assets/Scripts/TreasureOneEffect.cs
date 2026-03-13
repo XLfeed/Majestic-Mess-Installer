@@ -137,7 +137,7 @@ public class TreasureOneEffect : Entity
     void ScheduleNextSound()
     {
         
-        timeLeftToNext = 4.0f;
+        timeLeftToNext = 7.0f;
         
     }   
 }

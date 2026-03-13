@@ -1,6 +1,6 @@
 {
     "guid": "5EDF53A3DF9B91BB",
-    "sourceFilePath": "../assets/3D Models/Map/Scene map/Map_Table_Cloth_Material.001.mat",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/Map_Table_Cloth_Material.001.mat",
     "dependencies": [
         "B2B91947C3628F0D",
         "67C590A15E5D2B91"

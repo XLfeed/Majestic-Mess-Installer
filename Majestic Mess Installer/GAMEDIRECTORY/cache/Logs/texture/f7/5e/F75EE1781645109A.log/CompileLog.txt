@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Shop\CloseButton_Highlighted.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\f7\5e\F75EE1781645109A
+Format: BC3_UNORM_SRGB
+Mipmaps: Enabled
+Loaded image: 435x125
+Generated 9 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC3_UNORM_SRGB... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\f7\5e\F75EE1781645109A.dds
+Output size: 72 KB
+Texture Compilation Completed Successfully

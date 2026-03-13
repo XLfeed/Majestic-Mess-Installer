@@ -1,8 +1,0 @@
-{
-    "guid": "CBDB8360DDDE3D73",
-    "name": "Treasure_3_Material",
-    "comments": "",
-    "type": "Material",
-    "virtualPath": [],
-    "links": []
-}

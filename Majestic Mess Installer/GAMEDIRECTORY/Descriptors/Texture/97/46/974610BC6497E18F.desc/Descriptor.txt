@@ -1,6 +1,6 @@
 {
     "guid": "974610BC6497E18F",
-    "sourceFilePath": "../assets/3D Models/Kitchen/pan.png",
+    "sourceFilePath": "assets/3D Models/Kitchen/pan.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

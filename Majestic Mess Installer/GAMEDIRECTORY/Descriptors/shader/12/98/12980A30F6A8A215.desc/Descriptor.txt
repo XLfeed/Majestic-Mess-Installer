@@ -1,6 +1,6 @@
 {
     "guid": "12980A30F6A8A215",
-    "sourceFilePath": "C:/git repo/PanKek-GAM300/PanKek/assets/Shaders/screen_gamma.shader",
+    "sourceFilePath": "assets/Shaders/screen_gamma.shader",
     "dependencies": [],
     "properties": {
         "fragmentShader": "screen_gamma.frag",

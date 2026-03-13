@@ -1,6 +1,6 @@
 {
     "guid": "5FC0CB4881C80DFC",
-    "sourceFilePath": "../assets/Textures/Environment/medievial_ceiling_beam.png",
+    "sourceFilePath": "assets/Textures/Environment/medievial_ceiling_beam.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

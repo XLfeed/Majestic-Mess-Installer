@@ -1,6 +1,6 @@
 {
     "guid": "DF38082D1B9D807F",
-    "sourceFilePath": "../assets/3D Models/Kitchen/medieval_kitchen_table.png",
+    "sourceFilePath": "assets/3D Models/Kitchen/medieval_kitchen_table.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

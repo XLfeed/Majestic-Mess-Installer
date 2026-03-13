@@ -1,0 +1,12 @@
+{
+    "guid": "F92EA8641DF2766F",
+    "sourceFilePath": "assets/Textures/Bounty_List/Map_Level2.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

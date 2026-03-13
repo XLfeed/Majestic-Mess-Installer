@@ -1,0 +1,8 @@
+{
+    "guid": "42442C5952FCD305",
+    "name": "Celling_L2_m5",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

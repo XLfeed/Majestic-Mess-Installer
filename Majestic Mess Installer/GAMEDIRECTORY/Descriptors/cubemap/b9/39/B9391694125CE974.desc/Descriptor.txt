@@ -1,6 +1,6 @@
 {
     "guid": "B9391694125CE974",
-    "sourceFilePath": "../assets/Textures/Skybox/qwantani_morning_puresky_4k.hdr",
+    "sourceFilePath": "assets/Textures/Skybox/qwantani_morning_puresky_4k.hdr",
     "dependencies": [],
     "properties": {
         "compressionFormat": "RGBA16F",

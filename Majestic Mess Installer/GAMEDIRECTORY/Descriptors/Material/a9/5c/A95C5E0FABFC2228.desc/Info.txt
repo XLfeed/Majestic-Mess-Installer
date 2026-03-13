@@ -1,8 +1,0 @@
-{
-    "guid": "A95C5E0FABFC2228",
-    "name": "Treasure_1_Material.002",
-    "comments": "",
-    "type": "Material",
-    "virtualPath": [],
-    "links": []
-}

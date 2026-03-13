@@ -1,10 +1,10 @@
 Scene Compilation Started
-Source: ../assets/Scenes/lose.scene
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Scenes\lose.scene
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\scene\ba\fc\BAFC846720093990.scene
-Loaded JSON: 9877 bytes
+Loaded JSON: 25058 bytes
 JSON validation passed
-Found 2 dependencies
-Original size: 9877 bytes
-Compressed size: 1530 bytes
-Compression ratio: 6.455555x
+Found 4 dependencies
+Original size: 25058 bytes
+Compressed size: 2315 bytes
+Compression ratio: 10.824190x
 Scene Compilation Completed Successfully

@@ -12,17 +12,20 @@ public class ScrollOfCinderSkill : Entity
     public float CooldownRemaining => MathF.Max(0f, cooldownTimer);
     public float CooldownDuration => cooldown;
     public bool IsOnCooldown => cooldownTimer > 0f;
+    public bool IsUnlocked => PickUpItemManager.IsCinderUnlocked();
 
     // Skill parameters
 
     public KeyCode castKey = KeyCode.E;
-    public float cinderRange = 7.0f;
+    public float cinderRange = 21.0f; // original: 7.0f
     public float cinderAngleDegrees = 60.0f;
     public string enemyTag = "Enemy";
     public bool cinderDebugLog = true;
+    public bool requireLineOfSight = true;
+    public float lineOfSightRayBias = 0.05f;
     public float cooldown = 2.0f;
-    public int maxCharges = 2;
-    public int currCharges = 2;
+    public int maxCharges = 10;
+    public int currCharges = 10;
 
     // VFX (Fire) - prefab spawn
     public string burnEmitterPrefabName = "FireEmitter";
@@ -157,7 +160,7 @@ public class ScrollOfCinderSkill : Entity
         if (tf == null)
             return;
 
-        if (cooldownTimer > 0f || currCharges <= 0)
+        if (!IsUnlocked || cooldownTimer > 0f || currCharges <= 0)
             return;
 
         Vector3 myPos = tf.Position;
@@ -192,10 +195,14 @@ public class ScrollOfCinderSkill : Entity
             if (toEnemyMag <= 0.0001f)
                 continue;
 
-            float dot = Vector3.Dot(forward, toEnemy / toEnemyMag);
+            Vector3 toEnemyDir = toEnemy / toEnemyMag;
+            float dot = Vector3.Dot(forward, toEnemyDir);
             //if (dot < cosHalfAngle)
             //    continue;
             // Cone check removed allow 360 around the player.
+
+            if (requireLineOfSight && !HasLineOfSight(myPos, enemy, toEnemyDir, toEnemyMag))
+                continue;
 
             if (dist2 <= range2)
             {
@@ -422,10 +429,33 @@ public class ScrollOfCinderSkill : Entity
 
     public bool TryUseSkill()
     {
+        if (!IsUnlocked)
+        {
+            if (cinderDebugLog)
+                Debug.Log("[Cinder] Locked. Pick up TreasureTwo.");
+            return false;
+        }
+
         if (cooldownTimer > 0f || currCharges <= 0)
             return false;
         Cast();
         return true;
+    }
+
+    private bool HasLineOfSight(Vector3 myPos, Entity enemy, Vector3 toEnemyDir, float toEnemyDistance)
+    {
+        Vector3 rayOrigin = myPos + toEnemyDir * MathF.Max(0f, lineOfSightRayBias);
+        ulong hitEntityID;
+        Vector3 hitPoint;
+        float hitDistance;
+
+        bool hit = InternalCalls.Physics_RaycastClosest(ref rayOrigin, ref toEnemyDir, toEnemyDistance, ID,
+            out hitEntityID, out hitPoint, out hitDistance);
+
+        if (!hit)
+            return true;
+
+        return hitEntityID == enemy.ID;
     }
 
     private int AcquireBurnLoopInstance()

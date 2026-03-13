@@ -1,6 +1,6 @@
 {
     "guid": "CE44D003F3AB6D97",
-    "sourceFilePath": "../assets/3D Models/Kitchen/medieval_kitchen_chair.png",
+    "sourceFilePath": "assets/3D Models/Kitchen/medieval_kitchen_chair.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

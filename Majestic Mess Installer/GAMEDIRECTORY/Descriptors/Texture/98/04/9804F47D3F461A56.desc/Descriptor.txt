@@ -1,6 +1,6 @@
 {
     "guid": "9804F47D3F461A56",
-    "sourceFilePath": "../assets/3D Models/Extraction/portal_green_Color.png",
+    "sourceFilePath": "assets/3D Models/Extraction/portal_green_Color.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

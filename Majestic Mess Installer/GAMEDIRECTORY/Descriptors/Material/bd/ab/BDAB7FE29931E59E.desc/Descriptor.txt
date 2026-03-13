@@ -1,6 +1,6 @@
 {
     "guid": "BDAB7FE29931E59E",
-    "sourceFilePath": "../assets/3D Models/Map/Scene map/playarea_Barrier_Wooden_Material.001.mat",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/playarea_Barrier_Wooden_Material.001.mat",
     "dependencies": [
         "B2B91947C3628F0D",
         "DE746715405DD619"

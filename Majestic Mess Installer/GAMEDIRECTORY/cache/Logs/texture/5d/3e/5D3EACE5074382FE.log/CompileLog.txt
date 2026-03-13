@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/Menu/WinScreen.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Menu\WinScreen.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\5d\3e\5D3EACE5074382FE
 Format: BC1_UNORM
 Mipmaps: Enabled

@@ -1,8 +1,0 @@
-{
-    "guid": "92788ED1F60B7388",
-    "name": "palette",
-    "comments": "",
-    "type": "Material",
-    "virtualPath": [],
-    "links": []
-}

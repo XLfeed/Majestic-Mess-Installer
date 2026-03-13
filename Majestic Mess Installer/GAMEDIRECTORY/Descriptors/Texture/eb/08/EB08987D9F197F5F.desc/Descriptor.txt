@@ -1,6 +1,6 @@
 {
     "guid": "EB08987D9F197F5F",
-    "sourceFilePath": "../assets/3D Models/Kitchen/spoon.png",
+    "sourceFilePath": "assets/3D Models/Kitchen/spoon.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

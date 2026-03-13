@@ -1,0 +1,8 @@
+{
+    "guid": "CBC6F4A121371701",
+    "name": "Openbook_Openbook_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

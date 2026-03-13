@@ -1,9 +1,9 @@
 {
     "guid": "B2516E76883D0202",
-    "sourceFilePath": "../assets/Shaders/skybox.shader",
+    "sourceFilePath": "assets/Shaders/skybox.shader",
     "dependencies": [],
     "properties": {
-        "vertexShader": "skybox.vert",
-        "fragmentShader": "skybox.frag"
+        "fragmentShader": "skybox.frag",
+        "vertexShader": "skybox.vert"
     }
 }

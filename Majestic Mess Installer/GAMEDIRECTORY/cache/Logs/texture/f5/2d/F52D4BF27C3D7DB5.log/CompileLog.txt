@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/3D Models/Table_Cloth_White/Table_Cloth_White.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Table_Cloth_White\Table_Cloth_White.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\f5\2d\F52D4BF27C3D7DB5
 Format: BC1_UNORM
 Mipmaps: Enabled

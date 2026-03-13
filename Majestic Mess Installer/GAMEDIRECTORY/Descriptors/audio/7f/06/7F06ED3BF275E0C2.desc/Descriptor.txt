@@ -1,6 +1,6 @@
 {
     "guid": "7F06ED3BF275E0C2",
-    "sourceFilePath": "../assets/Audio/SFX/Enemy_Sword_Unsheath.wav",
+    "sourceFilePath": "assets/Audio/SFX/Enemy_Sword_Unsheath.wav",
     "dependencies": [],
     "properties": {}
 }

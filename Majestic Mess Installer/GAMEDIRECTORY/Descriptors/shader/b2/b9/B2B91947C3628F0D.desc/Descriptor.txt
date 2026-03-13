@@ -1,9 +1,9 @@
 {
     "guid": "B2B91947C3628F0D",
-    "sourceFilePath": "../assets/Shaders/diffuse.shader",
+    "sourceFilePath": "assets/Shaders/diffuse.shader",
     "dependencies": [],
     "properties": {
-        "vertexShader": "test.vert",
-        "fragmentShader": "test.frag"
+        "fragmentShader": "test.frag",
+        "vertexShader": "test.vert"
     }
 }

@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/3D Models/Library/medieval_library_bookshelf.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Library\medieval_library_bookshelf.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\2b\68\2B68FB2E9BA07997
 Format: BC1_UNORM
 Mipmaps: Enabled

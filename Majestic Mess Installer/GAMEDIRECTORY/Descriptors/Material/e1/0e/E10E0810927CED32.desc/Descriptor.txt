@@ -1,6 +1,6 @@
 {
     "guid": "E10E0810927CED32",
-    "sourceFilePath": "C:/ProgrammStuff/PanKek-GAM300/PanKek/assets/3D Models/Map/Wizard room/wizardmap_1_MI_Trim_Metal.009.mat",
+    "sourceFilePath": "assets/3D Models/Map/Wizard room/wizardmap_1_MI_Trim_Metal.009.mat",
     "dependencies": [
         "6AE9922563A60EA5"
     ],

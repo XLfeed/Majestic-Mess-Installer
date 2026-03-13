@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/hanzoFEET.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\hanzoFEET.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\b4\53\B453452550735C92
 Format: BC1_UNORM
 Mipmaps: Enabled

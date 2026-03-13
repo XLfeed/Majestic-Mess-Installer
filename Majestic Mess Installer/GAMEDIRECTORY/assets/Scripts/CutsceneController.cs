@@ -18,6 +18,8 @@ public class CutsceneController : Entity
     // Stored as the scene asset GUID — rename-safe, shown as a dropdown in the editor.
     public ulong targetSceneGUID = 0;
 
+    public static bool HasPlayed = false;
+
     private VideoPlayerComponent vp;
     private bool started = false;
     private bool done    = false;
@@ -31,6 +33,8 @@ public class CutsceneController : Entity
             Debug.Log("[CutsceneController] ERROR: No VideoPlayerComponent on this entity.");
             return;
         }
+
+        HasPlayed = true;
 
         // Start the video. We do this here rather than relying on playOnAwake
         // because playOnAwake only fires on editor Play, not on runtime LoadScene.
@@ -51,7 +55,7 @@ public class CutsceneController : Entity
             return;
         }
 
-        bool skip = Input.IsKeyPressed(KeyCode.Escape) || Input.IsKeyPressed(KeyCode.Space);
+        bool skip = Input.IsKeyPressed(KeyCode.Enter);
 
         if (vp.IsFinished || skip)
         {

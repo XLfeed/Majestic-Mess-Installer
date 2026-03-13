@@ -1,6 +1,6 @@
 {
     "guid": "D30598322CBF150A",
-    "sourceFilePath": "../assets/Audio/SFX/UI/UI_Move_04.wav",
+    "sourceFilePath": "assets/Audio/SFX/UI/UI_Move_04.wav",
     "dependencies": [],
     "properties": {}
 }

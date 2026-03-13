@@ -1,0 +1,8 @@
+{
+    "guid": "B8F807D2ECCDA7F7",
+    "name": "Environment_L2_m5_Openbook_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

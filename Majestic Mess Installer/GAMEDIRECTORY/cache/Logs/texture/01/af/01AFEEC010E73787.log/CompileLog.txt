@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/Player/Head.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Player\Head.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\01\af\01AFEEC010E73787
 Format: BC1_UNORM
 Mipmaps: Enabled

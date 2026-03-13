@@ -1,8 +1,0 @@
-{
-    "guid": "BD758D5C76E1C0AB",
-    "name": "Player",
-    "comments": "",
-    "type": "Mesh",
-    "virtualPath": [],
-    "links": []
-}

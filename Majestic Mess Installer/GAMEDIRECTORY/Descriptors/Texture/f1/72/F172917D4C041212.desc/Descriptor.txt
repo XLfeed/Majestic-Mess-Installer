@@ -1,6 +1,6 @@
 {
     "guid": "F172917D4C041212",
-    "sourceFilePath": "../assets/Knight_CustomEngine/Torso.png",
+    "sourceFilePath": "assets/3D Models/Knight_CustomEngine/Torso.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

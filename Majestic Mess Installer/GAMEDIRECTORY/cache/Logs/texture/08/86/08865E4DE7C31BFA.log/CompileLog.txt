@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/Treasure_3/Spacebar_2.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Treasure_3\Spacebar_2.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\08\86\08865E4DE7C31BFA
 Format: BC1_UNORM
 Mipmaps: Enabled

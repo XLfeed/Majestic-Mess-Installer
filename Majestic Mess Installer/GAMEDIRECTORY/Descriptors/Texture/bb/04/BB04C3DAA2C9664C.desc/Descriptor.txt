@@ -1,6 +1,6 @@
 {
     "guid": "BB04C3DAA2C9664C",
-    "sourceFilePath": "../assets/3D Models/Throne/Throne.png",
+    "sourceFilePath": "assets/3D Models/Throne/Throne.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

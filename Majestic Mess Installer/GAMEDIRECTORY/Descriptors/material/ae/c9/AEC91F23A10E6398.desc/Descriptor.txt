@@ -1,0 +1,9 @@
+{
+    "guid": "AEC91F23A10E6398",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/Environment_L2_m5_Crate_Material.065.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "6B72E6C2CB270ECC"
+    ],
+    "properties": {}
+}

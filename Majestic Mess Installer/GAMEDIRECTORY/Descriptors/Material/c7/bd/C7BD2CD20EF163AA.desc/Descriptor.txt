@@ -1,6 +1,6 @@
 {
     "guid": "C7BD2CD20EF163AA",
-    "sourceFilePath": "../assets/3D Models/Barrel/Barrel_Hideable_Barrel_Hideable_Material.001.mat",
+    "sourceFilePath": "assets/3D Models/Barrel/Barrel_Hideable_Barrel_Hideable_Material.001.mat",
     "dependencies": [
         "6AE9922563A60EA5",
         "0B5F3B54D5199E5F"

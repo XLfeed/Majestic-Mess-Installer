@@ -1,6 +1,0 @@
-{
-    "guid": "B8D8EBD389674EFA",
-    "sourceFilePath": "../assets/Audio/SFX/MiscPickup_1.wav",
-    "dependencies": [],
-    "properties": {}
-}

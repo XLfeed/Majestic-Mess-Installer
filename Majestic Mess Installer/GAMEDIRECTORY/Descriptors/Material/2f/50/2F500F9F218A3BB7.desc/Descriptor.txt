@@ -1,9 +1,0 @@
-{
-    "guid": "2F500F9F218A3BB7",
-    "sourceFilePath": "../assets/3D Models/Barracks/palette.mat",
-    "dependencies": [
-        "B2B91947C3628F0D",
-        "18E3106E6011DB70"
-    ],
-    "properties": {}
-}

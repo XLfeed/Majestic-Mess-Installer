@@ -1,0 +1,8 @@
+{
+    "guid": "0FF86FEE42688247",
+    "name": "Environment_L2_m5_Openscroll_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,5 +1,5 @@
 Scene Compilation Started
-Source: ../assets/Scenes/kaitest1.scene
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Scenes\kaitest1.scene
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\scene\bf\16\BF165A050D0035B0.scene
 Loaded JSON: 12783 bytes
 JSON validation passed

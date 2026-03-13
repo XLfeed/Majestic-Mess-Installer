@@ -1,6 +1,6 @@
 {
     "guid": "6C9D5ABEC9F0479A",
-    "sourceFilePath": "../assets/Audio/CropTop_170-1_bpm(v1).wav",
+    "sourceFilePath": "assets/Audio/CropTop_170-1_bpm(v1).wav",
     "dependencies": [],
     "properties": {}
 }

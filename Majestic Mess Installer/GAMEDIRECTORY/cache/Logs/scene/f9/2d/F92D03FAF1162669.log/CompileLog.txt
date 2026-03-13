@@ -1,0 +1,10 @@
+Scene Compilation Started
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Scenes\forclaude.scene
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\scene\f9\2d\F92D03FAF1162669.scene
+Loaded JSON: 1198997 bytes
+JSON validation passed
+Found 277 dependencies
+Original size: 1198997 bytes
+Compressed size: 54732 bytes
+Compression ratio: 21.906691x
+Scene Compilation Completed Successfully

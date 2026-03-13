@@ -1,0 +1,8 @@
+{
+    "guid": "B8462FFAFC519F3D",
+    "name": "Navmesh_L2_m5",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,6 +1,6 @@
 {
     "guid": "7233D7E9AE991AE5",
-    "sourceFilePath": "../assets/Textures/Player/Cape_Material.mat",
+    "sourceFilePath": "assets/Textures/Player/Cape_Material.mat",
     "dependencies": [
         "387A31872CF54AFF",
         "DDAAA31240C768E5"

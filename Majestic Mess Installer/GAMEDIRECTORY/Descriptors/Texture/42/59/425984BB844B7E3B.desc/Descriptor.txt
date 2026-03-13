@@ -1,6 +1,6 @@
 {
     "guid": "425984BB844B7E3B",
-    "sourceFilePath": "../assets/Textures/Player/Shoulder.R.png",
+    "sourceFilePath": "assets/Textures/Player/Shoulder.R.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

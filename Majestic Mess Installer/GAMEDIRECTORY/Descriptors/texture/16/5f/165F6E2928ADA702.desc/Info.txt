@@ -1,0 +1,8 @@
+{
+    "guid": "165F6E2928ADA702",
+    "name": "Openbook_Color",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

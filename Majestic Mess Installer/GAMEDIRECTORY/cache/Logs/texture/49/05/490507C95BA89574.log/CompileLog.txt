@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/UI/emerald_icon.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\UI\emerald_icon.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\49\05\490507C95BA89574
 Format: BC1_UNORM
 Mipmaps: Enabled

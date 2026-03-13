@@ -145,6 +145,7 @@ public class StatePatrol : IState
         // HERE IS TO CHECK INBETWEEN WAYPOINTS, POINT A -> A.1 -> A.2 -> .... -> POINT B
         // Current target navmesh node
         Vector3 targetPos = ai.navPath[ai.currentPathIndex];
+        Vector3 targetRot = ai.patrolWaypoints[ai.currentPatrolIndex].Transform.Rotation;
         Vector3 currPos = ai.Transform.Position;
 
         // Move towards current navmesh waypoint
@@ -208,13 +209,15 @@ public class StatePatrol : IState
                         ai.currentPatrolStopTime = minVariantCycle;
                 }
 
+                
+
                 ai.isPatrolling = false;
                 ai.isIdle = true;
                 ai.isPlayingIdle = true;
                 ai.isWithinIdleThreshold = true;
                 ai.UpdateAnimationFromBools();
             }
-
+            ai.Transform.Rotation = RotateTowards(ai.Transform.Rotation, targetRot, ai.rotationSpeed * dt);
             // Decrease stop timer
             ai.currentPatrolStopTime -= dt;
             if (ai.currentPatrolStopTime <= 0f)
@@ -285,6 +288,11 @@ public class StatePatrol : IState
         while (delta > Math.PI) delta -= 2f * (float)Math.PI;
         while (delta < -Math.PI) delta += 2f * (float)Math.PI;
 
+        if (Math.Abs(delta) <= maxStep)
+        {
+            return new Vector3(currentRot.x, targetY, currentRot.z);
+        }
+
         // Clamp rotation step
         float step = Math.Min(Math.Abs(delta), maxStep) * Math.Sign(delta);
         float newY = currentY + step;
@@ -305,5 +313,22 @@ public class StatePatrol : IState
 
         return new Vector3(currentRot.x, newYDeg, currentRot.z);
         */
+    }
+
+    private static Vector3 RotateTowards(Vector3 currentRot, Vector3 targetRot, float maxStep)
+    {
+        float currentY = currentRot.y;
+        float targetY = targetRot.y;
+
+        float delta = targetY - currentY;
+
+        // normalize to shortest path
+        while (delta > Math.PI) delta -= 2f * (float)Math.PI;
+        while (delta < -Math.PI) delta += 2f * (float)Math.PI;
+
+        float step = Math.Min(Math.Abs(delta), maxStep) * Math.Sign(delta);
+        float newY = currentY + step;
+
+        return new Vector3(currentRot.x, newY, currentRot.z);
     }
 }

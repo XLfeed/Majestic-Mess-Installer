@@ -1,9 +1,9 @@
 {
     "guid": "C12D7BD84B79BC05",
-    "sourceFilePath": "../assets/Shaders/shadowmap_depth.shader",
+    "sourceFilePath": "assets/Shaders/shadowmap_depth.shader",
     "dependencies": [],
     "properties": {
-        "vertexShader": "shadowmap_depth.vert",
-        "fragmentShader": "shadowmap_depth.frag"
+        "fragmentShader": "shadowmap_depth.frag",
+        "vertexShader": "shadowmap_depth.vert"
     }
 }

@@ -1,0 +1,9 @@
+{
+    "guid": "5CC34F4D597092CE",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/Navmesh_L2_m5_Untitled_Material.005.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "F52D4BF27C3D7DB5"
+    ],
+    "properties": {}
+}

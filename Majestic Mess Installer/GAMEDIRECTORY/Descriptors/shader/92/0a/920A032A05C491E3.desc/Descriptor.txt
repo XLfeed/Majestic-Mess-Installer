@@ -1,9 +1,9 @@
 {
     "guid": "920A032A05C491E3",
-    "sourceFilePath": "../assets/Shaders/debugDraw.shader",
+    "sourceFilePath": "assets/Shaders/debugDraw.shader",
     "dependencies": [],
     "properties": {
-        "vertexShader": "debugDraw.vert",
-        "fragmentShader": "debugDraw.frag"
+        "fragmentShader": "debugDraw.frag",
+        "vertexShader": "debugDraw.vert"
     }
 }

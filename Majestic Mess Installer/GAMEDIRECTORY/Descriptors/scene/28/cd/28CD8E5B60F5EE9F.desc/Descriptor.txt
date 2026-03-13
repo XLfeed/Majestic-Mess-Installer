@@ -1,6 +1,6 @@
 {
     "guid": "28CD8E5B60F5EE9F",
-    "sourceFilePath": "C:/ProgrammStuff/PanKek-GAM300/PanKek/assets/Scenes/M4_Level.scene",
+    "sourceFilePath": "assets/Scenes/M4_Level.scene",
     "dependencies": [
         "7B220E2928A9B82E",
         "5DE2630275C7E9F2",

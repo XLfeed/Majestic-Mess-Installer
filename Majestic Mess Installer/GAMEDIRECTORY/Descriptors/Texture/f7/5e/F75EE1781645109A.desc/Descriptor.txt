@@ -1,6 +1,6 @@
 {
     "guid": "F75EE1781645109A",
-    "sourceFilePath": "C:/Users/Irwin/git/game project/PanKek-GAM300/PanKek/assets/Textures/Shop/CloseButton_Highlighted.png",
+    "sourceFilePath": "assets/Textures/Shop/CloseButton_Highlighted.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC3_UNORM_SRGB",

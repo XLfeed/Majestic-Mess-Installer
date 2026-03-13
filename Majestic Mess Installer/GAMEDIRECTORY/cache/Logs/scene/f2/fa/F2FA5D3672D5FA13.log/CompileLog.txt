@@ -1,5 +1,5 @@
 Scene Compilation Started
-Source: ../assets/Scenes/particle.scene
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Scenes\particle.scene
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\scene\f2\fa\F2FA5D3672D5FA13.scene
 Loaded JSON: 261177 bytes
 JSON validation passed

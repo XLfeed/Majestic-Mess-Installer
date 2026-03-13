@@ -1014,11 +1014,16 @@
                             "x": 1920.0,
                             "y": 1080.0
                         },
-                        "scaleFactor": 0.875,
+                        "scaleFactor": 0.3786458373069763,
                         "pixelPerfect": false,
                         "planeDistance": 100.0,
                         "Render In Scene View": true,
-                        "Render In Game View": true
+                        "Render In Game View": true,
+                        "worldSize": {
+                            "x": 2.0,
+                            "y": 1.125
+                        },
+                        "billboard": true
                     }
                 },
                 {
@@ -1100,11 +1105,16 @@
                             "x": 1920.0,
                             "y": 1080.0
                         },
-                        "scaleFactor": 0.875,
+                        "scaleFactor": 0.3786458373069763,
                         "pixelPerfect": false,
                         "planeDistance": 100.0,
                         "Render In Scene View": true,
-                        "Render In Game View": true
+                        "Render In Game View": true,
+                        "worldSize": {
+                            "x": 2.0,
+                            "y": 1.125
+                        },
+                        "billboard": true
                     }
                 },
                 {
@@ -1146,7 +1156,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ]
@@ -1251,7 +1262,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -1358,7 +1370,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -1465,7 +1478,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -1572,7 +1586,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -1679,7 +1694,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -1786,7 +1802,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -1893,7 +1910,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -2000,7 +2018,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -2107,7 +2126,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -2214,7 +2234,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -2321,7 +2342,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -2370,11 +2392,16 @@
                             "x": 1920.0,
                             "y": 1080.0
                         },
-                        "scaleFactor": 0.875,
+                        "scaleFactor": 0.3786458373069763,
                         "pixelPerfect": false,
                         "planeDistance": 100.0,
                         "Render In Scene View": true,
-                        "Render In Game View": true
+                        "Render In Game View": true,
+                        "worldSize": {
+                            "x": 2.0,
+                            "y": 1.125
+                        },
+                        "billboard": true
                     }
                 },
                 {
@@ -2416,7 +2443,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ]
@@ -2521,7 +2549,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -2628,7 +2657,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -2735,7 +2765,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -2842,7 +2873,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -2949,7 +2981,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -3110,11 +3143,16 @@
                             "x": 1920.0,
                             "y": 1080.0
                         },
-                        "scaleFactor": 0.875,
+                        "scaleFactor": 0.3786458373069763,
                         "pixelPerfect": false,
                         "planeDistance": 100.0,
                         "Render In Scene View": true,
-                        "Render In Game View": true
+                        "Render In Game View": true,
+                        "worldSize": {
+                            "x": 2.0,
+                            "y": 1.125
+                        },
+                        "billboard": true
                     }
                 },
                 {
@@ -3156,7 +3194,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ]
@@ -3261,7 +3300,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -3368,7 +3408,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -3417,11 +3458,16 @@
                             "x": 1920.0,
                             "y": 1080.0
                         },
-                        "scaleFactor": 0.875,
+                        "scaleFactor": 0.3786458373069763,
                         "pixelPerfect": false,
                         "planeDistance": 100.0,
                         "Render In Scene View": true,
-                        "Render In Game View": true
+                        "Render In Game View": true,
+                        "worldSize": {
+                            "x": 2.0,
+                            "y": 1.125
+                        },
+                        "billboard": true
                     }
                 },
                 {
@@ -3463,7 +3509,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ]
@@ -3612,7 +3659,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -3719,7 +3767,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -3826,7 +3875,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -3875,11 +3925,16 @@
                             "x": 1920.0,
                             "y": 1080.0
                         },
-                        "scaleFactor": 0.875,
+                        "scaleFactor": 0.3786458373069763,
                         "pixelPerfect": false,
                         "planeDistance": 100.0,
                         "Render In Scene View": true,
-                        "Render In Game View": true
+                        "Render In Game View": true,
+                        "worldSize": {
+                            "x": 2.0,
+                            "y": 1.125
+                        },
+                        "billboard": true
                     }
                 },
                 {
@@ -3921,7 +3976,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ]
@@ -4008,7 +4064,7 @@
                             "y": 450.0
                         },
                         "sizeDelta": {
-                            "x": 400.0,
+                            "x": 550.0,
                             "y": 150.0
                         },
                         "sortOrder": 0
@@ -4026,7 +4082,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -4034,14 +4091,14 @@
             "uiParentName": "TreasureHUD"
         },
         {
-            "name": "EmeraldIcon",
+            "name": "Treasure2Icon",
             "id": 412,
             "components": [
                 {
                     "type": "TagComponent",
                     "type_id": 1,
                     "data": {
-                        "name": "EmeraldIcon",
+                        "name": "Treasure2Icon",
                         "tag": "Untagged"
                     }
                 },
@@ -4070,7 +4127,7 @@
                     "type": "UIImageComponent",
                     "type_id": 14,
                     "data": {
-                        "textureGuid": "490507C95BA89574",
+                        "textureGuid": "8BB5171656FDE590",
                         "color": {
                             "x": 10.0,
                             "y": 10.0,
@@ -4111,7 +4168,7 @@
                             "y": 0.5
                         },
                         "anchoredPosition": {
-                            "x": -125.0,
+                            "x": 210.0,
                             "y": 450.0
                         },
                         "sizeDelta": {
@@ -4133,7 +4190,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -4218,7 +4276,7 @@
                             "y": 0.5
                         },
                         "anchoredPosition": {
-                            "x": 0.0,
+                            "x": 70.0,
                             "y": 450.0
                         },
                         "sizeDelta": {
@@ -4240,7 +4298,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -4325,7 +4384,7 @@
                             "y": 0.5
                         },
                         "anchoredPosition": {
-                            "x": 125.0,
+                            "x": -210.0,
                             "y": 450.0
                         },
                         "sizeDelta": {
@@ -4347,7 +4406,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -4454,7 +4514,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -4503,11 +4564,16 @@
                             "x": 1920.0,
                             "y": 1080.0
                         },
-                        "scaleFactor": 0.875,
+                        "scaleFactor": 0.3786458373069763,
                         "pixelPerfect": false,
                         "planeDistance": 100.0,
                         "Render In Scene View": true,
-                        "Render In Game View": true
+                        "Render In Game View": true,
+                        "worldSize": {
+                            "x": 2.0,
+                            "y": 1.125
+                        },
+                        "billboard": true
                     }
                 },
                 {
@@ -4549,7 +4615,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ]
@@ -4667,7 +4734,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 },
                 {
@@ -7772,11 +7840,16 @@
                             "x": 1920.0,
                             "y": 1080.0
                         },
-                        "scaleFactor": 0.875,
+                        "scaleFactor": 0.3786458373069763,
                         "pixelPerfect": false,
                         "planeDistance": 100.0,
                         "Render In Scene View": true,
-                        "Render In Game View": true
+                        "Render In Game View": true,
+                        "worldSize": {
+                            "x": 2.0,
+                            "y": 1.125
+                        },
+                        "billboard": true
                     }
                 },
                 {
@@ -7818,7 +7891,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ]
@@ -7923,7 +7997,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -8086,7 +8161,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -8193,7 +8269,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -8300,7 +8377,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -8407,7 +8485,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -9093,7 +9172,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 },
                 {
@@ -13387,11 +13467,16 @@
                             "x": 1920.0,
                             "y": 1080.0
                         },
-                        "scaleFactor": 0.875,
+                        "scaleFactor": 0.3786458373069763,
                         "pixelPerfect": false,
                         "planeDistance": 100.0,
                         "Render In Scene View": true,
-                        "Render In Game View": true
+                        "Render In Game View": true,
+                        "worldSize": {
+                            "x": 2.0,
+                            "y": 1.125
+                        },
+                        "billboard": true
                     }
                 },
                 {
@@ -13433,7 +13518,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ]
@@ -13551,7 +13637,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 },
                 {
@@ -13693,7 +13780,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 },
                 {
@@ -15386,10 +15474,393 @@
                     }
                 }
             ]
+        },
+        {
+            "name": "Wizard1_Label",
+            "id": 547,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "Wizard1_Label",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 77.94499969482422,
+                            "y": 6.099999904632568,
+                            "z": -1.4620000123977661
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "TextMeshProComponent",
+                    "type_id": 22,
+                    "data": {
+                        "Font GUID": "475D21308775C207",
+                        "Text": "",
+                        "Font Size": 0.4000000059604645,
+                        "Color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "Alignment": 1,
+                        "Vertical Alignment": 1,
+                        "Word Wrap": false,
+                        "Max Width": 0.0,
+                        "Enabled": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Wizard2_Label",
+            "id": 548,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "Wizard2_Label",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 159.0,
+                            "y": 6.0,
+                            "z": 2.75600004196167
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "TextMeshProComponent",
+                    "type_id": 22,
+                    "data": {
+                        "Font GUID": "475D21308775C207",
+                        "Text": "",
+                        "Font Size": 0.4000000059604645,
+                        "Color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "Alignment": 1,
+                        "Vertical Alignment": 1,
+                        "Word Wrap": false,
+                        "Max Width": 0.0,
+                        "Enabled": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Wizard3_Label",
+            "id": 549,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "Wizard3_Label",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 231.2550048828125,
+                            "y": 6.0,
+                            "z": -12.015000343322754
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "TextMeshProComponent",
+                    "type_id": 22,
+                    "data": {
+                        "Font GUID": "475D21308775C207",
+                        "Text": "",
+                        "Font Size": 0.4000000059604645,
+                        "Color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "Alignment": 1,
+                        "Vertical Alignment": 1,
+                        "Word Wrap": false,
+                        "Max Width": 0.0,
+                        "Enabled": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Wizard4_Label",
+            "id": 550,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "Wizard4_Label",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 304.7340087890625,
+                            "y": 6.800000190734863,
+                            "z": 20.402999877929688
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "TextMeshProComponent",
+                    "type_id": 22,
+                    "data": {
+                        "Font GUID": "475D21308775C207",
+                        "Text": "",
+                        "Font Size": 0.4000000059604645,
+                        "Color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "Alignment": 1,
+                        "Vertical Alignment": 1,
+                        "Word Wrap": false,
+                        "Max Width": 0.0,
+                        "Enabled": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Wizard5_Label",
+            "id": 551,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "Wizard5_Label",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 339.0090026855469,
+                            "y": 6.0,
+                            "z": -7.210999965667725
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "TextMeshProComponent",
+                    "type_id": 22,
+                    "data": {
+                        "Font GUID": "475D21308775C207",
+                        "Text": "",
+                        "Font Size": 0.4000000059604645,
+                        "Color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "Alignment": 1,
+                        "Vertical Alignment": 1,
+                        "Word Wrap": false,
+                        "Max Width": 0.0,
+                        "Enabled": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Treasure4Icon",
+            "id": 553,
+            "components": [
+                {
+                    "type": "TagComponent",
+                    "type_id": 1,
+                    "data": {
+                        "name": "Treasure4Icon",
+                        "tag": "Untagged"
+                    }
+                },
+                {
+                    "type": "TransformComponent",
+                    "type_id": 2,
+                    "data": {
+                        "position": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": -0.0,
+                            "z": 0.0
+                        }
+                    }
+                },
+                {
+                    "type": "UIImageComponent",
+                    "type_id": 14,
+                    "data": {
+                        "textureGuid": "2AC49B136B5621E4",
+                        "color": {
+                            "x": 10.0,
+                            "y": 10.0,
+                            "z": 10.0,
+                            "w": 1.0
+                        },
+                        "preserveAspect": false,
+                        "fillAmount": 1.0,
+                        "uvRect": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "sliceBorder": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 0.0
+                        },
+                        "enabled": true
+                    }
+                },
+                {
+                    "type": "RectTransformComponent",
+                    "type_id": 11,
+                    "data": {
+                        "anchorMin": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchorMax": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "pivot": {
+                            "x": 0.5,
+                            "y": 0.5
+                        },
+                        "anchoredPosition": {
+                            "x": -70.0,
+                            "y": 450.0
+                        },
+                        "sizeDelta": {
+                            "x": 100.0,
+                            "y": 100.0
+                        },
+                        "sortOrder": 1
+                    }
+                },
+                {
+                    "type": "UIElementComponent",
+                    "type_id": 13,
+                    "data": {
+                        "visible": true,
+                        "active": true,
+                        "raycastTarget": true,
+                        "color": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0,
+                            "w": 1.0
+                        },
+                        "layerID": 0
+                    }
+                }
+            ],
+            "parentName": "TreasureHUD",
+            "uiParentName": "TreasureHUD"
         }
     ],
-    "count": 145,
-    "nextEntityID": 547,
+    "count": 151,
+    "nextEntityID": 554,
     "sceneGUID": "3EC637A893A5C535",
     "ambientLight": {
         "r": 0.7599999904632568,

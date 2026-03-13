@@ -1,6 +1,6 @@
 {
     "guid": "C9672BF1CECB623D",
-    "sourceFilePath": "../assets/Textures/UI/exmark.png",
+    "sourceFilePath": "assets/Textures/UI/exmark.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

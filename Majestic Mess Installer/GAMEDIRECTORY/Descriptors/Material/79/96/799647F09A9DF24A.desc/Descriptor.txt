@@ -1,6 +1,6 @@
 {
     "guid": "799647F09A9DF24A",
-    "sourceFilePath": "../assets/3D Models/Map/Wizard room/wizardmap_1_Material.003.mat",
+    "sourceFilePath": "assets/3D Models/Map/Wizard room/wizardmap_1_Material.003.mat",
     "dependencies": [
         "6AE9922563A60EA5",
         "2D33EF012D2F7F86"

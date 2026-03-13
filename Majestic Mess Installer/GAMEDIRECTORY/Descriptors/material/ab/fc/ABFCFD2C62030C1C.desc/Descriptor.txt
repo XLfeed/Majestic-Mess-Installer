@@ -1,0 +1,9 @@
+{
+    "guid": "ABFCFD2C62030C1C",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/Environment_L2_m5_Table_Cloth_Material.030.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "67C590A15E5D2B91"
+    ],
+    "properties": {}
+}

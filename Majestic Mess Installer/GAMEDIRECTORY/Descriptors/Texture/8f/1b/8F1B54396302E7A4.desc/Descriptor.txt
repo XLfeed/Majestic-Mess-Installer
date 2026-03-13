@@ -1,6 +1,6 @@
 {
     "guid": "8F1B54396302E7A4",
-    "sourceFilePath": "../assets/Textures/Shop/CloseButton.png",
+    "sourceFilePath": "assets/Textures/Shop/CloseButton.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC3_UNORM_SRGB",

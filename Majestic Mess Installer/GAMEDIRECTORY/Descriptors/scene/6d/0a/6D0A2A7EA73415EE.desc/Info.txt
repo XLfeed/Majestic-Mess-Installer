@@ -1,0 +1,8 @@
+{
+    "guid": "6D0A2A7EA73415EE",
+    "name": "GameEndCutscene",
+    "comments": "",
+    "type": "Scene",
+    "virtualPath": [],
+    "links": []
+}

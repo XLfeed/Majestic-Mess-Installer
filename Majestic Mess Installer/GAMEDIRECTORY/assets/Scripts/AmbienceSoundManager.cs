@@ -8,17 +8,17 @@ public class AmbienceSoundManager : Entity
     public string chaseLoop = "assets/Audio/SFX/BGM_Level_Chase_01.wav";
 
     // Volumes
-    public float baseVolume = 0.15f;
+    public float baseVolume = 0.10f;
     public float baseVolumeWhileChasing = 0.0f; // target base volume when chase is active
-    public float chaseMaxVolume = 0.6f;         // target chase volume when active
+    public float chaseMaxVolume = 0.4f;         // target chase volume when active
     public float fadeDuration = 2.0f;           // seconds for 0 to 1 or 1 to 0
 
     public string audioEntityName = "";
 
     public float interval = 0.25f;
-    public bool enableDebugGlobalAudioHotkeys = true;
-    public KeyCode stopAllGlobalAudioKey = KeyCode.F9;
-    public KeyCode restartManagedBgmKey = KeyCode.F10;
+    //public bool enableDebugGlobalAudioHotkeys = true;
+    //public KeyCode stopAllGlobalAudioKey = KeyCode.F9;
+    //public KeyCode restartManagedBgmKey = KeyCode.F10;
 
     private static ulong sBaseAudioID = 0;
     private static ulong sChaseAudioID = 0;
@@ -43,24 +43,24 @@ public class AmbienceSoundManager : Entity
 
     public override void OnUpdate(float dt)
     {
-        if (enableDebugGlobalAudioHotkeys)
-        {
-            if (Input.IsKeyPressed(stopAllGlobalAudioKey))
-            {
-                Audio.StopAll();
-                sBaseAudioID = 0;
-                sChaseAudioID = 0;
-                sOwnerID = 0;
-            }
-            if (Input.IsKeyPressed(restartManagedBgmKey))
-            {
-                if (sOwnerID == 0 || sOwnerID == ID)
-                {
-                    sOwnerID = ID;
-                    StartManagedLoops();
-                }
-            }
-        }
+        //if (enableDebugGlobalAudioHotkeys)
+        //{
+        //    if (Input.IsKeyPressed(stopAllGlobalAudioKey))
+        //    {
+        //        Audio.StopAll();
+        //        sBaseAudioID = 0;
+        //        sChaseAudioID = 0;
+        //        sOwnerID = 0;
+        //    }
+        //    if (Input.IsKeyPressed(restartManagedBgmKey))
+        //    {
+        //        if (sOwnerID == 0 || sOwnerID == ID)
+        //        {
+        //            sOwnerID = ID;
+        //            StartManagedLoops();
+        //        }
+        //    }
+        //}
 
         if (sOwnerID != ID)
             return;

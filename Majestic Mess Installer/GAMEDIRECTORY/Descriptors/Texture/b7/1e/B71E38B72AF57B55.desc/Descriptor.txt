@@ -1,6 +1,6 @@
 {
     "guid": "B71E38B72AF57B55",
-    "sourceFilePath": "../assets/Textures/Player/Foot.L.png",
+    "sourceFilePath": "assets/Textures/Player/Foot.L.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

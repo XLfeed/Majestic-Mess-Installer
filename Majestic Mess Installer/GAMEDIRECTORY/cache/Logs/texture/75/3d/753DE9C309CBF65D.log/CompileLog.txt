@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/3D Models/Kitchen/kitchen_shelf.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Kitchen\kitchen_shelf.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\75\3d\753DE9C309CBF65D
 Format: BC1_UNORM
 Mipmaps: Enabled

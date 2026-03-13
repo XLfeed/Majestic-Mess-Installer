@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/Player/Forearm.L.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Player\Forearm.L.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\64\d4\64D4A09F11E096F5
 Format: BC1_UNORM
 Mipmaps: Enabled

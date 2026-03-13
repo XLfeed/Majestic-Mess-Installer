@@ -1,6 +1,6 @@
 {
     "guid": "9B2EFF73EFAC585D",
-    "sourceFilePath": "C:/Users/Irwin/git/game project/PanKek-GAM300/PanKek/assets/Textures/Shop/Shop_BG.png",
+    "sourceFilePath": "assets/Textures/Shop/Shop_BG.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

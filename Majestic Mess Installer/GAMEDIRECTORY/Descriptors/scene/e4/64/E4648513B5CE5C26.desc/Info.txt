@@ -1,6 +1,6 @@
 {
     "guid": "E4648513B5CE5C26",
-    "name": "cutscene_test",
+    "name": "IntroCutscene",
     "comments": "",
     "type": "Scene",
     "virtualPath": [],

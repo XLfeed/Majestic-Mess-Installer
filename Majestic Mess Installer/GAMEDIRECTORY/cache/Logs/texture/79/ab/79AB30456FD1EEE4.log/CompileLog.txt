@@ -1,13 +1,12 @@
 Texture Compilation Started
-Source: ../assets/Textures/UI/skill_disguise_border 1.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\UI\skill_disguise_border 1.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\79\ab\79AB30456FD1EEE4
-Format: BC1_UNORM
-Mipmaps: Enabled
+Format: BC7_UNORM
+Mipmaps: Disabled
 Loaded image: 480x512
-Generated 10 mipmap levels
 Using QUICK compression mode (faster, slightly lower quality)
-Starting compression to BC1_UNORM... (this may take a moment)
+Starting compression to BC7_UNORM... (this may take a moment)
 Compression completed successfully!
 Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\79\ab\79AB30456FD1EEE4.dds
-Output size: 160 KB
+Output size: 240 KB
 Texture Compilation Completed Successfully

@@ -10,6 +10,8 @@ public class SkillSwitcher : Entity
     public KeyCode selectCinderKey = KeyCode.D1;
     public KeyCode selectDisguiseKey = KeyCode.D2;
     public KeyCode castKey = KeyCode.E;
+    //public KeyCode debugUnlockCinderKey = KeyCode.F5;
+    //public KeyCode debugUnlockDisguiseKey = KeyCode.F6;
 
     public SkillUI hud;
 
@@ -40,7 +42,7 @@ public class SkillSwitcher : Entity
                 hud = hudEnt.GetScript<SkillUI>();
         }
 
-        //Debug.Log($"[SkillSwitcher] Init. HUD set? {(hud != null)}");
+        SelectFirstAvailableSkill();
         hud?.SetSelection(current);
 
         UISkillCDAnim = Entity.FindEntityByName(UISkillCDAnimName);
@@ -69,17 +71,25 @@ public class SkillSwitcher : Entity
 
     public override void OnUpdate(float dt)
     {
+        //HandleDebugUnlocks();
+        SelectFirstAvailableSkill();
+        hud?.SetSelection(current);
+
         if (Input.IsKeyPressed(selectCinderKey))
         {
-            //Debug.Log("[SkillSwitcher] Select Cinder");
-            current = SkillSlot.Cinder;
-            hud?.SetSelection(current);
+            if (cinder != null && cinder.IsUnlocked)
+            {
+                current = SkillSlot.Cinder;
+                hud?.SetSelection(current);
+            }
         }
         else if (Input.IsKeyPressed(selectDisguiseKey))
         {
-            //Debug.Log("[SkillSwitcher] Select Disguise");
-            current = SkillSlot.Disguise;
-            hud?.SetSelection(current);
+            if (disguise != null && disguise.IsUnlocked)
+            {
+                current = SkillSlot.Disguise;
+                hud?.SetSelection(current);
+            }
         }
 
         if (Input.IsKeyPressed(castKey))
@@ -99,11 +109,57 @@ public class SkillSwitcher : Entity
         UpdateUIText();
     }
 
+    private void SelectFirstAvailableSkill()
+    {
+        bool cinderUnlocked = cinder != null && cinder.IsUnlocked;
+        bool disguiseUnlocked = disguise != null && disguise.IsUnlocked;
+
+        if (current == SkillSlot.Cinder && cinderUnlocked)
+            return;
+
+        if (current == SkillSlot.Disguise && disguiseUnlocked)
+            return;
+
+        if (cinderUnlocked)
+            current = SkillSlot.Cinder;
+        else if (disguiseUnlocked)
+            current = SkillSlot.Disguise;
+    }
+    
+    //private void HandleDebugUnlocks()
+    //{
+    //    bool changed = false;
+
+    //    if (Input.IsKeyPressed(debugUnlockCinderKey) && !PickUpItemManager.debugUnlock_Cinder)
+    //    {
+    //        PickUpItemManager.debugUnlock_Cinder = true;
+    //        changed = true;
+    //    }
+
+    //    if (Input.IsKeyPressed(debugUnlockDisguiseKey) && !PickUpItemManager.debugUnlock_Disguise)
+    //    {
+    //        PickUpItemManager.debugUnlock_Disguise = true;
+    //        changed = true;
+    //    }
+
+    //    if (!changed)
+    //        return;
+
+    //    if (current == SkillSlot.Cinder && (cinder == null || !cinder.IsUnlocked))
+    //        current = disguise != null && disguise.IsUnlocked ? SkillSlot.Disguise : current;
+    //    else if (current == SkillSlot.Disguise && (disguise == null || !disguise.IsUnlocked))
+    //        current = cinder != null && cinder.IsUnlocked ? SkillSlot.Cinder : current;
+
+    //    hud?.SetSelection(current);
+    //}
+
     public void SkillCooldownAnimation()
     {
         if (UISkillCDReact == null) return;
         if (current == SkillSlot.Cinder && cinder == null) return;
         if (current == SkillSlot.Disguise && disguise == null) return;
+        if (current == SkillSlot.Cinder && !cinder.IsUnlocked) return;
+        if (current == SkillSlot.Disguise && !disguise.IsUnlocked) return;
 
         float t = 0.0f;
         //float t = cooldownTimer / cooldown;
@@ -138,13 +194,13 @@ public class SkillSwitcher : Entity
         {
             // cinder
             if (cinder != null)
-                UITextComp.Text = $"Charge: {cinder.currCharges}";
+                UITextComp.Text = cinder.IsUnlocked ? $"Charge: {cinder.currCharges}" : "";
         }
         else if (current == SkillSlot.Disguise)
         {
             // disguise
             if (disguise != null)
-                UITextComp.Text = $"Charge: {disguise.currCharges}";
+                UITextComp.Text = disguise.IsUnlocked ? $"Charge: {disguise.currCharges}" : "";
         }
         
     }

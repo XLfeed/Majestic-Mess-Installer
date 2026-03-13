@@ -1,8 +1,0 @@
-{
-    "guid": "26A579188A9AC006",
-    "name": "Treasure_1",
-    "comments": "",
-    "type": "Texture",
-    "virtualPath": [],
-    "links": []
-}

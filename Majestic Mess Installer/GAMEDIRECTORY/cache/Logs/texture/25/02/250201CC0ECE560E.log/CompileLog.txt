@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Spritesheets/ame.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Spritesheets\ame.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\25\02\250201CC0ECE560E
 Format: BC1_UNORM
 Mipmaps: Enabled

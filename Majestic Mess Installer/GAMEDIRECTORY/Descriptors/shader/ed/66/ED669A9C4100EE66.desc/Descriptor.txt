@@ -1,9 +1,9 @@
 {
     "guid": "ED669A9C4100EE66",
-    "sourceFilePath": "../assets/Shaders/pbrLit.shader",
+    "sourceFilePath": "assets/Shaders/pbrLit.shader",
     "dependencies": [],
     "properties": {
-        "vertexShader": "pbrLit.vert",
-        "fragmentShader": "pbrLit.frag"
+        "fragmentShader": "pbrLit.frag",
+        "vertexShader": "pbrLit.vert"
     }
 }

@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Barrel\Barrel_Hideable_Player_Color.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\81\cf\81CFDB5CBBEFD9C9
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 115x115
+Generated 7 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\81\cf\81CFDB5CBBEFD9C9.dds
+Output size: 9 KB
+Texture Compilation Completed Successfully

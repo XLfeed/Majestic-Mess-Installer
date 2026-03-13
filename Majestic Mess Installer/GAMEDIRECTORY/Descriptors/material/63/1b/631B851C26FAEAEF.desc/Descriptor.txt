@@ -1,0 +1,9 @@
+{
+    "guid": "631B851C26FAEAEF",
+    "sourceFilePath": "assets/3D Models/Treasures/Treasure_4_Treasure_4_Material.001.mat",
+    "dependencies": [
+        "6AE9922563A60EA5",
+        "DBA0FFF9C6201FB8"
+    ],
+    "properties": {}
+}

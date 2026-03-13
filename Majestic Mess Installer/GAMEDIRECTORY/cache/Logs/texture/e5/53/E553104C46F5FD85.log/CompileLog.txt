@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/Bounty_List/Circle.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Bounty_List\Circle.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\e5\53\E553104C46F5FD85
 Format: BC1_UNORM
 Mipmaps: Enabled

@@ -1,9 +1,9 @@
 {
     "guid": "6AE9922563A60EA5",
-    "sourceFilePath": "../assets/Shaders/standard_specular.shader",
+    "sourceFilePath": "assets/Shaders/standard_specular.shader",
     "dependencies": [],
     "properties": {
-        "vertexShader": "standard_specular.vert",
-        "fragmentShader": "standard_specular.frag"
+        "fragmentShader": "standard_specular.frag",
+        "vertexShader": "standard_specular.vert"
     }
 }

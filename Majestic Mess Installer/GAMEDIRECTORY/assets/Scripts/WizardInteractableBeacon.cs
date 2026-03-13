@@ -11,7 +11,10 @@ public enum WizardInteractableMode
     Wizard2 = 1,   // optional value
     Wizard3 = 2,
     Wizard4 = 3,
-    Wizard5 = 4
+    Wizard5 = 4,
+    Wizard6 = 5,
+    Wizard7 = 6,
+    Wizard8 = 7
 }
 
 public static class WizardInteractableRegistry
@@ -31,7 +34,7 @@ public class WizardInteractableBeacon : Entity
 
     // Editor-tweakable
     public WizardInteractableMode Mode = WizardInteractableMode.Auto; // default uses Tag
-    public float Radius = 10.0f;
+    public float Radius = 14.0f;
     public bool LogPrompts = false;
 
     // Runtime info (populated on init)
@@ -67,6 +70,18 @@ public class WizardInteractableBeacon : Entity
             else if (string.Equals(EntityName, "Wizard5", StringComparison.OrdinalIgnoreCase))
             {
                 Mode = WizardInteractableMode.Wizard5;
+            }
+            else if (string.Equals(EntityName, "Wizard6", StringComparison.OrdinalIgnoreCase))
+            {
+                Mode = WizardInteractableMode.Wizard6;
+            }
+            else if (string.Equals(EntityName, "Wizard7", StringComparison.OrdinalIgnoreCase))
+            {
+                Mode = WizardInteractableMode.Wizard7;
+            }
+            else if (string.Equals(EntityName, "Wizard8", StringComparison.OrdinalIgnoreCase))
+            {
+                Mode = WizardInteractableMode.Wizard8;
             }
         }
 

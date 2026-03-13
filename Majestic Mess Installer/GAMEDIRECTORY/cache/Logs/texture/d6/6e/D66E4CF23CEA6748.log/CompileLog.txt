@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/Player/Thigh.R.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Player\Thigh.R.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\d6\6e\D66E4CF23CEA6748
 Format: BC1_UNORM
 Mipmaps: Enabled

@@ -1,6 +1,6 @@
 {
     "guid": "0B5F3B54D5199E5F",
-    "sourceFilePath": "../assets/3D Models/Barrel/Barrel_Hideable_Color.001.png",
+    "sourceFilePath": "assets/3D Models/Barrel/Barrel_Hideable_Color.001.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

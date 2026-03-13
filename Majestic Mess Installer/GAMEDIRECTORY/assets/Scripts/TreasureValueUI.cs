@@ -17,7 +17,7 @@ public class TreasureValueUI : Entity
         _text.SetFontByName("MedievalSharp-Book");
 
         // Alignment
-        _text.Alignment = UITextAlignment.Center;
+        _text.Alignment = UITextAlignment.Left;
         _text.VerticalAlignment = UITextVerticalAlignment.Middle;
 
         // Spacing

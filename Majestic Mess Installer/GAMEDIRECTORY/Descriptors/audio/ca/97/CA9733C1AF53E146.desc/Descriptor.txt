@@ -1,0 +1,6 @@
+{
+    "guid": "CA9733C1AF53E146",
+    "sourceFilePath": "assets/Audio/SFX/FireStaff_Near.wav",
+    "dependencies": [],
+    "properties": {}
+}

@@ -1,0 +1,9 @@
+Scene Compilation Started
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Scenes\UILayerTest.scene
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\scene\69\6d\696D9C8D1F8F8FD1.scene
+Loaded JSON: 42650 bytes
+JSON validation passed
+Original size: 42650 bytes
+Compressed size: 2935 bytes
+Compression ratio: 14.531516x
+Scene Compilation Completed Successfully

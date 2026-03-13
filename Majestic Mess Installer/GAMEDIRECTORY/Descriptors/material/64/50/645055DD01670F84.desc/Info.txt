@@ -1,0 +1,8 @@
+{
+    "guid": "645055DD01670F84",
+    "name": "Environment_L2_m5_Closescroll_Material.002",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

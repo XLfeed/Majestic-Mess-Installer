@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/Player/Shoulder.R.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Player\Shoulder.R.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\42\59\425984BB844B7E3B
 Format: BC1_UNORM
 Mipmaps: Enabled

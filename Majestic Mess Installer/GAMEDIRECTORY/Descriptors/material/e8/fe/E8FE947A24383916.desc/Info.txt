@@ -1,0 +1,8 @@
+{
+    "guid": "E8FE947A24383916",
+    "name": "Environment_L2_m5_Carpet_Material.002",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

@@ -1,6 +1,6 @@
 {
     "guid": "64D4A09F11E096F5",
-    "sourceFilePath": "../assets/Textures/Player/Forearm.L.png",
+    "sourceFilePath": "assets/Textures/Player/Forearm.L.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

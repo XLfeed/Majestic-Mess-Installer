@@ -1,6 +1,6 @@
 {
     "guid": "3718573742E96A31",
-    "sourceFilePath": "../assets/Textures/UI/money.png",
+    "sourceFilePath": "assets/Textures/UI/money.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

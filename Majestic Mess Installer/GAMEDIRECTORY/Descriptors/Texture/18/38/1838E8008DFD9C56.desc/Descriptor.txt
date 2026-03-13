@@ -1,6 +1,6 @@
 {
     "guid": "1838E8008DFD9C56",
-    "sourceFilePath": "../assets/Textures/Menu/LoseScreen.png",
+    "sourceFilePath": "assets/Textures/Menu/LoseScreen.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

@@ -1,0 +1,9 @@
+{
+    "guid": "E8FE947A24383916",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/Environment_L2_m5_Carpet_Material.002.mat",
+    "dependencies": [
+        "B2B91947C3628F0D",
+        "A8B5B6232AE5ECEB"
+    ],
+    "properties": {}
+}

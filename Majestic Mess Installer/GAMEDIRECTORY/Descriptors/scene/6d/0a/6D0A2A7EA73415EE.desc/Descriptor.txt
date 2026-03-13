@@ -1,0 +1,10 @@
+{
+    "guid": "6D0A2A7EA73415EE",
+    "sourceFilePath": "assets/Scenes/GameEndCutscene.scene",
+    "dependencies": [
+        "0B794EA8909F4730",
+        "12B2AC41501DC540",
+        "BF025836595E2CE5"
+    ],
+    "properties": {}
+}

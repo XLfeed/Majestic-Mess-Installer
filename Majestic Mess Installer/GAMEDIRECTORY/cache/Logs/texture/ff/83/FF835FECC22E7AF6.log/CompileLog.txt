@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/3D Models/Lighting/Lantern.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Lighting\Lantern.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\ff\83\FF835FECC22E7AF6
 Format: BC1_UNORM
 Mipmaps: Enabled

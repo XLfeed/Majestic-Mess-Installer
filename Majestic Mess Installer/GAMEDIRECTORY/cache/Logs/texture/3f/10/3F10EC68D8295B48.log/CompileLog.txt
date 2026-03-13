@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ..\assets\3D Models\Knight_CustomEngine\Sword.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Knight_CustomEngine\Sword.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\3f\10\3F10EC68D8295B48
 Format: BC1_UNORM
 Mipmaps: Enabled

@@ -1,6 +1,6 @@
 {
     "guid": "276871285F6D0A92",
-    "sourceFilePath": "../assets/Npc/NOTmegumin.png",
+    "sourceFilePath": "assets/Npc/NOTmegumin.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC3_UNORM_SRGB",

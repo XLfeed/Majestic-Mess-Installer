@@ -1,6 +1,6 @@
 {
     "guid": "0AD97D6DE2ED4FDE",
-    "sourceFilePath": "../assets/3D Models/Lighting/Lantern_Untitled_Material.001.mat",
+    "sourceFilePath": "assets/3D Models/Lighting/Lantern_Untitled_Material.001.mat",
     "dependencies": [
         "B2B91947C3628F0D",
         "FF835FECC22E7AF6"

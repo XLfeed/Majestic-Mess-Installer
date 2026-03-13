@@ -1,0 +1,8 @@
+{
+    "guid": "E6D247A36DE90CCA",
+    "name": "Wizardroom_level_1",
+    "comments": "",
+    "type": "Scene",
+    "virtualPath": [],
+    "links": []
+}

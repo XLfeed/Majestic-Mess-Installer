@@ -1,0 +1,12 @@
+{
+    "guid": "FBBF6A1A01A65BBB",
+    "sourceFilePath": "assets/3D Models/Library/Openscroll_Color.png",
+    "dependencies": [],
+    "properties": {
+        "compressionFormat": "BC1_UNORM",
+        "compressionQuality": "QUICK",
+        "maxResolution": "2048",
+        "generateMipmaps": "true",
+        "sRGB": "true"
+    }
+}

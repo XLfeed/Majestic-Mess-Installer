@@ -1,9 +1,9 @@
 {
     "guid": "BB7F5A0B785F696F",
-    "sourceFilePath": "../assets/Shaders/shadowDepth.shader",
+    "sourceFilePath": "assets/Shaders/shadowDepth.shader",
     "dependencies": [],
     "properties": {
-        "vertexShader": "shadowDepth.vert",
-        "fragmentShader": "shadowDepth.frag"
+        "fragmentShader": "shadowDepth.frag",
+        "vertexShader": "shadowDepth.vert"
     }
 }

@@ -1,0 +1,8 @@
+{
+    "guid": "0A6A91BEEA0C7630",
+    "name": "Navmesh_L2_m5_Barrier_Wooden_Material.020",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

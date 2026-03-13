@@ -1,6 +1,6 @@
 {
     "guid": "F875F58804905732",
-    "sourceFilePath": "../assets/Textures/Player_Hands/Hand_Left.png",
+    "sourceFilePath": "assets/Textures/Player_Hands/Hand_Left.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

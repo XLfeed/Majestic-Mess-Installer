@@ -46,6 +46,15 @@ public class TreasureThreeEffect : Entity
     private Vector2 initialPositionLeft;
     private Vector2 initialPositionRight;
 
+    // Player timer for when they stop moving
+    private float stopTimer = 0.0f;  // Timer for when player stops moving
+    private const float stopThreshold = 2.0f;  // 2 seconds to trigger treasure
+    private Entity playerEntity;  // Store the player entity
+    private Vector3 lastPlayerPosition = Vector3.Zero;
+    private float movementThreshold = 0.01f; // Minimum movement to consider as "moving"
+    private bool waitingForMovement = true; // Start waiting for movement
+    private bool hasBlockedInput = false;
+
     public override void OnInit()
     {
         //Find da entitits
@@ -67,26 +76,130 @@ public class TreasureThreeEffect : Entity
         initialPositionLeft = rectTransformLeft.AnchoredPosition;
         initialPositionRight = rectTransformRight.AnchoredPosition;
 
+        timer = 0.0f;
+        swapTimer = 0.0f;
+        currState = State.Hide;
+        waitingForMovement = true; // Start by waiting for movement
+        hasBlockedInput = false;
+
+        // Find player entity
+        playerEntity = Entity.FindEntityByName("Player");
+        if (playerEntity != null && playerEntity.IsValid())
+        {
+            // Store initial position
+            if (playerEntity.HasComponent<TransformComponent>())
+            {
+                lastPlayerPosition = playerEntity.Transform.Position;
+            }
+        }
     }
+
+    private bool IsPlayerMoving()
+    {
+        if (playerEntity == null || !playerEntity.IsValid())
+        {
+            if (playerEntity == null)
+                return false;
+        }
+
+        // Method 1: Check Transform position changes
+        if (playerEntity.HasComponent<TransformComponent>())
+        {
+            Vector3 currentPosition = playerEntity.Transform.Position;
+            float distanceMoved = Vector3.Distance(currentPosition, lastPlayerPosition);
+            lastPlayerPosition = currentPosition;
+
+            if (distanceMoved > movementThreshold)
+            {
+                return true;
+            }
+        }
+
+        // Method 2: Check RigidBody velocity
+        if (playerEntity.HasComponent<RigidBodyComponent>())
+        {
+            var rb = playerEntity.GetComponent<RigidBodyComponent>();
+            if (rb != null)
+            {
+                Vector3 velocity = rb.Velocity;
+                float horizontalSpeed = Math.Abs(velocity.x) + Math.Abs(velocity.z);
+                
+                if (horizontalSpeed > movementThreshold)
+                {
+                    return true;
+                }
+            }
+        }
+
+        // Method 3: Check input directly
+        bool input = Input.IsKeyHeld(KeyCode.W) || Input.IsKeyHeld(KeyCode.A) || 
+                    Input.IsKeyHeld(KeyCode.S) || Input.IsKeyHeld(KeyCode.D);
+        
+        if (input)
+        {
+            return true;
+        }
+
+        return false;
+    }
+
 
     // OnUpdate is called once per frame
     public override void OnUpdate(float dt)
     {
-       
         if(PickUpItemManager.pickedup_Treasure_3)
         { 
-            timer -= dt;
             swapTimer += dt;
             switch (currState)
             {
                 case State.Hide:
-                    if (timer <= 0.0f)
+                    // Ensure player is unblocked when in hide state
+                    if (hasBlockedInput)
                     {
-                        currState = State.Show;
+                        PlayerInputBlocker.SetBlocked(false);
+                        hasBlockedInput = false;
+                    }
+
+                    bool isPlayerMoving = IsPlayerMoving();
+
+                    // Step 1: Wait for player to move at least once
+                    if (waitingForMovement)
+                    {
+                        if (isPlayerMoving)
+                        {
+                            waitingForMovement = false;
+                            stopTimer = 0.0f;
+                        }
+                        break;
+                    }
+
+                    // Step 2: After movement detected, wait for player to stop
+                    if (!isPlayerMoving)
+                    {
+                        stopTimer += dt;
+                        if (stopTimer >= stopThreshold)
+                        {
+                            currState = State.Show;
+                            stopTimer = 0.0f;
+                        }
+                    }
+                    else
+                    {
+                        // Player is moving, reset timer
+                        if (stopTimer > 0)
+                        {
+                            stopTimer = 0.0f;
+                        }
                     }
                     break;
 
                 case State.Show:
+                    // Block player input when treasure appears
+                    PlayerInputBlocker.SetBlocked(true);
+                    hasBlockedInput = true;
+                    
+                    stopTimer = 0.0f;
+                    waitingForMovement = false;
                     InternalCalls.UIElementComponent_SetActive(phonePanel.ID, true);
 
                     //Reset inital pos
@@ -106,16 +219,31 @@ public class TreasureThreeEffect : Entity
                     break;
                 
                 case State.Event:
-                    ScreenImageSwitchManager();  
                     // Check for spacebar press
+                    // Keep player input blocked during the event
+                    if (!hasBlockedInput)
+                    {
+                        PlayerInputBlocker.SetBlocked(true);
+                        hasBlockedInput = true;
+                    }
+
+                    ScreenImageSwitchManager();  
+
                     if (IsSpacebarPressed())
                     {
                         spacebarPressCount++;
                         if (spacebarPressCount >= requiredPresses)
                         {
+                            // Unblock player input when interaction is complete
+                            PlayerInputBlocker.SetBlocked(false);
+                            hasBlockedInput = false;
+                            
                             InternalCalls.UIElementComponent_SetActive(phonePanel.ID, false);
                             resetTimerRand();
                             spacebarPressCount = 0;
+
+                            waitingForMovement = true;
+                            stopTimer = 0.0f;
                             currState = State.Hide;
                         }
                         else

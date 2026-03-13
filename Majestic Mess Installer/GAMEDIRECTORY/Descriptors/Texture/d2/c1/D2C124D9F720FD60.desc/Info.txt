@@ -1,8 +1,0 @@
-{
-    "guid": "D2C124D9F720FD60",
-    "name": "medievial_ceiling_beam",
-    "comments": "",
-    "type": "Texture",
-    "virtualPath": [],
-    "links": []
-}

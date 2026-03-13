@@ -1,6 +1,6 @@
 {
     "guid": "7583284871558B5D",
-    "sourceFilePath": "../assets/Textures/Player/Thigh.L_Material.mat",
+    "sourceFilePath": "assets/Textures/Player/Thigh.L_Material.mat",
     "dependencies": [
         "387A31872CF54AFF",
         "DC301D8BA641426C"

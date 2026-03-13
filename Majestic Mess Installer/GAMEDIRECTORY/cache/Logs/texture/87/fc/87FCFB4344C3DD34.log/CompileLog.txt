@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/3D Models/Bedroom/medieval_bedroom_bed.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Bedroom\medieval_bedroom_bed.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\87\fc\87FCFB4344C3DD34
 Format: BC1_UNORM
 Mipmaps: Enabled

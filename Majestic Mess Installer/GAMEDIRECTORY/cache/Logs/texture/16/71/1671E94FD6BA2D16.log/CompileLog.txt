@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\UI\Slider\UI_Options_Scroller.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\16\71\1671E94FD6BA2D16
+Format: BC3_UNORM_SRGB
+Mipmaps: Enabled
+Loaded image: 556x70
+Generated 10 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC3_UNORM_SRGB... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\16\71\1671E94FD6BA2D16.dds
+Output size: 52 KB
+Texture Compilation Completed Successfully

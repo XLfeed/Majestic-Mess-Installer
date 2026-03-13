@@ -1,6 +1,6 @@
 {
     "guid": "82421D681A9B947B",
-    "sourceFilePath": "../assets/Audio/TreasureOneVoices/T1_Picked_4.wav",
+    "sourceFilePath": "assets/Audio/TreasureOneVoices/T1_Picked_4.wav",
     "dependencies": [],
     "properties": {}
 }

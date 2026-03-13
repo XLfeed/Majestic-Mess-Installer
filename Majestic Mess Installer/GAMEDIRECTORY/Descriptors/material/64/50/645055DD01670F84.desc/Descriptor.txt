@@ -1,0 +1,9 @@
+{
+    "guid": "645055DD01670F84",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/Environment_L2_m5_Closescroll_Material.002.mat",
+    "dependencies": [
+        "6AE9922563A60EA5",
+        "1EFB4144E15F5345"
+    ],
+    "properties": {}
+}

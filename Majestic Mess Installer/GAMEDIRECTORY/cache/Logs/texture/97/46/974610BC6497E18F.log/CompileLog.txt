@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/3D Models/Kitchen/pan.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Kitchen\pan.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\97\46\974610BC6497E18F
 Format: BC1_UNORM
 Mipmaps: Enabled

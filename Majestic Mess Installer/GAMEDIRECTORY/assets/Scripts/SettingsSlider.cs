@@ -5,6 +5,7 @@ public class SettingsSlider : Entity
     public string trackEntityName = "MasterSliderTrack";
     public string knobEntityName  = "MasterSliderKnob";
     public string labelEntityName = "";
+    public string previewClipPath = "assets/Audio/SFX/UI/UI_Move_04.wav";
 
     private Entity trackEntity;
     private Entity knobEntity;
@@ -14,6 +15,8 @@ public class SettingsSlider : Entity
     private bool isDragging = false;
     private float dragOffsetX = 0f;
     private float sliderValue = 0.5f;
+
+    private ulong previewAudioID = 0;
 
     // Track bounds in UI reference space (bottom-left origin)
     private float trackLeft;
@@ -79,6 +82,12 @@ public class SettingsSlider : Entity
                 isDragging = true;
                 float knobCenterX = knobRect.AnchorMin.x * REF_W + knobRect.AnchoredPosition.x;
                 dragOffsetX = uiMouse.x - knobCenterX;
+
+                // Play a looping preview tune so the user can hear the volume level
+                if (!string.IsNullOrEmpty(previewClipPath))
+                {
+                    previewAudioID = Audio.Play2D(previewClipPath, 1.0f, true);
+                }
             }
         }
 
@@ -90,6 +99,14 @@ public class SettingsSlider : Entity
         if (isDragging && !Input.IsMouseButtonHeld(0))
         {
             isDragging = false;
+
+            // Stop the preview tune
+            if (previewAudioID != 0)
+            {
+                Audio.Stop(previewAudioID);
+                previewAudioID = 0;
+            }
+
             Debug.Log($"[SettingsSlider] Volume: {(int)(sliderValue * 100f)}%");
         }
     }

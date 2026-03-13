@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ..\assets\3D Models\Window\medieval_window_interior.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Window\medieval_window_interior.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\a4\d6\A4D606ECAFC05FC6
 Format: BC1_UNORM
 Mipmaps: Enabled

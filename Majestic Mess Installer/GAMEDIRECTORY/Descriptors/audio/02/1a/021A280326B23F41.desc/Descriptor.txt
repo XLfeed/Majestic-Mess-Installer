@@ -1,6 +1,6 @@
 {
     "guid": "021A280326B23F41",
-    "sourceFilePath": "../assets/Audio/TreasureThree/MobilePhone_Disappear.wav",
+    "sourceFilePath": "assets/Audio/TreasureThree/MobilePhone_Disappear.wav",
     "dependencies": [],
     "properties": {}
 }

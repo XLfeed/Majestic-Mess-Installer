@@ -1,6 +1,6 @@
 {
     "guid": "9260E92A4953CFC7",
-    "sourceFilePath": "../assets/3D Models/Crate/Crate_Crate_Material.mat",
+    "sourceFilePath": "assets/3D Models/Crate/Crate_Crate_Material.mat",
     "dependencies": [
         "B2B91947C3628F0D",
         "6B72E6C2CB270ECC"

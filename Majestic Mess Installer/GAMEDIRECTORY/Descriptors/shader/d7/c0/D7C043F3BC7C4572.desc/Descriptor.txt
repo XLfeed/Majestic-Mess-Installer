@@ -1,9 +1,9 @@
 {
     "guid": "D7C043F3BC7C4572",
-    "sourceFilePath": "../assets/Shaders/skinned_standard.shader",
+    "sourceFilePath": "assets/Shaders/skinned_standard.shader",
     "dependencies": [],
     "properties": {
-        "vertexShader": "skinned_standard.vert",
-        "fragmentShader": "standard_specular.frag"
+        "fragmentShader": "standard_specular.frag",
+        "vertexShader": "skinned_standard.vert"
     }
 }

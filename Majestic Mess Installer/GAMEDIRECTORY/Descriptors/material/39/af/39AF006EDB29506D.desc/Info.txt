@@ -1,0 +1,8 @@
+{
+    "guid": "39AF006EDB29506D",
+    "name": "Environment_L2_m5_Material.029",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

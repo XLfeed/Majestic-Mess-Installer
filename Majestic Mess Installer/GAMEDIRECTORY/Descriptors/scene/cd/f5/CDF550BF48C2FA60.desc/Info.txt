@@ -1,8 +1,0 @@
-{
-    "guid": "CDF550BF48C2FA60",
-    "name": "main_menu",
-    "comments": "",
-    "type": "Scene",
-    "virtualPath": [],
-    "links": []
-}

@@ -1,6 +1,6 @@
 {
     "guid": "753DE9C309CBF65D",
-    "sourceFilePath": "../assets/3D Models/Kitchen/kitchen_shelf.png",
+    "sourceFilePath": "assets/3D Models/Kitchen/kitchen_shelf.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

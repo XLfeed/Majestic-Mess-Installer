@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/Player/Foot.R.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Player\Foot.R.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\49\5e\495E5422A021575A
 Format: BC1_UNORM
 Mipmaps: Enabled

@@ -1,6 +1,6 @@
 {
     "guid": "C7D7C28A9987DE9A",
-    "sourceFilePath": "../assets/Audio/SFX/GameOver_Hit 5.wav",
+    "sourceFilePath": "assets/Audio/SFX/GameOver_Hit 5.wav",
     "dependencies": [],
     "properties": {}
 }

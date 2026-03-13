@@ -1041,6 +1041,29 @@ namespace Engine
     }
 
     /// <summary>
+    /// TextMeshPro component wrapper for world-space 3D text
+    /// </summary>
+    public class TextMeshProComponent
+    {
+        private readonly ulong entityID;
+
+        public TextMeshProComponent() { entityID = 0; }
+        public TextMeshProComponent(ulong id) { entityID = id; }
+
+        public bool Enabled
+        {
+            get { return InternalCalls.TextMeshProComponent_GetEnabled(entityID); }
+            set { InternalCalls.TextMeshProComponent_SetEnabled(entityID, value); }
+        }
+
+        public string Text
+        {
+            get { return InternalCalls.TextMeshProComponent_GetText(entityID); }
+            set { InternalCalls.TextMeshProComponent_SetText(entityID, value); }
+        }
+    }
+
+    /// <summary>
     /// Enemy Field-of-View component wrapper
     /// </summary>
     public class EnemyFOVComponent

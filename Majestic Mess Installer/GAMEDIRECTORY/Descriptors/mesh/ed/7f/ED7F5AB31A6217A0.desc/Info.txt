@@ -1,0 +1,8 @@
+{
+    "guid": "ED7F5AB31A6217A0",
+    "name": "Openbook",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

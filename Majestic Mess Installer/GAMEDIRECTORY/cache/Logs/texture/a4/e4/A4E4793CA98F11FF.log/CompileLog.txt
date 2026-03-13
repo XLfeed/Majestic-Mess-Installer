@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\UI\Slider\UI_Options_slider_slide.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\a4\e4\A4E4793CA98F11FF
+Format: BC3_UNORM_SRGB
+Mipmaps: Enabled
+Loaded image: 451x45
+Generated 9 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC3_UNORM_SRGB... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\a4\e4\A4E4793CA98F11FF.dds
+Output size: 28 KB
+Texture Compilation Completed Successfully

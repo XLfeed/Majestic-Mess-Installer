@@ -1,6 +1,6 @@
 {
     "guid": "A8B5B6232AE5ECEB",
-    "sourceFilePath": "../assets/3D Models/Carpet/Carpet_Color.002.png",
+    "sourceFilePath": "assets/3D Models/Carpet/Carpet_Color.002.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

@@ -1,8 +1,0 @@
-{
-    "guid": "A7DEE0690C25C44E",
-    "name": "Crate_Material",
-    "comments": "",
-    "type": "Material",
-    "virtualPath": [],
-    "links": []
-}

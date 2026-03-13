@@ -1,6 +1,6 @@
 {
     "guid": "C04DF8C10ADF3190",
-    "sourceFilePath": "../assets/Textures/Player/Torso_Material.001.mat",
+    "sourceFilePath": "assets/Textures/Player/Torso_Material.001.mat",
     "dependencies": [
         "387A31872CF54AFF",
         "4D0301AFBE8BA0BE"

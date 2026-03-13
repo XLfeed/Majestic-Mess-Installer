@@ -1,9 +1,9 @@
 {
     "guid": "8780AC387C2160A5",
-    "sourceFilePath": "../assets/Shaders/ui.shader",
+    "sourceFilePath": "assets/Shaders/ui.shader",
     "dependencies": [],
     "properties": {
-        "vertexShader": "ui.vert",
-        "fragmentShader": "ui.frag"
+        "fragmentShader": "ui.frag",
+        "vertexShader": "ui.vert"
     }
 }

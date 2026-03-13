@@ -1,8 +1,0 @@
-{
-    "guid": "0634DF3A052A2E7A",
-    "name": "Table_No_Cloth_Material",
-    "comments": "",
-    "type": "Material",
-    "virtualPath": [],
-    "links": []
-}

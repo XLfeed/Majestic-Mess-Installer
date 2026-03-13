@@ -1,6 +1,6 @@
 {
     "guid": "ABE6A0320AB87D0A",
-    "sourceFilePath": "../assets/3D Models/Map/Scene map/playarea_palette.002.mat",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/playarea_palette.002.mat",
     "dependencies": [
         "B2B91947C3628F0D",
         "A4D606ECAFC05FC6"

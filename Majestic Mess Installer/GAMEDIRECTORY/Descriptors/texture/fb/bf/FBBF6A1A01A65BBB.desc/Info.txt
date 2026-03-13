@@ -1,0 +1,8 @@
+{
+    "guid": "FBBF6A1A01A65BBB",
+    "name": "Openscroll_Color",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

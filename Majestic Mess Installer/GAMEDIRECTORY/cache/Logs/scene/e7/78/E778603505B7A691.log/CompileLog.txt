@@ -1,5 +1,5 @@
 Scene Compilation Started
-Source: ../assets/Scenes/juliushealthui.scene
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Scenes\juliushealthui.scene
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\scene\e7\78\E778603505B7A691.scene
 Loaded JSON: 242114 bytes
 JSON validation passed

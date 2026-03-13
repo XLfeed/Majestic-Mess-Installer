@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScriptCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa5186177719b5ab0fe3f7a46a86ef48c6e0d2e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1abf8a78d99e77264a6fa009110c1cf5ddf3ee0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScriptCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScriptCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

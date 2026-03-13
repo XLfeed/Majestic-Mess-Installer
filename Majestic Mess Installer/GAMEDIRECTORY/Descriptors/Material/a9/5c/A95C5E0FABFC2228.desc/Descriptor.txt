@@ -1,9 +1,0 @@
-{
-    "guid": "A95C5E0FABFC2228",
-    "sourceFilePath": "../assets/Objects/Treasures/Treasure_1_Material.002.mat",
-    "dependencies": [
-        "B2B91947C3628F0D",
-        "26A579188A9AC006"
-    ],
-    "properties": {}
-}

@@ -1,0 +1,8 @@
+{
+    "guid": "B7171788668FAB66",
+    "name": "Environment_L2_m5_Barrier_Wooden_Material.153",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

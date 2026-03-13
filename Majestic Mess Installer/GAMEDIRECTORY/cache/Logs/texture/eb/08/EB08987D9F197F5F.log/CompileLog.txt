@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/3D Models/Kitchen/spoon.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Kitchen\spoon.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\eb\08\EB08987D9F197F5F
 Format: BC1_UNORM
 Mipmaps: Enabled

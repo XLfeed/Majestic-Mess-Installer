@@ -1,6 +1,6 @@
 {
     "guid": "BE4E895580A225D5",
-    "sourceFilePath": "../assets/Audio/me.wav",
+    "sourceFilePath": "assets/Audio/me.wav",
     "dependencies": [],
     "properties": {}
 }

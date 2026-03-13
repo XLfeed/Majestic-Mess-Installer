@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Carpet\Carpet_Color.002.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\a8\b5\A8B5B6232AE5ECEB
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 571x571
+Generated 10 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\a8\b5\A8B5B6232AE5ECEB.dds
+Output size: 213 KB
+Texture Compilation Completed Successfully

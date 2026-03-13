@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Menu\Settings.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\16\81\1681FBD0AB4FB95D
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 1779x1010
+Generated 11 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\16\81\1681FBD0AB4FB95D.dds
+Output size: 1174 KB
+Texture Compilation Completed Successfully

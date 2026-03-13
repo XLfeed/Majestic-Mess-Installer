@@ -1,6 +1,6 @@
 {
     "guid": "6B72E6C2CB270ECC",
-    "sourceFilePath": "../assets/Objects/Crate/Crate.png",
+    "sourceFilePath": "assets/3D Models/Crate/Crate.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

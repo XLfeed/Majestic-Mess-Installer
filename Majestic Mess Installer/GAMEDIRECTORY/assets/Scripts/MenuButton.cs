@@ -40,11 +40,16 @@ public class MenuButton : Entity
         // Use button name to determine action (workaround for string field loading)
         if (Name == "PlayButton")
         {
-            Debug.Log("[MenuButton] Loading wizardroom");
-            Scene.LoadScene("wizardroom");
-
-            //Debug.Log("[MenuButton] Loading cutscene before level");
-            //Scene.LoadScene("cutscene_test");
+            if (!CutsceneController.HasPlayed)
+            {
+                Debug.Log("[MenuButton] Loading intro cutscene (first play)");
+                Scene.LoadScene("IntroCutscene");
+            }
+            else
+            {
+                Debug.Log("[MenuButton] Cutscene already played, loading TutorialCorridoor");
+                Scene.LoadScene("TutorialCorridoor");
+            }
         }
         else if (Name == "SettingsButton")
         {

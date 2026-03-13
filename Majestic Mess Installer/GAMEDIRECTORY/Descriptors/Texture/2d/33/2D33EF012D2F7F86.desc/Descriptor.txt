@@ -1,6 +1,6 @@
 {
     "guid": "2D33EF012D2F7F86",
-    "sourceFilePath": "../assets/Textures/Environment/medievial_floor.png",
+    "sourceFilePath": "assets/Textures/Environment/medievial_floor.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

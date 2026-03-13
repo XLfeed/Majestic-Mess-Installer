@@ -1,6 +1,6 @@
 {
     "guid": "9FB32B43E0A8440C",
-    "sourceFilePath": "../assets/3D Models/Bedroom/medieval_bedroom_chest_palette.mat",
+    "sourceFilePath": "assets/3D Models/Bedroom/medieval_bedroom_chest_palette.mat",
     "dependencies": [
         "B2B91947C3628F0D",
         "0779F52A5DB2DFAC"

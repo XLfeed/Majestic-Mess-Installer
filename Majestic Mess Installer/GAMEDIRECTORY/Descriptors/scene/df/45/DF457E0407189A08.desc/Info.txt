@@ -1,8 +1,0 @@
-{
-    "guid": "DF457E0407189A08",
-    "name": "CutsceneInGameTest",
-    "comments": "",
-    "type": "Scene",
-    "virtualPath": [],
-    "links": []
-}

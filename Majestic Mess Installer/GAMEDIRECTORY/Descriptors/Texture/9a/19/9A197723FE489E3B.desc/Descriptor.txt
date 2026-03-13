@@ -1,6 +1,6 @@
 {
     "guid": "9A197723FE489E3B",
-    "sourceFilePath": "../assets/Objects/Barrel/Barrel.png",
+    "sourceFilePath": "assets/3D Models/Barrel/Barrel.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

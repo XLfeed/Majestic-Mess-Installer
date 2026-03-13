@@ -1,6 +1,6 @@
 {
     "guid": "735AE0A108F95590",
-    "sourceFilePath": "../assets/3D Models/Extraction/portal_pink_Color.png",
+    "sourceFilePath": "assets/3D Models/Extraction/portal_pink_Color.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

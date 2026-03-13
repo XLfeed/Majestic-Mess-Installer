@@ -1,6 +1,6 @@
 {
     "guid": "61A9A03254C17BE7",
-    "sourceFilePath": "../assets/Audio/SFX/EnemyVO/VO_Enemy_16.wav",
+    "sourceFilePath": "assets/Audio/SFX/EnemyVO/VO_Enemy_16.wav",
     "dependencies": [],
     "properties": {}
 }

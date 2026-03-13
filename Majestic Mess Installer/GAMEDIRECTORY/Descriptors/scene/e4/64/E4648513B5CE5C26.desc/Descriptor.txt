@@ -1,10 +1,10 @@
 {
     "guid": "E4648513B5CE5C26",
-    "sourceFilePath": "assets/Scenes/cutscene_test.scene",
+    "sourceFilePath": "assets/Scenes/IntroCutscene.scene",
     "dependencies": [
-        "442BCE396F9BB267",
+        "3805CB2FF367D998",
         "12B2AC41501DC540",
-        "3EC637A893A5C535",
+        "06E12F62E545BACC",
         "E4648513B5CE5C26"
     ],
     "properties": {}

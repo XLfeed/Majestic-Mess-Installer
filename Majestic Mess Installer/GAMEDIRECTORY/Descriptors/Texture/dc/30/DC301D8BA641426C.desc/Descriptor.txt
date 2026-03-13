@@ -1,6 +1,6 @@
 {
     "guid": "DC301D8BA641426C",
-    "sourceFilePath": "../assets/Textures/Player/Thigh.L.png",
+    "sourceFilePath": "assets/Textures/Player/Thigh.L.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

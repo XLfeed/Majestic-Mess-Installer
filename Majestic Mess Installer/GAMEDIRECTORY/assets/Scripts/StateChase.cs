@@ -9,6 +9,9 @@ public class StateChase : IState
     private float nodeThreshold = 0.05f;      // Distance to nav node before moving to next
     private float distThreshold = 3.0f;       // Distance to target to consider "reached"
     private float recalcThreshold = 0.5f;     // Recalc path if player moved more than this
+
+    private float cannotReachTimer = 5f;      // if cannot the reach the next node/point within this period, switch state back to patrol
+
     public StateChase(AIController ai)
     {
         this.ai = ai;
@@ -102,19 +105,33 @@ public class StateChase : IState
             return; // Exit early - no path to follow
         }
         
+        if (cannotReachTimer <= 0f)
+        {
+                ai.isChasing = false;
+                ai.isAttacking = false;
+                ai.isPatrolling = false;
+                ai.isIdle = false;
+                ai.isSheathe = true;
+                ai.isEmptyGauge = true;
+                ai.sheatheTimer = 0.6f;
+                ai.UpdateAnimationFromBools();
+                ai.ChangeState(new StatePatrol(ai));
+        }
+
         ai.currentPathIndex = Math.Clamp(ai.currentPathIndex, 0, ai.navPath.Count - 1);
         // Move towards current navmesh node
         Vector3 targetNode = ai.navPath[ai.currentPathIndex];
         Vector3 currPos = ai.Transform.Position;
         ai.Transform.Position = MoveTowards(currPos, targetNode, ai.chaseSpeed * dt);
         ai.Transform.Rotation = LookAt(ai.Transform.Rotation, ai.Transform.Position, targetNode, ai.rotationSpeed * dt);
-
+        cannotReachTimer -= dt;
         // Increment path index if node reached
         if (Vector3.Distance(new Vector3(ai.Transform.Position.x, 0, ai.Transform.Position.z),
                              new Vector3(targetNode.x, 0, targetNode.z)) < nodeThreshold)
         {
             if (ai.currentPathIndex < ai.navPath.Count - 1)
                 ai.currentPathIndex++;
+            cannotReachTimer = 5f;
         }
 
         // Determine final target: player last seen or player still detected
@@ -125,6 +142,7 @@ public class StateChase : IState
                              new Vector3(currentTarget.x, 0, currentTarget.z)) < distThreshold)
         {
             //ai.isPlayerDetected = false;  // reset detection
+            cannotReachTimer = 5f;
             ai.ResetPath();
             if (ai.isPlayerDetected)
             {

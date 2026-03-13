@@ -1,6 +1,6 @@
 {
     "guid": "AF8CDD56EEAC73A4",
-    "sourceFilePath": "../assets/Fonts/HappyMonkey-Regular.ttf",
+    "sourceFilePath": "assets/Fonts/HappyMonkey-Regular.ttf",
     "dependencies": [],
     "properties": {
         "atlasHeight": "1024",

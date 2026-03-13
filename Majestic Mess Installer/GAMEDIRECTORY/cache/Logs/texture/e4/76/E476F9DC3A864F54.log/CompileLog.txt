@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/3D Models/Extraction/medieval_portal_glow.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Extraction\medieval_portal_glow.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\e4\76\E476F9DC3A864F54
 Format: BC1_UNORM
 Mipmaps: Enabled

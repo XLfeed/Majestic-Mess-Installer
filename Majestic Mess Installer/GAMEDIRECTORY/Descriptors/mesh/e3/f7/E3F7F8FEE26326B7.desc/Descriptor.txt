@@ -1,6 +1,6 @@
 {
     "guid": "E3F7F8FEE26326B7",
-    "sourceFilePath": "../assets/3D Models/Extraction/portal_green.obj",
+    "sourceFilePath": "assets/3D Models/Extraction/portal_green.obj",
     "dependencies": [
         "012DEB5B369BE4BC"
     ],

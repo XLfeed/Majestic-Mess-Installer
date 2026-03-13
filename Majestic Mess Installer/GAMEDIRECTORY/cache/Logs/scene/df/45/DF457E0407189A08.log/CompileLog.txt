@@ -1,0 +1,10 @@
+Scene Compilation Started
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Scenes\CutsceneInGameTest.scene
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\scene\df\45\DF457E0407189A08.scene
+Loaded JSON: 1202000 bytes
+JSON validation passed
+Found 284 dependencies
+Original size: 1202000 bytes
+Compressed size: 55132 bytes
+Compression ratio: 21.802219x
+Scene Compilation Completed Successfully

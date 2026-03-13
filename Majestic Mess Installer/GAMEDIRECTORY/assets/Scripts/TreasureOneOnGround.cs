@@ -107,7 +107,7 @@ public class TreasureOneOnGround : Entity
     void ScheduleNextSound()
     {
         
-        timeLeftToNext = 4.0f;
+        timeLeftToNext = 7.0f;
         
     }   
 

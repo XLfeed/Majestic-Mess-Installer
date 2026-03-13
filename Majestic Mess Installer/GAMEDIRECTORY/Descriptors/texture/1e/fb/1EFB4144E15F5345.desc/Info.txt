@@ -1,0 +1,8 @@
+{
+    "guid": "1EFB4144E15F5345",
+    "name": "Closescroll_Color.001",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

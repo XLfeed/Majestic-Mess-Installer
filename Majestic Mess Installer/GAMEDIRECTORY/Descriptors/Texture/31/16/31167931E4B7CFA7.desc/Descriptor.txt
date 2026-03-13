@@ -1,6 +1,6 @@
 {
     "guid": "31167931E4B7CFA7",
-    "sourceFilePath": "../assets/Textures/Bounty_List/Map_BG.png",
+    "sourceFilePath": "assets/Textures/Bounty_List/Map_BG.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

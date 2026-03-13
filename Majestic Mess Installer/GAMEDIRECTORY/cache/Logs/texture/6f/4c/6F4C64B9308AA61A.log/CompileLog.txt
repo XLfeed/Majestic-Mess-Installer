@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/3D Models/Bedroom/guard_bed.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Bedroom\guard_bed.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\6f\4c\6F4C64B9308AA61A
 Format: BC1_UNORM
 Mipmaps: Enabled

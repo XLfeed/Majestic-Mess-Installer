@@ -1,0 +1,8 @@
+{
+    "guid": "C98DB09146EB32B7",
+    "name": "Environment_L2_m5_Table_Cloth_Material.014",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

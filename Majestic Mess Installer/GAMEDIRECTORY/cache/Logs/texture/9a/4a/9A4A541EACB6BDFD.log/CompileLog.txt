@@ -1,13 +1,12 @@
 Texture Compilation Started
-Source: ../assets/Textures/UI/HUD_border.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\UI\HUD_border.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\9a\4a\9A4A541EACB6BDFD
-Format: BC1_UNORM
-Mipmaps: Enabled
+Format: BC3_UNORM
+Mipmaps: Disabled
 Loaded image: 512x512
-Generated 10 mipmap levels
 Using QUICK compression mode (faster, slightly lower quality)
-Starting compression to BC1_UNORM... (this may take a moment)
+Starting compression to BC3_UNORM... (this may take a moment)
 Compression completed successfully!
 Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\9a\4a\9A4A541EACB6BDFD.dds
-Output size: 170 KB
+Output size: 256 KB
 Texture Compilation Completed Successfully

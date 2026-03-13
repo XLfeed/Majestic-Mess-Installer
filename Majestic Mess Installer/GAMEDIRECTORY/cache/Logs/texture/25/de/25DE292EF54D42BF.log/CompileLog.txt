@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/Player_Hands/Hand.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Player_Hands\Hand.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\25\de\25DE292EF54D42BF
 Format: BC1_UNORM
 Mipmaps: Enabled

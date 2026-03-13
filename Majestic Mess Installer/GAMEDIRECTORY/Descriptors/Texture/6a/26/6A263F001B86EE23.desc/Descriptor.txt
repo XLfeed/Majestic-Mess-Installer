@@ -1,6 +1,6 @@
 {
     "guid": "6A263F001B86EE23",
-    "sourceFilePath": "C:/ProgrammStuff/PanKek-GAM300/PanKek/assets/3D Models/Barracks/Dummy_Color.png",
+    "sourceFilePath": "assets/3D Models/Barracks/Dummy_Color.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

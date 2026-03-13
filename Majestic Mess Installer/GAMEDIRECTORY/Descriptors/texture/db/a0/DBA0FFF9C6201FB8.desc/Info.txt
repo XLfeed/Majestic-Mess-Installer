@@ -1,0 +1,8 @@
+{
+    "guid": "DBA0FFF9C6201FB8",
+    "name": "Treasure_4_Color.001",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

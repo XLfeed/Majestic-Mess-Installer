@@ -1,6 +1,6 @@
 {
     "guid": "A4D606ECAFC05FC6",
-    "sourceFilePath": "../assets/medieval_window/medieval_window_interior.png",
+    "sourceFilePath": "assets/3D Models/Window/medieval_window_interior.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

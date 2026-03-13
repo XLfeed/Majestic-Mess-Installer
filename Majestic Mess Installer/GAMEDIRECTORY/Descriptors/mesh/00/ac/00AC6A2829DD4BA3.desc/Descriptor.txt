@@ -1,6 +1,6 @@
 {
     "guid": "00AC6A2829DD4BA3",
-    "sourceFilePath": "../assets/3D Models/Map/Scene map/floor_new.obj",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/floor_new.obj",
     "dependencies": [
         "0E67050DE8A8C279"
     ],

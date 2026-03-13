@@ -1,6 +1,6 @@
 {
     "guid": "E906CE4B325A70F9",
-    "sourceFilePath": "../assets/Textures/Menu/Settings.png",
+    "sourceFilePath": "assets/Textures/Menu/Settings.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

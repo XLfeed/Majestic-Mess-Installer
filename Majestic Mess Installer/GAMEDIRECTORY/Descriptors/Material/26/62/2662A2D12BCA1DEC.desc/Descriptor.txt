@@ -1,6 +1,6 @@
 {
     "guid": "2662A2D12BCA1DEC",
-    "sourceFilePath": "../assets/Npc/NOTmegumin_palette.mat",
+    "sourceFilePath": "assets/Npc/NOTmegumin_palette.mat",
     "dependencies": [
         "B2B91947C3628F0D",
         "276871285F6D0A92"

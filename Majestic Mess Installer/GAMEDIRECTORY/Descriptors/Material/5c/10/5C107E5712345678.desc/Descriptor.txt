@@ -1,6 +1,6 @@
 {
     "guid": "5C107E5712345678",
-    "sourceFilePath": "../assets/Shaders/SkinnedMesh_Test.mat",
+    "sourceFilePath": "assets/Shaders/SkinnedMesh_Test.mat",
     "dependencies": [
         "387A31872CF54AFF"
     ],

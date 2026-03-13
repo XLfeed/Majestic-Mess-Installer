@@ -1,6 +1,6 @@
 {
     "guid": "C7E4FADEF5275E9B",
-    "sourceFilePath": "../assets/3D Models/Window/medieval_window_interior_palette.mat",
+    "sourceFilePath": "assets/3D Models/Window/medieval_window_interior_palette.mat",
     "dependencies": [
         "B2B91947C3628F0D",
         "A4D606ECAFC05FC6"

@@ -1,6 +1,6 @@
 {
     "guid": "C37A2ADCB81690EB",
-    "sourceFilePath": "../assets/Audio/SFX/Footstep_Player_Run_01.wav",
+    "sourceFilePath": "assets/Audio/SFX/Footstep_Player_Run_01.wav",
     "dependencies": [],
     "properties": {}
 }

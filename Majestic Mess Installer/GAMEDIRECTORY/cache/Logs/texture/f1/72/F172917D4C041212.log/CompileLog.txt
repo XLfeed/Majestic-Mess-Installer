@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ..\assets\3D Models\Knight_CustomEngine\Torso.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Knight_CustomEngine\Torso.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\f1\72\F172917D4C041212
 Format: BC1_UNORM
 Mipmaps: Enabled

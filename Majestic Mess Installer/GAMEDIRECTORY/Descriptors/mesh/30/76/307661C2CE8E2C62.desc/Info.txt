@@ -1,0 +1,8 @@
+{
+    "guid": "307661C2CE8E2C62",
+    "name": "Environment_L2_m5",
+    "comments": "",
+    "type": "Mesh",
+    "virtualPath": [],
+    "links": []
+}

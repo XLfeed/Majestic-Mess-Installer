@@ -1,0 +1,10 @@
+Scene Compilation Started
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Scenes\M4_Level.scene
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\scene\28\cd\28CD8E5B60F5EE9F.scene
+Loaded JSON: 1199419 bytes
+JSON validation passed
+Found 281 dependencies
+Original size: 1199419 bytes
+Compressed size: 54775 bytes
+Compression ratio: 21.897198x
+Scene Compilation Completed Successfully

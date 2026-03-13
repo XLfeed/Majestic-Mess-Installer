@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/Bounty_List/scuff_method_1.jpg
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Bounty_List\scuff_method_1.jpg
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\49\87\4987B8910E267AE0
 Format: BC1_UNORM
 Mipmaps: Enabled

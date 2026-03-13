@@ -1,6 +1,6 @@
 {
     "guid": "E2140D7022BF3398",
-    "sourceFilePath": "../assets/3D Models/Kitchen/medieval_kitchen_table_palette.mat",
+    "sourceFilePath": "assets/3D Models/Kitchen/medieval_kitchen_table_palette.mat",
     "dependencies": [
         "B2B91947C3628F0D",
         "DF38082D1B9D807F"

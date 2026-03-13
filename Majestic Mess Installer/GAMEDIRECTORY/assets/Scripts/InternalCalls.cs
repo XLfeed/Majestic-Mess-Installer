@@ -169,6 +169,11 @@ namespace Engine
         [MethodImplAttribute(MethodImplOptions.InternalCall)]
         internal extern static string TagComponent_GetTag(ulong entityID);
 
+        // Physics
+        [MethodImplAttribute(MethodImplOptions.InternalCall)]
+        internal extern static bool Physics_RaycastClosest(ref Vector3 origin, ref Vector3 direction, float maxDistance,
+            ulong ignoreEntityID, out ulong hitEntityID, out Vector3 hitPoint, out float hitDistance);
+
         // Scroll of cinder
         [MethodImpl(MethodImplOptions.InternalCall)]
         internal static extern void Scene_DestroyEntity(ulong id);
@@ -493,5 +498,20 @@ namespace Engine
         internal static extern bool UITextComponent_GetEnabled(ulong id);
         [MethodImplAttribute(MethodImplOptions.InternalCall)]
         internal static extern bool UITextComponent_SetEnabled(ulong id, bool enabled);
+
+        // Game Pause
+        [MethodImplAttribute(MethodImplOptions.InternalCall)]
+        internal static extern bool Game_IsPaused();
+        [MethodImplAttribute(MethodImplOptions.InternalCall)]
+        internal static extern void Game_SetPaused(bool paused);
+        // TextMeshProComponent
+        [MethodImplAttribute(MethodImplOptions.InternalCall)]
+        internal static extern bool TextMeshProComponent_GetEnabled(ulong id);
+        [MethodImplAttribute(MethodImplOptions.InternalCall)]
+        internal static extern void TextMeshProComponent_SetEnabled(ulong id, bool enabled);
+        [MethodImplAttribute(MethodImplOptions.InternalCall)]
+        internal static extern string TextMeshProComponent_GetText(ulong id);
+        [MethodImplAttribute(MethodImplOptions.InternalCall)]
+        internal static extern void TextMeshProComponent_SetText(ulong id, string text);
     }
 }

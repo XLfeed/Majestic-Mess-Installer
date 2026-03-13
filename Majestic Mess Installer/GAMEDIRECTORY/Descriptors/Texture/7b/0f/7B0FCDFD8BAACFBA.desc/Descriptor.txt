@@ -1,6 +1,6 @@
 {
     "guid": "7B0FCDFD8BAACFBA",
-    "sourceFilePath": "../assets/Knight_CustomEngine/Thigh.L.png",
+    "sourceFilePath": "assets/3D Models/Knight_CustomEngine/Thigh.L.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

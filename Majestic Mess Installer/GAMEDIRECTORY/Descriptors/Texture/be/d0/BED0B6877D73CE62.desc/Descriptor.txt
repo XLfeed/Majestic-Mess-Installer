@@ -1,6 +1,6 @@
 {
     "guid": "BED0B6877D73CE62",
-    "sourceFilePath": "../assets/Textures/Bounty_List/Treasure_1_List.png",
+    "sourceFilePath": "assets/Textures/Bounty_List/Treasure_1_List.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

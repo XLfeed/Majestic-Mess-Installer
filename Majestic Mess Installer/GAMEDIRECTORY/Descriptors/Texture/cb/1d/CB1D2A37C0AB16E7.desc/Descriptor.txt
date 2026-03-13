@@ -1,6 +1,6 @@
 {
     "guid": "CB1D2A37C0AB16E7",
-    "sourceFilePath": "../assets/Textures/UI/cooldown_image 1.png",
+    "sourceFilePath": "assets/Textures/UI/cooldown_image 1.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

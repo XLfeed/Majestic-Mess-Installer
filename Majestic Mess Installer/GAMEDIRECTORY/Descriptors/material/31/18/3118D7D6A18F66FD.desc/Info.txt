@@ -1,0 +1,8 @@
+{
+    "guid": "3118D7D6A18F66FD",
+    "name": "Environment_L2_m5_Crate_Material.011",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

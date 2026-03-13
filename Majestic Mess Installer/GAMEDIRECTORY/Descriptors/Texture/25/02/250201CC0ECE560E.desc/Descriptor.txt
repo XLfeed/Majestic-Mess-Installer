@@ -1,6 +1,6 @@
 {
     "guid": "250201CC0ECE560E",
-    "sourceFilePath": "../assets/Spritesheets/ame.png",
+    "sourceFilePath": "assets/Spritesheets/ame.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ..\assets\3D Models\Knight_CustomEngine\Shoulder.R.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Knight_CustomEngine\Shoulder.R.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\e5\56\E556A61304A9499F
 Format: BC1_UNORM
 Mipmaps: Enabled

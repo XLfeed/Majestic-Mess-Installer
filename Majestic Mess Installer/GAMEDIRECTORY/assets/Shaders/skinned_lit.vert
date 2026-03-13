@@ -5,7 +5,7 @@ layout(location = 0) in vec3 position;       // Vertex position
 layout(location = 1) in vec3 normal;         // Vertex normal
 layout(location = 2) in vec2 texCoord;       // Texture coordinates
 layout(location = 3) in vec3 tangent;        // Tangent (for normal mapping)
-layout(location = 4) in uvec4 jointIds;      // Bone indices (up to 4 influences, uint8_t)
+layout(location = 4) in vec4 jointIds;       // Bone indices (0-255 as float, cast to int in shader)
 layout(location = 5) in vec4 weights;        // Bone weights (normalized 0-255 to 0.0-1.0)
 
 // Transform uniforms (standard from existing shaders)
@@ -34,7 +34,7 @@ void main() {
 
     // Process first (maxInfluences - 1) bones
     for (int i = 0; i < u_MaxInfluences - 1; ++i) {
-        uint boneIndex = jointIds[i];
+        int boneIndex = int(jointIds[i]);
         float weight = weights[i];
 
         remainingWeight -= weight;
@@ -42,7 +42,7 @@ void main() {
     }
 
     // Last bone uses remaining weight (ensures sum = 1.0)
-    uint lastBoneIndex = jointIds[u_MaxInfluences - 1];
+    int lastBoneIndex = int(jointIds[u_MaxInfluences - 1]);
     skinMatrix += remainingWeight * u_BoneMatrices[lastBoneIndex];
 
     // Apply skinning to position

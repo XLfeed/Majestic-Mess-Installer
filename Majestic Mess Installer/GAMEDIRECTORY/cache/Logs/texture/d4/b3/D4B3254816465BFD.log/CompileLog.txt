@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/UI/heart_icon.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\UI\heart_icon.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\d4\b3\D4B3254816465BFD
 Format: BC1_UNORM
 Mipmaps: Enabled

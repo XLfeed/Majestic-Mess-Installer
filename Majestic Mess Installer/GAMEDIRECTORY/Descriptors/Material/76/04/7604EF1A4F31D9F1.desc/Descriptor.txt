@@ -1,6 +1,6 @@
 {
     "guid": "7604EF1A4F31D9F1",
-    "sourceFilePath": "../assets/Textures/Player/Forearm.R_Material.mat",
+    "sourceFilePath": "assets/Textures/Player/Forearm.R_Material.mat",
     "dependencies": [
         "387A31872CF54AFF",
         "64D4A09F11E096F5"

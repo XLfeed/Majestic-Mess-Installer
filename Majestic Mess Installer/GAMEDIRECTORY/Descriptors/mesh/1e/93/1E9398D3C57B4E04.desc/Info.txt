@@ -1,8 +1,0 @@
-{
-    "guid": "1E9398D3C57B4E04",
-    "name": "Treasure_small",
-    "comments": "",
-    "type": "Mesh",
-    "virtualPath": [],
-    "links": []
-}

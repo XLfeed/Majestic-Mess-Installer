@@ -1,6 +1,6 @@
 {
     "guid": "4057F9DC668BF193",
-    "sourceFilePath": "../assets/Objects/Table_No_Cloth/Table_No_Cloth.png",
+    "sourceFilePath": "assets/3D Models/Table_No_Cloth/Table_No_Cloth.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC5_UNORM",

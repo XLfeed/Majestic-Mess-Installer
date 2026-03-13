@@ -1,6 +1,6 @@
 {
     "guid": "2D51D4D8711DBBB8",
-    "sourceFilePath": "../assets/Textures/Player/Shoulder.R_Material.mat",
+    "sourceFilePath": "assets/Textures/Player/Shoulder.R_Material.mat",
     "dependencies": [
         "387A31872CF54AFF",
         "425984BB844B7E3B"

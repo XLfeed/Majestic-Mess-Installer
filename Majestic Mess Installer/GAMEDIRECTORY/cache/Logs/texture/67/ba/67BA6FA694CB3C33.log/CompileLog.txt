@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Treasure_3\PhoneScreen_1.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\67\ba\67BA6FA694CB3C33
+Format: BC1_UNORM
+Mipmaps: Enabled
+Loaded image: 627x991
+Generated 10 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC1_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\67\ba\67BA6FA694CB3C33.dds
+Output size: 406 KB
+Texture Compilation Completed Successfully

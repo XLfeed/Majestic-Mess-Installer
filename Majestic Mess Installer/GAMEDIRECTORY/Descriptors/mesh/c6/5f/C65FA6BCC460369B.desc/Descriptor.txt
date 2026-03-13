@@ -1,0 +1,10 @@
+{
+    "guid": "C65FA6BCC460369B",
+    "sourceFilePath": "assets/3D Models/Treasures/Treasure_4.obj",
+    "dependencies": [],
+    "properties": {
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

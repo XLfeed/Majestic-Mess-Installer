@@ -12,24 +12,24 @@ AppId={{99612BF2-3DA1-45E8-9086-75D4E4760CBF}
 
 ; Standard app data stuff
 ; !!NOTE!!: Replace all instances of "GameTest" with your game name.
-AppName=Majestic Mess
-AppVerName=Majestic Mess Version 3.5
+AppName=Gam300
+AppVerName=Gam300 Version 3.1
 AppPublisher=DigiPen Institute of Technology
 AppPublisherURL=http://www.digipen.edu/
 AppSupportURL=http://www.digipen.edu/
 
 ; Default path to the file storage directory.
 ; {pf} is the default program files directory set by Windows
-DefaultDirName={pf}\DigiPen\Majestic Mess
+DefaultDirName={pf}\DigiPen\Gam300
 
 ; Start menu directory
-DefaultGroupName=DigiPen\Majestic Mess
+DefaultGroupName=DigiPen\Game300
 
 ; Output directory for the installer.
 OutputDir=.\INSTALLER
 
 ; Setup executable installer
-OutputBaseFilename=Majestic Mess_Setup
+OutputBaseFilename=Gam300_Setup
 
 ; Path to the DigiPen EULA (Needed to pass TCRs)
 LicenseFile=INSTALLERFILES\DigiPen_EULA.txt
@@ -92,10 +92,10 @@ Source: .\INSTALLERFILES\install_sound.wav; DestDir: {tmp}; Flags: dontcopy
 ;   {group} is the start menu location that the game will install shortcuts to.
 ;   {commondesktop} is your Windows desktop directory.
 [Icons]
-Name: {group}\Majestic Mess; Filename: {app}\Majestic Mess.exe; WorkingDir: {app}; IconFilename: "{app}\Icon.ico"
-Name: {group}\{cm:UninstallProgram,Majestic Mess}; Filename: {uninstallexe}
-Name: {group}\{cm:UninstallProgram,Majestic Mess}; Filename: {uninstallexe};  IconFilename: "{app}\Icon.ico"
-Name: {commondesktop}\Majestic Mess; Filename: {app}\Majestic Mess.exe; Tasks: desktopicon; WorkingDir: {app}; IconFilename: "{app}\Icon.ico"
+Name: {group}\Gam300; Filename: {app}\Gam300.exe; WorkingDir: {app}; IconFilename: "{app}\Icon.ico"
+Name: {group}\{cm:UninstallProgram,Gam300}; Filename: {uninstallexe}
+Name: {group}\{cm:UninstallProgram,Gam300}; Filename: {uninstallexe};  IconFilename: "{app}\Icon.ico"
+Name: {commondesktop}\Gam300; Filename: {app}\Gam300.exe; Tasks: desktopicon; WorkingDir: {app}; IconFilename: "{app}\Icon.ico"
 
 ; List of items to execute in the installer.
 ; Note that this will run all executables in their silent versions as required by the TCRs.
@@ -106,7 +106,7 @@ Name: {commondesktop}\Majestic Mess; Filename: {app}\Majestic Mess.exe; Tasks: d
 ;Filename: {tmp}\vc_redist.x86.exe; Parameters: /q; StatusMsg: Installing Visual C++ 2015 Redistributable...
 Filename: {tmp}\VC_redist.x64.exe; Parameters: /q; StatusMsg: Installing Visual C++ 2022 Redistributable...
 ;Filename: {tmp}\dxwebsetup.exe; Parameters: /q; StatusMsg: Installing DirectX...
-Filename: {app}\Majestic Mess.exe; Description: {cm:LaunchProgram,Majestic Mess}; WorkingDir: {app}; Flags: nowait postinstall skipifsilent
+Filename: {app}\Gam300.exe; Description: {cm:LaunchProgram,Gam300}; WorkingDir: {app}; Flags: nowait postinstall skipifsilent
 
 
 ;To be able to run and generate the GameTest_Setup.exe you need to download and install "Inno Setup" application, then open this file with the application.

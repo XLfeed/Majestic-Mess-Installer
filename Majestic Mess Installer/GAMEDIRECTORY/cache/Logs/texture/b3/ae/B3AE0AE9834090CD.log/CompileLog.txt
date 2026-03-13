@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/Bounty_List/Treasure_3_List.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Bounty_List\Treasure_3_List.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\b3\ae\B3AE0AE9834090CD
 Format: BC1_UNORM
 Mipmaps: Enabled

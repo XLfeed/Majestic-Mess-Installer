@@ -1,9 +1,0 @@
-{
-    "guid": "0D74E4BB882F373D",
-    "sourceFilePath": "../assets/Objects/Barrier/Barrier_Wooden/Barrier_Wooden_Material.002.mat",
-    "dependencies": [
-        "B2B91947C3628F0D",
-        "DE746715405DD619"
-    ],
-    "properties": {}
-}

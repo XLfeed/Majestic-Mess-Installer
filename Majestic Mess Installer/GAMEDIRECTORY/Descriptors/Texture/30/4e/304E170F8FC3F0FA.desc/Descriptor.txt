@@ -1,6 +1,6 @@
 {
     "guid": "304E170F8FC3F0FA",
-    "sourceFilePath": "../assets/3D Models/Throne/ThroneRoom-Door.png",
+    "sourceFilePath": "assets/3D Models/Throne/ThroneRoom-Door.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

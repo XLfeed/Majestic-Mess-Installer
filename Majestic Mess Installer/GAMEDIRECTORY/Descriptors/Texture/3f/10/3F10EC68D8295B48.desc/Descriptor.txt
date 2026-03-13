@@ -1,6 +1,6 @@
 {
     "guid": "3F10EC68D8295B48",
-    "sourceFilePath": "../assets/Knight_CustomEngine/Sword.png",
+    "sourceFilePath": "assets/3D Models/Knight_CustomEngine/Sword.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

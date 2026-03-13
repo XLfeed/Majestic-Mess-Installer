@@ -1,9 +1,0 @@
-{
-    "guid": "E1D9EC541D7EBA3D",
-    "sourceFilePath": "../assets/3D Models/Library/palette.mat",
-    "dependencies": [
-        "B2B91947C3628F0D",
-        "2B68FB2E9BA07997"
-    ],
-    "properties": {}
-}

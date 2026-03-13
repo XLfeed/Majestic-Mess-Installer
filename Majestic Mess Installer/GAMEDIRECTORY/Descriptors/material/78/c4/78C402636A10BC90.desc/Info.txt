@@ -1,0 +1,8 @@
+{
+    "guid": "78C402636A10BC90",
+    "name": "Navmesh_L2_m5_palette.113",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

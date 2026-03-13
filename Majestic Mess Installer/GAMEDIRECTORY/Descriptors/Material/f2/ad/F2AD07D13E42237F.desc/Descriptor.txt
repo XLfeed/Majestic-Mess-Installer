@@ -1,6 +1,6 @@
 {
     "guid": "F2AD07D13E42237F",
-    "sourceFilePath": "../assets/3D Models/Map/Scene map/floor_Material.001.mat",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/floor_Material.001.mat",
     "dependencies": [
         "6AE9922563A60EA5",
         "2D33EF012D2F7F86"

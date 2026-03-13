@@ -1,6 +1,6 @@
 {
     "guid": "090B4F29C50DF3D3",
-    "sourceFilePath": "../assets/Scenes/M4_Level.scene",
+    "sourceFilePath": "assets/Scenes/M4_Level.scene",
     "dependencies": [
         "7B220E2928A9B82E",
         "5DE2630275C7E9F2",

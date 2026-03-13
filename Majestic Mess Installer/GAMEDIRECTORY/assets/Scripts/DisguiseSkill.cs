@@ -12,20 +12,21 @@ public class DisguiseSkill : Entity
     public float CooldownRemaining => MathF.Max(0f, cooldownTimer);
     public float CooldownDuration => cooldown;
     public bool IsOnCooldown => cooldownTimer > 0f;
+    public bool IsUnlocked => PickUpItemManager.IsDisguiseUnlocked();
 
     // Skill parameters
     public KeyCode disguiseKey = KeyCode.R;
     public bool disguiseDebugLog = true;
     public float cooldown = 2.0f;
     public float cooldownTimer = 0.0f;
-    public int maxCharges = 3;
-    public int currCharges = 3;
+    public int maxCharges = 10;
+    public int currCharges = 10;
     // Audio + timing
     public string disguiseSfxPath = "assets/Audio/SFX/Smoke.wav";
     public float disguiseSfxVolume = 0.4f;
     public float disguiseDelay = 2f;
 
-    public float duration = 7.0f;
+    public float duration = 15.0f;
 
     // Shader/tint effect tuning
     public Vector3 enterFlashColor = new Vector3(1f, 1f, 1f);
@@ -131,6 +132,8 @@ public class DisguiseSkill : Entity
 
     private void TryActivate()
     {
+        if (!IsUnlocked)
+            return;
         if (cooldownTimer > 0f)
             return;
         var list = EnemyRegistry.Snapshot();
@@ -397,6 +400,13 @@ public class DisguiseSkill : Entity
 
     public bool TryUseSkill()
     {
+        if (!IsUnlocked)
+        {
+            if (disguiseDebugLog)
+                Debug.Log("[Disguise] Locked. Pick up Treasure (magic mask).");
+            return false;
+        }
+
         if (cooldownTimer > 0f || isDisguised || disguisePending || currCharges <= 0)
             return false;
         TryActivate();

@@ -3,16 +3,16 @@ using Engine;
 /// <summary>
 /// In-level cutscene overlay — keeps the level scene fully loaded.
 /// The video renders fullscreen on top of the gameplay view.
-/// All mid-animation, physics and AI state is preserved because nothing is
-/// unloaded; we simply block player input and play video until done. [Can pause game once we have a pause state.]
+/// The game is paused during the cutscene so enemies freeze and game audio doesn't clash.
+/// Press Space to skip — detected in C++ so it works even while the game is paused.
+/// The cutscene ends automatically via OnVideoFinished when the video reaches its natural end.
 ///
 /// Setup in editor:
 ///   1. Create an entity in the level scene (e.g. "LevelCutscene").
 ///   2. Attach VideoPlayerComponent — set any default video file path.
 ///      Leave Play On Awake OFF.
 ///   3. Attach this script to the same entity.
-///   4. Set treasureOneVideoGUID, treasureTwoVideoGUID, treasureThreeVideoGUID
-///      via the video dropdowns in the inspector.
+///   4. Set treasureTwoVideoGUID, treasureThreeVideoGUID via the video dropdowns in the inspector.
 ///   5. From any pickup script call:
 ///        Entity.FindScript<LevelCutsceneController>()?.Trigger(nearest.EntityName);
 /// </summary>
@@ -21,8 +21,10 @@ public class LevelCutsceneController : Entity
     private VideoPlayerComponent vp;
     private bool cutsceneActive = false;
 
-    public ulong treasureTwoVideoGUID   = 0;   // shows video dropdown in inspector
+    public ulong treasureOneVideoGUID   = 0;
+    public ulong treasureTwoVideoGUID   = 0;
     public ulong treasureThreeVideoGUID = 0;
+    public ulong treasureFourVideoGUID  = 0;
 
     public override void OnInit()
     {
@@ -30,19 +32,19 @@ public class LevelCutsceneController : Entity
 
         if (vp == null)
             Debug.Log("[LevelCutsceneController] ERROR: No VideoPlayerComponent on this entity.");
+
     }
 
-    public override void OnUpdate(float dt)
+    /// <summary>
+    /// Fired by the C++ VideoSystem when the video ends naturally, OR when
+    /// Space is pressed (C++ detects it during pause and calls this directly).
+    /// Bypasses game pause — always fires regardless of pause state.
+    /// </summary>
+    public override void OnVideoFinished()
     {
-        if (!cutsceneActive || vp == null) return;
-
-        bool skip = Input.IsKeyPressed(KeyCode.Escape) || Input.IsKeyPressed(KeyCode.Space);
-
-        if (vp.IsFinished || skip)
-        {
-            Debug.Log($"[LevelCutsceneController] Cutscene {(skip ? "skipped" : "finished")}.");
-            EndCutscene();
-        }
+        if (!cutsceneActive) return;
+        Debug.Log("[LevelCutsceneController] Cutscene ended.");
+        EndCutscene();
     }
 
     /// <summary>
@@ -55,18 +57,22 @@ public class LevelCutsceneController : Entity
     {
         if (cutsceneActive || vp == null) return;
 
+        ulong guid = 0;
         if (!string.IsNullOrEmpty(itemName))
         {
-            ulong guid = 0;
-            if      (itemName == "TreasureTwo")   guid = treasureTwoVideoGUID;
-            else if (itemName == "TreasureThree")   guid = treasureThreeVideoGUID;
-
-            if (guid != 0)
-                vp.SetVideoGUID(guid);
+            if      (itemName == "TreasureOne")   guid = treasureOneVideoGUID;
+            else if (itemName == "TreasureTwo")   guid = treasureTwoVideoGUID;
+            else if (itemName == "TreasureThree") guid = treasureThreeVideoGUID;
+            else if (itemName == "TreasureFour")  guid = treasureFourVideoGUID;
         }
 
+        // No GUID mapped for this item, no cutscene
+        if (guid == 0) return;
+
+        vp.SetVideoGUID(guid);
         cutsceneActive = true;
         PlayerInputBlocker.SetBlocked(true);
+        GamePause.Pause();
         vp.Play();
 
         Debug.Log($"[LevelCutsceneController] Triggered for '{itemName}'.");
@@ -75,7 +81,7 @@ public class LevelCutsceneController : Entity
     private void EndCutscene()
     {
         cutsceneActive = false;
-        vp.Stop();
         PlayerInputBlocker.SetBlocked(false);
+        GamePause.Resume();
     }
 }

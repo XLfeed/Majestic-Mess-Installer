@@ -1,6 +1,6 @@
 {
     "guid": "51144916209F537F",
-    "sourceFilePath": "../assets/3D Models/Kitchen/mug_palette.mat",
+    "sourceFilePath": "assets/3D Models/Kitchen/mug_palette.mat",
     "dependencies": [
         "B2B91947C3628F0D",
         "FB412940F147289A"

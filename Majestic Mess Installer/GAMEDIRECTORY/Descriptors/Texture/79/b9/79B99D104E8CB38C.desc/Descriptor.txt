@@ -1,6 +1,6 @@
 {
     "guid": "79B99D104E8CB38C",
-    "sourceFilePath": "../assets/Textures/UI/HUD_border_horizontal.png",
+    "sourceFilePath": "assets/Textures/UI/HUD_border_horizontal.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC3_UNORM",

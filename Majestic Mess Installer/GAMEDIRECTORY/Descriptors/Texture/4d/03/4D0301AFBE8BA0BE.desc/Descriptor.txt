@@ -1,6 +1,6 @@
 {
     "guid": "4D0301AFBE8BA0BE",
-    "sourceFilePath": "../assets/Textures/Player/Torso.png",
+    "sourceFilePath": "assets/Textures/Player/Torso.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

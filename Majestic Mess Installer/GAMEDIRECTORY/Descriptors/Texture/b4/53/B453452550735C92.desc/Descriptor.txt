@@ -1,6 +1,6 @@
 {
     "guid": "B453452550735C92",
-    "sourceFilePath": "../assets/Textures/hanzoFEET.png",
+    "sourceFilePath": "assets/Textures/hanzoFEET.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

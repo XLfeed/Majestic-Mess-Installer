@@ -1,0 +1,12 @@
+Font Compilation Started
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Fonts\Rubik Doodle Shadow-Regular.ttf
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\font\01\7c\017CBA39E80980D8
+Font Size: 48
+Character Set: ascii
+Atlas Size: 1024x1024
+Font Family: Rubik Doodle Shadow
+Font Style: Regular
+Characters to render: 95
+Rendered 95 glyphs
+Output size: 1027 KB
+Font Compilation Completed Successfully

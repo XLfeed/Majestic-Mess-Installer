@@ -1,6 +1,6 @@
 {
     "guid": "8F6AB5BCF09B61A7",
-    "sourceFilePath": "../assets/3D Models/Map/Scene map/playarea_Material.004.mat",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/playarea_Material.004.mat",
     "dependencies": [
         "6AE9922563A60EA5",
         "FF983B7050731B2E"

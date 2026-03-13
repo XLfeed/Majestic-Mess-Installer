@@ -91,7 +91,10 @@ public class PlayerController : Entity
             isCrouching = false;
             return;
         }
-
+        if(Input.IsKeyPressed(KeyCode.D0))
+        {
+            sprintMultiplier = 10.0f;
+        }
         //var rot = tf.Rotation;
         //rot.x += 30.0f * dt;
         //rot.y += 45.0f * dt;   // 45 degrees per second
@@ -274,5 +277,24 @@ public class PlayerController : Entity
             s.y = desiredHeight;
             tf.Scale = s;
         }
+    }
+
+    public bool IsPlayerMoving()
+    {
+        if (rb == null)
+            return false;
+
+        Vector3 vel = rb.Velocity;
+        float speedSq = vel.x * vel.x + vel.z * vel.z;
+
+        bool input =
+            Input.IsKeyHeld(KeyCode.W) ||
+            Input.IsKeyHeld(KeyCode.A) ||
+            Input.IsKeyHeld(KeyCode.S) ||
+            Input.IsKeyHeld(KeyCode.D);
+
+        Console.WriteLine("Velocity: " + rb.Velocity);
+        
+        return input || speedSq > 0.0001f;
     }
 }

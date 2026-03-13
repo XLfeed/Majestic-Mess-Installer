@@ -21,13 +21,20 @@ public class SkillUI : Entity
         {
             ResolvePanels();
         }
+
+        SetHudVisible(PickUpItemManager.IsCinderUnlocked() || PickUpItemManager.IsDisguiseUnlocked());
     }
 
     public void SetSelection(SkillSwitcher.SkillSlot slot)
     {
         //Debug.Log($"[SkillHUD] SetSelection {slot}");
-        SetPanelVisible(cinderPanel, slot == SkillSwitcher.SkillSlot.Cinder);
-        SetPanelVisible(disguisePanel, slot == SkillSwitcher.SkillSlot.Disguise);
+        bool anyUnlocked = PickUpItemManager.IsCinderUnlocked() || PickUpItemManager.IsDisguiseUnlocked();
+        SetHudVisible(anyUnlocked);
+
+        bool showCinder = slot == SkillSwitcher.SkillSlot.Cinder && PickUpItemManager.IsCinderUnlocked();
+        bool showDisguise = slot == SkillSwitcher.SkillSlot.Disguise && PickUpItemManager.IsDisguiseUnlocked();
+        SetPanelVisible(cinderPanel, showCinder);
+        SetPanelVisible(disguisePanel, showDisguise);
     }
 
     private void ResolvePanels()
@@ -52,7 +59,12 @@ public class SkillUI : Entity
             return;
         }
         //Debug.Log($"[SkillHUD] SetVisible {panel.Name} -> {visible}");
-        InternalCalls.UIElementComponent_SetVisible(panel.ID, visible);
+        InternalCalls.UIElementComponent_SetVisible(panel.ID, visible); // 
+    }
+
+    private void SetHudVisible(bool visible)
+    {
+        InternalCalls.UIElementComponent_SetVisible(ID, visible);
     }
     
 }

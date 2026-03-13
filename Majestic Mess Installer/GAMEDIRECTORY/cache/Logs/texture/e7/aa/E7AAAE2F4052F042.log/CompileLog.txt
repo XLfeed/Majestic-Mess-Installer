@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\basic_sparkle.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\e7\aa\E7AAAE2F4052F042
+Format: BC3_UNORM_SRGB
+Mipmaps: Enabled
+Loaded image: 112x112
+Generated 7 mipmap levels
+Using QUICK compression mode (faster, slightly lower quality)
+Starting compression to BC3_UNORM_SRGB... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\e7\aa\E7AAAE2F4052F042.dds
+Output size: 16 KB
+Texture Compilation Completed Successfully

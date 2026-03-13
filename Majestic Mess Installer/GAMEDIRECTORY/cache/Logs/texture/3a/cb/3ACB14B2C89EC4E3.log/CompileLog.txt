@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ..\assets\3D Models\Knight_CustomEngine\Foot.L.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Knight_CustomEngine\Foot.L.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\3a\cb\3ACB14B2C89EC4E3
 Format: BC1_UNORM
 Mipmaps: Enabled

@@ -1,6 +1,6 @@
 {
     "guid": "C17DE42B9180BF11",
-    "sourceFilePath": "../assets/Audio/SFX/MiscPickup_1.wav",
+    "sourceFilePath": "assets/Audio/SFX/MiscPickup_1.wav",
     "dependencies": [],
     "properties": {}
 }

@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/UI/money.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\UI\money.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\37\18\3718573742E96A31
 Format: BC1_UNORM
 Mipmaps: Enabled

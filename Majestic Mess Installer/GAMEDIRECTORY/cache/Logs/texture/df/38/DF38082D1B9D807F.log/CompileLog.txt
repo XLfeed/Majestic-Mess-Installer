@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/3D Models/Kitchen/medieval_kitchen_table.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Kitchen\medieval_kitchen_table.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\df\38\DF38082D1B9D807F
 Format: BC1_UNORM
 Mipmaps: Enabled

@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/3D Models/Barracks/sword_rack.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Barracks\sword_rack.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\18\e3\18E3106E6011DB70
 Format: BC1_UNORM
 Mipmaps: Enabled

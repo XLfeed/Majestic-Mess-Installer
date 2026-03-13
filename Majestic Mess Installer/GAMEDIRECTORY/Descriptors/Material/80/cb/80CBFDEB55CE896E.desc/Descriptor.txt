@@ -1,6 +1,6 @@
 {
     "guid": "80CBFDEB55CE896E",
-    "sourceFilePath": "../assets/3D Models/Treasures/Treasure_2_Untitled_Material.001.mat",
+    "sourceFilePath": "assets/3D Models/Treasures/Treasure_2_Untitled_Material.001.mat",
     "dependencies": [
         "B2B91947C3628F0D"
     ],

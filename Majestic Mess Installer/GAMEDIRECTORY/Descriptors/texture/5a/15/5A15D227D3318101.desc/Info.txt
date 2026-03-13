@@ -1,0 +1,8 @@
+{
+    "guid": "5A15D227D3318101",
+    "name": "Map_WizardRoom",
+    "comments": "",
+    "type": "Texture",
+    "virtualPath": [],
+    "links": []
+}

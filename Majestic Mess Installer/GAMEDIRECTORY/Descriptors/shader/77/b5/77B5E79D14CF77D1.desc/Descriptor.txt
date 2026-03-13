@@ -1,6 +1,6 @@
 {
     "guid": "77B5E79D14CF77D1",
-    "sourceFilePath": "../assets/Shaders/text.shader",
+    "sourceFilePath": "assets/Shaders/text.shader",
     "dependencies": [],
     "properties": {
         "fragmentShader": "text.frag",

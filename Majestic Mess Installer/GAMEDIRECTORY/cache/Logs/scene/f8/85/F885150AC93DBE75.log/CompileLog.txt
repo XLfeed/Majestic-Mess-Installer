@@ -1,10 +1,10 @@
 Scene Compilation Started
-Source: ../assets/Scenes/M3_Level.scene
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Scenes\M3_Level.scene
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\scene\f8\85\F885150AC93DBE75.scene
-Loaded JSON: 1526498 bytes
+Loaded JSON: 1569118 bytes
 JSON validation passed
-Found 714 dependencies
-Original size: 1526498 bytes
-Compressed size: 68899 bytes
-Compression ratio: 22.155590x
+Found 715 dependencies
+Original size: 1569118 bytes
+Compressed size: 71582 bytes
+Compression ratio: 21.920567x
 Scene Compilation Completed Successfully

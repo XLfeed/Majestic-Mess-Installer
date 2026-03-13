@@ -1,0 +1,8 @@
+{
+    "guid": "B8FDE7183D7C6D5C",
+    "name": "3Dtext",
+    "comments": "",
+    "type": "Scene",
+    "virtualPath": [],
+    "links": []
+}

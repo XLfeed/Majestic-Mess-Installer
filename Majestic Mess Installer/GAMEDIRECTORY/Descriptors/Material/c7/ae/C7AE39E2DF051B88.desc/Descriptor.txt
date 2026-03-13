@@ -1,6 +1,6 @@
 {
     "guid": "C7AE39E2DF051B88",
-    "sourceFilePath": "../assets/3D Models/Treasures/Treasure_2_Treasure_2_Material.mat",
+    "sourceFilePath": "assets/3D Models/Treasures/Treasure_2_Treasure_2_Material.mat",
     "dependencies": [
         "6AE9922563A60EA5",
         "00D467C578F52B49"

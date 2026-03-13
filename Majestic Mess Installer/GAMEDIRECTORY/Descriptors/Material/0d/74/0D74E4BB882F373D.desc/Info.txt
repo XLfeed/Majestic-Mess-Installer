@@ -1,8 +1,0 @@
-{
-    "guid": "0D74E4BB882F373D",
-    "name": "Barrier_Wooden_Material.002",
-    "comments": "",
-    "type": "Material",
-    "virtualPath": [],
-    "links": []
-}

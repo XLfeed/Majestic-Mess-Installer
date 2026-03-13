@@ -1,0 +1,13 @@
+Texture Compilation Started
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\basic_smoke.png
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\bc\f7\BCF7AF693756E37D
+Format: BC3_UNORM
+Mipmaps: Enabled
+Loaded image: 128x176
+Generated 8 mipmap levels
+Using DEFAULT compression mode (slower, best quality)
+Starting compression to BC3_UNORM... (this may take a moment)
+Compression completed successfully!
+Successfully saved to: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\bc\f7\BCF7AF693756E37D.dds
+Output size: 29 KB
+Texture Compilation Completed Successfully

@@ -1,6 +1,6 @@
 {
     "guid": "17552C3000EF2151",
-    "sourceFilePath": "../assets/Objects/Treasures/Treasure_2.png",
+    "sourceFilePath": "assets/Objects/Treasures/Treasure_2.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

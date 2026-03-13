@@ -1,0 +1,13 @@
+Font Compilation Started
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Fonts\HappyMonkey-Regular.ttf
+Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\font\af\8c\AF8CDD56EEAC73A4
+Font Size: 48
+Character Set: ascii
+Atlas Size: 1024x1024
+Font Family: Happy Monkey
+Font Style: Regular
+Characters to render: 95
+Rendered 95 glyphs
+Extracted 674 kerning pairs
+Output size: 1035 KB
+Font Compilation Completed Successfully

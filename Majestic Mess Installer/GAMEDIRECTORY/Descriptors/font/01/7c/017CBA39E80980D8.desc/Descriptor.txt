@@ -1,6 +1,6 @@
 {
     "guid": "017CBA39E80980D8",
-    "sourceFilePath": "../assets/Fonts/Rubik Doodle Shadow-Regular.ttf",
+    "sourceFilePath": "assets/Fonts/Rubik Doodle Shadow-Regular.ttf",
     "dependencies": [],
     "properties": {
         "atlasHeight": "1024",

@@ -1,6 +1,6 @@
 {
     "guid": "E6F310DA5191B500",
-    "sourceFilePath": "../assets/Audio/SFX/UI/UI_Click_2_F.wav",
+    "sourceFilePath": "assets/Audio/SFX/UI/UI_Click_2_F.wav",
     "dependencies": [],
     "properties": {}
 }

@@ -1,0 +1,8 @@
+{
+    "guid": "127116BF4692B0CC",
+    "name": "Openscroll_Openscroll_Material",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

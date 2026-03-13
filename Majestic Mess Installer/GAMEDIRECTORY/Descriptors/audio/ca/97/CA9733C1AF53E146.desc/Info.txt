@@ -1,0 +1,8 @@
+{
+    "guid": "CA9733C1AF53E146",
+    "name": "FireStaff_Near",
+    "comments": "",
+    "type": "Audio",
+    "virtualPath": [],
+    "links": []
+}

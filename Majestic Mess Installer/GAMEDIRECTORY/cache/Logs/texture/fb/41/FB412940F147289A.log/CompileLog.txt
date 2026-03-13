@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/3D Models/Kitchen/mug.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Kitchen\mug.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\fb\41\FB412940F147289A
 Format: BC1_UNORM
 Mipmaps: Enabled

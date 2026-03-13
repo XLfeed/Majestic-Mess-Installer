@@ -1,6 +1,6 @@
 {
     "guid": "475D21308775C207",
-    "sourceFilePath": "../assets/Fonts/MedievalSharp-Book.ttf",
+    "sourceFilePath": "assets/Fonts/MedievalSharp-Book.ttf",
     "dependencies": [],
     "properties": {
         "atlasHeight": "1024",

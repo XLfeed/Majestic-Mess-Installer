@@ -1,6 +1,6 @@
 {
     "guid": "A26CB449222F81B2",
-    "sourceFilePath": "../assets/3D Models/Throne/Throne_palette.mat",
+    "sourceFilePath": "assets/3D Models/Throne/Throne_palette.mat",
     "dependencies": [
         "B2B91947C3628F0D",
         "BB04C3DAA2C9664C"

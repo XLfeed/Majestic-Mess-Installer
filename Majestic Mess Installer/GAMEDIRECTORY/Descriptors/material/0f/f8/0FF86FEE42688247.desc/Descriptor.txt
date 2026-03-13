@@ -1,0 +1,9 @@
+{
+    "guid": "0FF86FEE42688247",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/Environment_L2_m5_Openscroll_Material.001.mat",
+    "dependencies": [
+        "6AE9922563A60EA5",
+        "FBBF6A1A01A65BBB"
+    ],
+    "properties": {}
+}

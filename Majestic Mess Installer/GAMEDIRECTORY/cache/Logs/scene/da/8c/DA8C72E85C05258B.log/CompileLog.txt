@@ -1,9 +1,0 @@
-Scene Compilation Started
-Source: ../assets/Scenes/test_entities.scene
-Output: ..\cache\Resources\scene\da\8c\DA8C72E85C05258B.scene
-Loaded JSON: 14155 bytes
-JSON validation passed
-Original size: 14155 bytes
-Compressed size: 2095 bytes
-Compression ratio: 6.756563x
-Scene Compilation Completed Successfully

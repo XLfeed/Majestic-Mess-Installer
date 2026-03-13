@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/3D Models/Kitchen/medieval_kitchen_pot.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Kitchen\medieval_kitchen_pot.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\9c\1e\9C1E9F70A4B82180
 Format: BC1_UNORM
 Mipmaps: Enabled

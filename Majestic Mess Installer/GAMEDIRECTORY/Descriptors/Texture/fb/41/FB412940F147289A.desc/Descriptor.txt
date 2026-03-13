@@ -1,6 +1,6 @@
 {
     "guid": "FB412940F147289A",
-    "sourceFilePath": "../assets/3D Models/Kitchen/mug.png",
+    "sourceFilePath": "assets/3D Models/Kitchen/mug.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Enemies/Knight/Knight.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Enemies\Knight\Knight.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\66\e4\66E4B05F8D7EF66E
 Format: BC1_UNORM
 Mipmaps: Enabled

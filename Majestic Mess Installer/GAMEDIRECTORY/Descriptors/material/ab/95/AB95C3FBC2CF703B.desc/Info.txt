@@ -1,0 +1,8 @@
+{
+    "guid": "AB95C3FBC2CF703B",
+    "name": "Closescroll_Closescroll_Material.001",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

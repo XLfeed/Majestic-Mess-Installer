@@ -1,6 +1,6 @@
 {
     "guid": "2BFF9FF56EB7D9D7",
-    "sourceFilePath": "../assets/3D Models/Extraction/portal_pink_portal_pink_Material.mat",
+    "sourceFilePath": "assets/3D Models/Extraction/portal_pink_portal_pink_Material.mat",
     "dependencies": [
         "6AE9922563A60EA5",
         "735AE0A108F95590"

@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/UI/crosshair118.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\UI\crosshair118.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\ad\a5\ADA5CF5D9B430787
 Format: BC1_UNORM
 Mipmaps: Enabled

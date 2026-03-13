@@ -1,0 +1,8 @@
+{
+    "guid": "CEF515301FB250D4",
+    "name": "Navmesh_L2_m5_palette.003",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

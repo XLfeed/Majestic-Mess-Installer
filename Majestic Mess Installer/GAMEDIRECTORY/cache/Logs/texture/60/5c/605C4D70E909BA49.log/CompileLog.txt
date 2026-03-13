@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/UI/injured.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\UI\injured.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\60\5c\605C4D70E909BA49
 Format: BC1_UNORM
 Mipmaps: Enabled

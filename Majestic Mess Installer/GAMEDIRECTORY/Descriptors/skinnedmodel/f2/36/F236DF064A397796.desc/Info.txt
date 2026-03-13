@@ -2,7 +2,7 @@
     "guid": "F236DF064A397796",
     "name": "huesitos",
     "comments": "",
-    "type": "SkinnedModel",
+    "type": "Unknown",
     "virtualPath": [],
     "links": []
 }

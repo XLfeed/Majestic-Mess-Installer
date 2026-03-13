@@ -1,6 +1,6 @@
 {
     "guid": "239D8DE509B51646",
-    "sourceFilePath": "../assets/Audio/SFX/Smoke.wav",
+    "sourceFilePath": "assets/Audio/SFX/Smoke.wav",
     "dependencies": [],
     "properties": {}
 }

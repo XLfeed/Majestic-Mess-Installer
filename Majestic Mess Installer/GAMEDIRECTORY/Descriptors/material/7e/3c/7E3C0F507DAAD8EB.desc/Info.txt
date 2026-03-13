@@ -1,0 +1,8 @@
+{
+    "guid": "7E3C0F507DAAD8EB",
+    "name": "Environment_L2_m5_Barrel_Material.023",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}

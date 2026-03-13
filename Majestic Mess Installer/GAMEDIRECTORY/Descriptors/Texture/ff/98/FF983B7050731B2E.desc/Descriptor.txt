@@ -1,6 +1,6 @@
 {
     "guid": "FF983B7050731B2E",
-    "sourceFilePath": "../assets/Textures/Environment/medievial_wall_grey_bright.png",
+    "sourceFilePath": "assets/Textures/Environment/medievial_wall_grey_bright.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

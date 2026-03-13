@@ -5,7 +5,7 @@ layout(location = 0) in vec3 aPosition;
 layout(location = 1) in vec3 aNormal;
 layout(location = 2) in vec2 aTexCoord;
 layout(location = 3) in vec3 aTangent;
-layout(location = 4) in uvec4 aBoneIndices;  // 4 bone indices (uint8_t as unsigned int)
+layout(location = 4) in vec4 aBoneIndices;   // 4 bone indices (0-255 as float, cast to int in shader)
 layout(location = 5) in vec4 aWeights;       // 4 weights (normalized 0.0-1.0)
 
 // Uniforms

@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/Treasure_3/PhoneScreen_SpriteSheet.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Treasure_3\PhoneScreen_SpriteSheet.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\45\73\45739B3B21AC3AD4
 Format: BC1_UNORM
 Mipmaps: Enabled

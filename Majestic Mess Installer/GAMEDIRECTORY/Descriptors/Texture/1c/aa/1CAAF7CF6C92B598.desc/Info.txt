@@ -1,8 +1,0 @@
-{
-    "guid": "1CAAF7CF6C92B598",
-    "name": "emerald_icon",
-    "comments": "",
-    "type": "Texture",
-    "virtualPath": [],
-    "links": []
-}

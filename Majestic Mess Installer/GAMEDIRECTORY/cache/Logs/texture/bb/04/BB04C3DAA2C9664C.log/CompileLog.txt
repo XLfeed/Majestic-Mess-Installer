@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/3D Models/Throne/Throne.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Throne\Throne.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\bb\04\BB04C3DAA2C9664C
 Format: BC1_UNORM
 Mipmaps: Enabled

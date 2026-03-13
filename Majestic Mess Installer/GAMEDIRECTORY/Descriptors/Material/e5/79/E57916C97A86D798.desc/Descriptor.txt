@@ -1,6 +1,6 @@
 {
     "guid": "E57916C97A86D798",
-    "sourceFilePath": "../assets/Textures/Player/Foot.L_Material.mat",
+    "sourceFilePath": "assets/Textures/Player/Foot.L_Material.mat",
     "dependencies": [
         "387A31872CF54AFF",
         "B71E38B72AF57B55"

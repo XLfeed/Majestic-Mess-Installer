@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/Environment/medievial_wall_grey_bright.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\Environment\medievial_wall_grey_bright.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\ff\98\FF983B7050731B2E
 Format: BC1_UNORM
 Mipmaps: Enabled

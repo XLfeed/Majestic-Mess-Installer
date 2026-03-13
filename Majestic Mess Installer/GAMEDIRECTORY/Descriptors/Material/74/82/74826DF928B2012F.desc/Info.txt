@@ -1,8 +1,0 @@
-{
-    "guid": "74826DF928B2012F",
-    "name": "Untitled_Material",
-    "comments": "",
-    "type": "Material",
-    "virtualPath": [],
-    "links": []
-}

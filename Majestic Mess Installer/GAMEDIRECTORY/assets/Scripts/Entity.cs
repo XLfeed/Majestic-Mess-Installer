@@ -316,5 +316,12 @@ namespace Engine
         internal void OnUIPointerDownCPP(UIPointerEventInfo eventInfo) { OnUIPointerDown(eventInfo); }
         internal void OnUIPointerUpCPP(UIPointerEventInfo eventInfo) { OnUIPointerUp(eventInfo); }
         internal void OnUIClickCPP(UIPointerEventInfo eventInfo) { OnUIClick(eventInfo); }
+
+        /// <summary>
+        /// Called by the C++ VideoSystem when a non-looping video on this entity
+        /// reaches its natural end. Fires even when the game is paused.
+        /// </summary>
+        public virtual void OnVideoFinished() { }
+        internal void OnVideoFinishedCPP() { OnVideoFinished(); }
     }
 }

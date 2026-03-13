@@ -1,6 +1,6 @@
 {
     "guid": "01AFEEC010E73787",
-    "sourceFilePath": "../assets/Textures/Player/Head.png",
+    "sourceFilePath": "assets/Textures/Player/Head.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

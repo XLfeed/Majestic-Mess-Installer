@@ -1,0 +1,15 @@
+{
+    "guid": "F38C94892024AD61",
+    "sourceFilePath": "assets/3D Models/Library/Openscroll.obj",
+    "dependencies": [
+        "127116BF4692B0CC"
+    ],
+    "properties": {
+        "assimp_materialCount": "1",
+        "assimp_materialName_0": "Openscroll_Material",
+        "assimp_submeshCount": "1",
+        "calculateTangents": "true",
+        "flipUVs": "false",
+        "generateNormals": "false"
+    }
+}

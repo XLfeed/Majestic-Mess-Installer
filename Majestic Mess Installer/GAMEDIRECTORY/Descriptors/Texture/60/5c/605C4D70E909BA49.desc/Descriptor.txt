@@ -1,6 +1,6 @@
 {
     "guid": "605C4D70E909BA49",
-    "sourceFilePath": "../assets/Textures/UI/injured.png",
+    "sourceFilePath": "assets/Textures/UI/injured.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

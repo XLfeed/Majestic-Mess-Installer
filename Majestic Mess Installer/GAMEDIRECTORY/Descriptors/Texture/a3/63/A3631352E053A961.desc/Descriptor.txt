@@ -1,6 +1,6 @@
 {
     "guid": "A3631352E053A961",
-    "sourceFilePath": "C:/git repo/PanKek-GAM300/PanKek/assets/Textures/UI/skill_disguise_border_revamp.png",
+    "sourceFilePath": "assets/Textures/UI/skill_disguise_border_revamp.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC3_UNORM_SRGB",

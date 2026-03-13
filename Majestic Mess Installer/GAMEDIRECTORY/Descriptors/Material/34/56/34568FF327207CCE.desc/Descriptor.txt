@@ -1,6 +1,6 @@
 {
     "guid": "34568FF327207CCE",
-    "sourceFilePath": "../assets/3D Models/Map/Scene map/playarea_Dummy_Material.mat",
+    "sourceFilePath": "assets/3D Models/Map/Scene map/playarea_Dummy_Material.mat",
     "dependencies": [
         "B2B91947C3628F0D",
         "6A263F001B86EE23"

@@ -1,6 +1,6 @@
 {
     "guid": "DDAAA31240C768E5",
-    "sourceFilePath": "../assets/Textures/Player/Cape.png",
+    "sourceFilePath": "assets/Textures/Player/Cape.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

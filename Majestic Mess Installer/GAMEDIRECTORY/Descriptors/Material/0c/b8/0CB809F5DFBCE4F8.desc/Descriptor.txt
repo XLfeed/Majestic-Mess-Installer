@@ -1,6 +1,6 @@
 {
     "guid": "0CB809F5DFBCE4F8",
-    "sourceFilePath": "../assets/3D Models/Knight_CustomEngine/Torso_Material.mat",
+    "sourceFilePath": "assets/3D Models/Knight_CustomEngine/Torso_Material.mat",
     "dependencies": [
         "387A31872CF54AFF",
         "F172917D4C041212"

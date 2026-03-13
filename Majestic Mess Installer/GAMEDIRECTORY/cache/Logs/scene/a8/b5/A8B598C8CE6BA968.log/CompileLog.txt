@@ -1,10 +1,10 @@
 Scene Compilation Started
-Source: ../assets/Scenes/pearltest.scene
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Scenes\pearltest.scene
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\scene\a8\b5\A8B598C8CE6BA968.scene
-Loaded JSON: 32218 bytes
+Loaded JSON: 7366 bytes
 JSON validation passed
 Found 2 dependencies
-Original size: 32218 bytes
-Compressed size: 1815 bytes
-Compression ratio: 17.750965x
+Original size: 7366 bytes
+Compressed size: 1320 bytes
+Compression ratio: 5.580303x
 Scene Compilation Completed Successfully

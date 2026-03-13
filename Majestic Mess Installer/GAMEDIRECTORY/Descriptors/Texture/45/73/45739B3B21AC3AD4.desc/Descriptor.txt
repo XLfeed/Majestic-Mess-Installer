@@ -1,6 +1,6 @@
 {
     "guid": "45739B3B21AC3AD4",
-    "sourceFilePath": "../assets/Textures/Treasure_3/PhoneScreen_SpriteSheet.png",
+    "sourceFilePath": "assets/Textures/Treasure_3/PhoneScreen_SpriteSheet.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

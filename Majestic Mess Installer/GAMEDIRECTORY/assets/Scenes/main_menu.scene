@@ -337,7 +337,7 @@
                             "x": 1920.0,
                             "y": 1080.0
                         },
-                        "scaleFactor": 0.3786458373069763,
+                        "scaleFactor": 0.5574073791503906,
                         "pixelPerfect": false,
                         "planeDistance": 100.0,
                         "Render In Scene View": true,
@@ -383,7 +383,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 0.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ]
@@ -488,7 +489,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 1.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -562,7 +564,7 @@
                                     {
                                         "fieldName": "targetScene",
                                         "fieldType": 17,
-                                        "stringValue": "wizardroom"
+                                        "stringValue": ""
                                     }
                                 ]
                             }
@@ -614,11 +616,11 @@
                             "y": 0.5
                         },
                         "anchoredPosition": {
-                            "x": 478.0,
-                            "y": -138.0
+                            "x": 481.0,
+                            "y": -115.0
                         },
                         "sizeDelta": {
-                            "x": -470.0,
+                            "x": -679.0,
                             "y": 110.0
                         },
                         "sortOrder": 1
@@ -636,7 +638,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 0.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -710,7 +713,7 @@
                                     {
                                         "fieldName": "targetScene",
                                         "fieldType": 17,
-                                        "stringValue": "settings"
+                                        "stringValue": ""
                                     }
                                 ]
                             }
@@ -762,11 +765,11 @@
                             "y": 0.5
                         },
                         "anchoredPosition": {
-                            "x": 477.0,
-                            "y": -298.0
+                            "x": 480.0,
+                            "y": -280.0
                         },
                         "sizeDelta": {
-                            "x": -469.0,
+                            "x": -678.0,
                             "y": 110.0
                         },
                         "sortOrder": 1
@@ -784,7 +787,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 0.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],
@@ -857,7 +861,8 @@
                                     },
                                     {
                                         "fieldName": "targetScene",
-                                        "fieldType": 17
+                                        "fieldType": 17,
+                                        "stringValue": ""
                                     }
                                 ]
                             }
@@ -909,11 +914,11 @@
                             "y": 0.5
                         },
                         "anchoredPosition": {
-                            "x": 253.0,
-                            "y": -456.0
+                            "x": 260.0,
+                            "y": -440.0
                         },
                         "sizeDelta": {
-                            "x": -35.0,
+                            "x": -234.0,
                             "y": 106.0
                         },
                         "sortOrder": 1
@@ -931,7 +936,8 @@
                             "y": 1.0,
                             "z": 1.0,
                             "w": 0.0
-                        }
+                        },
+                        "layerID": 0
                     }
                 }
             ],

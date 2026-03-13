@@ -1,6 +1,6 @@
 {
     "guid": "1DE920E51EC26072",
-    "sourceFilePath": "../assets/Textures/Treasure_3/PhoneScreen_2.png",
+    "sourceFilePath": "assets/Textures/Treasure_3/PhoneScreen_2.png",
     "dependencies": [],
     "properties": {
         "compressionFormat": "BC1_UNORM",

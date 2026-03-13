@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ../assets/Textures/test.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\Textures\test.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\b4\88\B4887ADCE7134D9B
 Format: BC1_UNORM
 Mipmaps: Enabled

@@ -1,5 +1,5 @@
 Texture Compilation Started
-Source: ..\assets\3D Models\Treasures\Treasure_3.png
+Source: C:\Repos\GAM300\PanKek-GAM300\PanKek\assets\3D Models\Treasures\Treasure_3.png
 Output: C:\Repos\GAM300\PanKek-GAM300\PanKek\cache\Resources\texture\19\75\1975684A41D69CFE
 Format: BC1_UNORM
 Mipmaps: Enabled

@@ -1,0 +1,8 @@
+{
+    "guid": "ADA67AC589F47043",
+    "name": "Environment_L2_m5_palette.051",
+    "comments": "",
+    "type": "Material",
+    "virtualPath": [],
+    "links": []
+}
